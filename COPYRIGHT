@@ -1,0 +1,97 @@
+HGT Calculator
+Copyright (c) 2016 Sabrina Ellenberger
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+******************************************************************
+******************************************************************
+******************************************************************
+
+This distribution includes the following code libraries/external tools.
+These are distributed according to the licensing terms governing each
+library:
+
+
+******************************************************************
+
+Clustal W2
+
+Clustal 2.1 is released under the GNU Lesser GPL.
+
+
+******************************************************************
+
+InterProScan 5 (REST) web service Perl client using L<LWP>.
+
+Copyright 2012-2014 EMBL - European Bioinformatics Institute
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+******************************************************************
+
+UniProt JAPI
+
+All software is under the Apache License, version 2.
+
+We make no warranties regarding the correctness of the data, and disclaim
+liability for damages resulting from its use. We cannot provide unrestricted
+permission regarding the use of the data, as some data may be covered by
+patents or other rights. 
+
+
+******************************************************************
+******************************************************************
+******************************************************************
+
+This software uses the following databases. These are used according to
+the licensing terms governing each database:
+
+
+******************************************************************
+
+InterPro - Integrated Resource Of Protein Domains And Functional Sites.
+
+Copyright (C) 2001 The InterPro Consortium. This manual and the
+accompanying database may be copied and redistributed freely, without
+advance permission, provided that this Copyright statement is reproduced
+with each copy.
+
+
+******************************************************************
+
+UniProt
+
+We have chosen to apply the Creative Commons Attribution-NoDerivs License
+to all copyrightable parts of our databases. This means that you are free
+to copy, distribute, display and make commercial use of these databases in
+all legislations, provided you give us credit. However, if you intend to
+distribute a modified version of one of our databases, you must ask us for
+permission first.
+
+We make no warranties regarding the correctness of the data, and disclaim
+liability for damages resulting from its use. We cannot provide unrestricted
+permission regarding the use of the data, as some data may be covered by
+patents or other rights.
