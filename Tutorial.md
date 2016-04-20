@@ -26,20 +26,19 @@ How to create a new workspace
 
 Click on the menu item File > New and choose a directory for creating a new workspace. Enter the name of the start file and
 click on “Create workspace”. Please note: The name of the start file needs to start with “Start_” and ends with “.txt” !  
--> "Start_Tutorial.txt"
+&#10141; "Start_Tutorial.txt"
 
 This creates the following workspace architecture:  
-workspace\Data\  
-            * \Download  
-            * \Blast  
-            *	\DownloadLists  
-            * \Fasta  
-            * \Genes  
-            * \Input  
-            * \Log  
-            * \Newick  
-            * \Output  
-            * \UniProt  
+workspace\Data\Download  
+  * \Blast &#10141; results of the BLAST runs  
+  * \DownloadLists &#10141; lists with sequence identifiers of the data sets  
+  * \Fasta &#10141; FASTA files as input for ClustalW (Neighbor Joining)  
+  * \Genes &#10141; downloaded nucleotide sequences  
+  * \Input &#10141; start file of the workspace, look up files for average GC content and taxonomic lineages, input files for HGT Calculator  
+  * \Log &#10141; reply log of HGT Calculator 
+  * \Newick &#10141; Neighbor Joining trees in newick format  
+  * \Output &#10141; results of HGT Calculator  
+  * \UniProt &#10141; downloaded amino acid sequences  
 
 and it creates a new start file template, where you need to add your information:
 
@@ -50,7 +49,7 @@ Protein abbreviations >
 Prokaryotic organisms >   
 Eukaryotic organisms >  
 
--> our example start file:
+&#10141; our example start file:
 
 Name of the data set > Tutorial  
 Transfer from > Bacteria  
@@ -63,39 +62,45 @@ How to open a workspace
 -----------------------
 
 Click on the menu item File > Open and choose a start file (Start_Tutorial.txt) from the Input directory for opening a workspace.  
-This opens the selected start file and the HGT Downloader window of the HGT Calculator.  
-Here, you need to enter a protein name (Isocitrate dehydrogenase), a suitable protein abbreviation (between two and four letters, ICDH) and
-to check the check box “Eukaryotic” to start with the search for eukaryotic sequences.
+This opens the selected start file and the HGT Downloader window of HGT Calculator.  
+Here, you need to enter a protein name ("Isocitrate dehydrogenase"), a suitable protein abbreviation (between two and four letters, "ICDH") and to check the check box “Eukaryotic” to start with the search for eukaryotic sequences.
 
 How to search for sequences with HGT Downloader
 -----------------------------------------------
 
-Before you can start to look for HGT events with the HGT Calculator you will need a data set.  
-You can prepare your data set with the help of HGT Downloader, a stand alone application of HGT Calculator.  
+Before you can start to look for HGT events with HGT Calculator you will need a data set.  
+You can prepare your data set with the help of HGT Downloader, a stand-alone application of HGT Calculator.  
 HGT Downloader offers three possibilities to search for sequences:
 
 1. Search > By UniProt ID  
 2. Search > By KEGG Orthology ID  
 3. Search > By Text Query
 
-We start with a KEGG Orthology ID search. Click on the menu item Search > By KEGG Orthology ID and enter "K00031", the KEGG Orthology ID
-for isocitrate dehydrogenases.  
+We start with a KEGG Orthology ID search. Click on the menu item Search > By KEGG Orthology ID and enter "K00031", the KEGG Orthology ID for isocitrate dehydrogenases.  
 
-The result is a list with all sequences found for the organisms listed in the start file with the exception of _Strigomona culicis_ and 
-_Trypanosoma rangeli_ which can not be found in KEGG.
+The result is a list with all sequences found for the eukaryotic organisms listed in the start file with the exception of _Strigomona culicis_ and _Trypanosoma rangeli_ which can not be found in KEGG.
 
 Select the sequences you want to add to your data set by ticking the boxes under "Selected". It should be nine sequences.  
 
-Now, we need sequences for the last two organisms. For this, we go to the tab "Selection of organisms" and delete the ticks from the check
-boxes of the organisms we already added to our data set. We only keep "Strigomonas" and "Trypanosoma".
+Now, we need sequences for the last two organisms. For this, we go to the tab "Selection of organisms" and delete the ticks from the check boxes of the organisms we already added to our data set. We only keep "Strigomonas" and "Trypanosoma".
 
 Click on the menu item Search > By Text Query and enter "all" to search for all isocitrate dehydrogenases of Stigomonas and Trypanosoma in the UniProt database.
 
-Select the sequences you want to add to your data set by ticking the boxes under "Selected". It should be three sequences.
+Select the sequences you want to add to your data set by ticking the boxes under "Selected". It should be three additional sequences.
 
-You can save all eukaryotic sequences from the two search steps (it should be twelve) by clicking on the first cell of the results table which is labeled with "ICDH | euk".
+You can save all eukaryotic sequences from the two search steps (it should be 12) by clicking on the first cell of the results table which is labeled with "ICDH | euk".
 
-After this, you can find your eukaryotic data set in workspace\Data\Download\DownloadLists\DownloadLists_Tutorial\DownloadList_ICDH.txt.
+After this, you can find your eukaryotic data set in   workspace\Data\Download\DownloadLists\DownloadLists_Tutorial\DownloadList_ICDH.txt.
+
+In the next step, we repeat this search for creating a data set of prokaryotic sequences. For this, you need to check the check box “Prokaryotic” in the HGT Downloader window. Again, we start with a KEGG Orthology ID search. Click on the menu item Search > By KEGG Orthology ID and enter "K00031", the KEGG Orthology ID for isocitrate dehydrogenases.
+
+The result is a list with all sequences found for the prokaryotic organisms listed in the start file. Select the sequences you want to add to your data set by ticking the boxes under "Selected". It should be 16 sequences.
+
+You can save all prokaryotic sequences from the search by clicking on the first cell of the results table which is labeled with "ICDH | prok" now.
+
+After this, you can find your prokaryotic data set in workspace\Data\Download\DownloadLists\DownloadLists_Tutorial\DownloadList_ICDH_prok.txt.
+
+
 
 [HGT Calculator paper1]: http://zs.thulb.uni-jena.de/servlets/MCRFileNodeServlet/jportal_derivate_00245407/2016ECR0310_Ellenberger%20etal.pdf
 [japi]: http://www.ebi.ac.uk/uniprot/japi/
