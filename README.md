@@ -49,6 +49,6 @@ and copying the unpacked JARs from uniprot-japi-client\lib into the directory HG
 [HGT Calculator paper1]: http://zs.thulb.uni-jena.de/servlets/MCRFileNodeServlet/jportal_derivate_00245407/2016ECR0310_Ellenberger%20etal.pdf
 [GPLv3 license]: http://www.gnu.org/licenses/gpl-3.0.html
 [Manual]: https://github.com/SabrinaEllenberger/HGT-Calculator/Manual.pdf
-[Tutorial]: https://github.com/SabrinaEllenberger/HGT-Calculator/Tutorial.pdf
+[Tutorial]: https://github.com/SabrinaEllenberger/HGT-Calculator/Tutorial.md
 [japi]: http://www.ebi.ac.uk/uniprot/japi/
 [Java]: http://java.com/de/download/
