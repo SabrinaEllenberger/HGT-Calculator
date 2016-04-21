@@ -1,0 +1,251 @@
+Eval (All, Archaea, Bacteria, Eukaryota, One euk Organism, Good scores, Alien index, Donor):	250	0	240	10	1	1	200.0	Proteobacteria
+S9UPN9	S9UPN9_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Strigomonas culicis	Eukaryota	421	100.0	2152	0.0	100.0
+S9WIC8	S9WIC8_9TRYP	TREMBL	 (Isocitrate dehydrogenase) 	Angomonas deanei	Eukaryota	419	69.5	1526	0.0	99.7
+A0A080KJ85	A0A080KJ85_9GAMM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gilliamella apicola SCGC AB-598-I20	Bacteria	420	68.1	1521	0.0	99.7
+A0A0H3FYQ2	A0A0H3FYQ2_ZYMMA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Zymomonas mobilis subsp. mobilis (strain ATCC 10988 / DSM 424 / LMG 404 / NCIMB 8938 / NRRL B-806 / ZM1)	Bacteria	420	66.9	1516	0.0	99.7
+Q5NQ37	Q5NQ37_ZYMMO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4)	Bacteria	420	66.9	1515	0.0	99.7
+F8ERZ9	F8ERZ9_ZYMMT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Zymomonas mobilis subsp. pomaceae (strain ATCC 29192 / JCM 10191 / NBRC 13757 / NCIMB 11200 / NRRL B-4491)	Bacteria	420	66.0	1494	0.0	99.7
+A0A080KJI4	A0A080KJI4_9GAMM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gilliamella apicola SCGC AB-598-B02	Bacteria	420	66.0	1490	0.0	99.7
+A0A0N1PEZ7	A0A0N1PEZ7_LEPSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leptomonas seymouri	Eukaryota	425	65.8	1485	0.0	99.2
+X2H7F6	X2H7F6_9GAMM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gilliamella apicola	Bacteria	420	66.0	1478	0.0	99.7
+A0A0M9G2I7	A0A0M9G2I7_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leptomonas pyrrhocoris	Eukaryota	425	65.6	1473	0.0	99.2
+K6AM59	K6AM59_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides goldsteinii CL02T12C30	Bacteria	419	67.4	1470	0.0	98.3
+S0GK54	S0GK54_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides goldsteinii dnLKV18	Bacteria	419	67.4	1469	0.0	98.3
+A0A0B2JFR6	A0A0B2JFR6_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Coprobacter secundus	Bacteria	419	65.5	1464	0.0	99.0
+R5MQB3	R5MQB3_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. CAG:1076	Bacteria	419	66.4	1463	0.0	99.0
+A0A0J6CFY3	A0A0J6CFY3_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides goldsteinii	Bacteria	419	66.9	1463	0.0	98.3
+A0A0F5J8J0	A0A0F5J8J0_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides goldsteinii DSM 19448 = WAL 12034	Bacteria	420	66.9	1463	0.0	98.3
+R6NRI6	R6NRI6_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. CAG:443	Bacteria	419	66.4	1461	0.0	99.0
+A0A0F5IV08	A0A0F5IV08_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides gordonii MS-1	Bacteria	419	66.7	1461	0.0	98.3
+A4I994	A4I994_LEIIN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania infantum	Eukaryota	425	65.3	1461	0.0	99.2
+E9BPK6	E9BPK6_LEIDB	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania donovani (strain BPK282A1)	Eukaryota	425	65.3	1461	0.0	99.2
+R5IFM8	R5IFM8_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tannerella sp. CAG:118	Bacteria	419	65.2	1460	0.0	99.0
+R7A2L4	R7A2L4_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. CAG:875	Bacteria	421	65.4	1454	0.0	99.5
+A0A0F5J0J9	A0A0F5J0J9_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides sp. HGS0025	Bacteria	419	66.2	1452	0.0	98.3
+R5DF17	R5DF17_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides johnsonii CAG:246	Bacteria	419	65.9	1450	0.0	99.0
+K5Z882	K5Z882_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides johnsonii CL02T12C29	Bacteria	419	65.7	1449	0.0	99.0
+R6CCW9	R6CCW9_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides coprocola CAG:162	Bacteria	419	66.2	1449	0.0	99.0
+B3JMW5	B3JMW5_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides coprocola DSM 17136	Bacteria	419	65.9	1447	0.0	99.0
+K5ZFA3	K5ZFA3_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides merdae CL03T12C32	Bacteria	419	65.9	1447	0.0	98.3
+Q4Q3T2	Q4Q3T2_LEIMA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania major	Eukaryota	425	64.8	1443	0.0	99.2
+R6RZ00	R6RZ00_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides coprophilus CAG:333	Bacteria	420	66.3	1442	0.0	98.5
+R5V7D9	R5V7D9_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides plebeius CAG:211	Bacteria	420	65.7	1442	0.0	99.0
+B5CYP1	B5CYP1_BACPM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides plebeius (strain DSM 17135 / JCM 12973 / M2)	Bacteria	423	65.7	1442	0.0	99.0
+S0F592	S0F592_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides coprophilus DSM 18228 = JCM 13818	Bacteria	420	66.3	1441	0.0	98.5
+A4HLW5	A4HLW5_LEIBR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania braziliensis	Eukaryota	425	64.1	1440	0.0	99.2
+E9B494	E9B494_LEIMU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania mexicana (strain MHOM/GT/2001/U1103)	Eukaryota	425	64.4	1438	0.0	99.2
+G9S0Y0	G9S0Y0_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tannerella sp. 6_1_58FAA_CT1	Bacteria	419	63.8	1435	0.0	99.0
+A7AGM5	A7AGM5_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides merdae ATCC 43184	Bacteria	419	65.5	1435	0.0	98.3
+U5CKQ9	U5CKQ9_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Coprobacter fastidiosus NSB1	Bacteria	419	63.8	1435	0.0	99.0
+A0A088SIA7	A0A088SIA7_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania panamensis	Eukaryota	425	63.9	1433	0.0	99.2
+R7DM09	R7DM09_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tannerella sp. CAG:51	Bacteria	419	63.8	1432	0.0	99.0
+R6Y829	R6Y829_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. CAG:714	Bacteria	421	65.1	1429	0.0	99.2
+A0A069SFD4	A0A069SFD4_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides distasonis str. 3776 Po2 i	Bacteria	425	65.0	1428	0.0	98.3
+R6ILK1	R6ILK1_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides sp. CAG:2	Bacteria	425	65.0	1428	0.0	98.3
+D7IQY3	D7IQY3_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 3_1_19	Bacteria	425	65.0	1428	0.0	98.3
+D0TCB6	D0TCB6_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 2_1_33B	Bacteria	425	65.0	1428	0.0	98.3
+A0A078SZS2	A0A078SZS2_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides distasonis str. 3999B T(B) 4	Bacteria	425	65.0	1428	0.0	98.3
+A0A0J9DAX8	A0A0J9DAX8_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides sp. D26	Bacteria	425	65.0	1428	0.0	98.3
+K6AM38	K6AM38_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides sp. D25	Bacteria	425	65.0	1428	0.0	98.3
+A0A073IAW1	A0A073IAW1_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Porphyromonas sp. 31_2	Bacteria	425	65.0	1428	0.0	98.3
+K6A3B3	K6A3B3_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides distasonis CL03T12C09	Bacteria	425	65.0	1428	0.0	98.3
+A6LAX7	A6LAX7_PARD8	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / NCTC 11152)	Bacteria	425	65.0	1427	0.0	98.3
+C7X827	C7X827_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parabacteroides sp. D13	Bacteria	425	64.7	1421	0.0	98.3
+R5TZ55	R5TZ55_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. CAG:702	Bacteria	422	64.3	1420	0.0	99.0
+E1YVB5	E1YVB5_9PORP	TREMBL	 (Isocitrate dehydrogenase, NADP-dependent) (EC 1.1.1.4) 	Parabacteroides sp. 20_3	Bacteria	425	64.7	1420	0.0	98.3
+K6BZM2	K6BZM2_9PORP	TREMBL	 (Isocitrate dehydrogenase, NADP-dependent) 	Parabacteroides distasonis CL09T03C24	Bacteria	425	64.7	1420	0.0	98.3
+G5H525	G5H525_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alistipes indistinctus YIT 12060	Bacteria	420	66.0	1419	0.0	98.3
+F0R4N1	F0R4N1_BACSH	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides salanitronis (strain DSM 18170 / JCM 13567 / BL78)	Bacteria	422	63.8	1418	0.0	99.0
+R7KMD1	R7KMD1_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides thetaiotaomicron CAG:40	Bacteria	396	64.4	1386	0.0	98.5
+Q8A615	Q8A615_BACTN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482)	Bacteria	396	64.4	1386	0.0	98.5
+R9H2N0	R9H2N0_BACT4	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides thetaiotaomicron dnLKV9	Bacteria	396	64.4	1386	0.0	98.5
+C6IMZ8	C6IMZ8_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 1_1_6	Bacteria	396	64.4	1386	0.0	98.5
+A0A0P0F782	A0A0P0F782_BACT4	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides thetaiotaomicron	Bacteria	396	64.4	1386	0.0	98.5
+D7IBR7	D7IBR7_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 1_1_14	Bacteria	399	64.4	1386	0.0	98.5
+A0A0N8PQ08	A0A0N8PQ08_9BACL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alicyclobacillus ferrooxydans	Bacteria	431	63.0	1389	0.0	99.5
+D6D8N0	D6D8N0_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides xylanisolvens XB1A	Bacteria	398	64.4	1385	0.0	98.5
+C3QWW1	C3QWW1_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 2_2_4	Bacteria	398	64.4	1385	0.0	98.5
+D7K665	D7K665_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 3_1_23	Bacteria	398	64.4	1383	0.0	98.5
+D5XD94	D5XD94_THEPJ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Thermincola potens (strain JR)	Bacteria	431	63.0	1386	0.0	99.5
+D7IYB6	D7IYB6_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. D22	Bacteria	398	64.4	1382	0.0	98.5
+D0TQX9	D0TQX9_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 2_1_22	Bacteria	398	64.2	1381	0.0	98.5
+R5FNT1	R5FNT1_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prevotella sp. CAG:924	Bacteria	391	63.8	1380	0.0	99.0
+A0A0L6VZ95	A0A0L6VZ95_9FIRM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Thermincola ferriacetica	Bacteria	431	62.8	1384	0.0	99.5
+I9H9U8	I9H9U8_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides salyersiae CL02T12C01	Bacteria	396	64.2	1379	0.0	98.5
+R5JF55	R5JF55_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. CAG:189	Bacteria	396	64.2	1379	0.0	98.5
+D1PY80	D1PY80_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prevotella bergensis DSM 17361	Bacteria	393	63.3	1377	0.0	99.0
+R5UP33	R5UP33_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides caccae CAG:21	Bacteria	396	64.2	1377	0.0	98.5
+I9PJB0	I9PJB0_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides caccae CL03T12C61	Bacteria	396	64.2	1377	0.0	98.5
+A5ZJS0	A5ZJS0_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides caccae ATCC 43185	Bacteria	396	64.2	1377	0.0	98.5
+R6UT69	R6UT69_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides faecis CAG:32	Bacteria	396	64.4	1377	0.0	98.5
+A7LZN5	A7LZN5_BACO1	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus (strain ATCC 8483 / DSM 1896 / JCM 5824 / NCTC 11153)	Bacteria	398	64.2	1377	0.0	98.5
+D4WP10	D4WP10_BACOV	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus SD CMC 3f	Bacteria	398	64.2	1377	0.0	98.5
+D5WSS4	D5WSS4_KYRT2	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Kyrpidia tusciae (strain DSM 2912 / NBRC 15312 / T2) (Bacillus tusciae)	Bacteria	432	63.2	1379	0.0	98.8
+C8WRU4	C8WRU4_ALIAD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC 27009 / DSM 446 / JCM 5260 / NBRC 15652 / NCIMB 11725 / NRRL B-14509 / 104-1A) (Bacillus acidocaldarius)	Bacteria	432	63.0	1379	0.0	99.5
+A0A0J9FJ25	A0A0J9FJ25_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 3_1_13	Bacteria	393	64.4	1375	0.0	97.3
+F7M156	F7M156_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 1_1_30	Bacteria	393	64.4	1375	0.0	97.3
+I9URF3	I9URF3_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides xylanisolvens CL03T12C04	Bacteria	393	64.4	1375	0.0	97.3
+I9SVK4	I9SVK4_BACOV	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus CL02T12C04	Bacteria	391	64.1	1373	0.0	97.3
+A0A120A8N3	A0A120A8N3_BACOV	TREMBL	 (Isocitrate dehydrogenase (NADP)) (EC 1.1.1.4) 	Bacteroides ovatus	Bacteria	391	64.1	1373	0.0	97.3
+W6PSF2	W6PSF2_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides xylanisolvens SD CC 1b	Bacteria	393	64.1	1373	0.0	97.3
+C3QFT9	C3QFT9_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. D1	Bacteria	393	64.1	1373	0.0	97.3
+K5D7U8	K5D7U8_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides finegoldii CL09T03C10	Bacteria	396	64.4	1373	0.0	98.5
+A0A0E2RYH1	A0A0E2RYH1_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3397 T14	Bacteria	396	65.1	1373	0.0	97.3
+F8II47	F8II47_ALIAT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alicyclobacillus acidocaldarius (strain Tc-4-1) (Bacillus acidocaldarius)	Bacteria	432	62.8	1376	0.0	99.5
+A0A0V0PST3	A0A0V0PST3_9BACL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alicyclobacillus tengchongensis	Bacteria	432	62.5	1376	0.0	99.5
+J9HDD3	J9HDD3_9BACL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alicyclobacillus hesperidum URH17-3-68	Bacteria	432	62.5	1376	0.0	99.5
+F7LG47	F7LG47_BACOV	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus 3_8_47FAA	Bacteria	393	64.1	1372	0.0	97.3
+I8XXD9	I8XXD9_BACOV	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus CL03T12C18	Bacteria	393	64.1	1372	0.0	97.3
+A0A0I9S4T6	A0A0I9S4T6_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis	Bacteria	396	65.3	1372	0.0	98.3
+A0A016E3R0	A0A016E3R0_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3976T8	Bacteria	396	64.9	1371	0.0	97.3
+R5RRD4	R5RRD4_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis CAG:558	Bacteria	396	65.3	1371	0.0	98.3
+A0A015V4F3	A0A015V4F3_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. DS-208	Bacteria	396	64.9	1371	0.0	97.3
+K1FRA5	K1FRA5_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis HMW 615	Bacteria	396	64.9	1371	0.0	97.3
+A0A0E2T3V1	A0A0E2T3V1_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3783N1-6	Bacteria	396	64.9	1371	0.0	97.3
+C9KVK2	C9KVK2_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides finegoldii DSM 17565	Bacteria	409	64.2	1372	0.0	98.5
+E1WWA5	E1WWA5_BACF6	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis (strain 638R)	Bacteria	396	64.9	1370	0.0	97.3
+A0A0E2S150	A0A0E2S150_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3774 T13	Bacteria	396	64.9	1370	0.0	97.3
+A0A016EB54	A0A016EB54_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 1007-1-F #3	Bacteria	396	64.9	1370	0.0	97.3
+A0A0E2A9R9	A0A0E2A9R9_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis CL03T00C08	Bacteria	396	64.9	1370	0.0	97.3
+A0A017NAU5	A0A017NAU5_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. S6L5	Bacteria	396	64.9	1370	0.0	97.3
+A0A015S109	A0A015S109_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3397 T10	Bacteria	396	64.9	1370	0.0	97.3
+A0A017N306	A0A017N306_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. S23L17	Bacteria	396	64.9	1370	0.0	97.3
+F7LSN1	F7LSN1_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 2_1_56FAA	Bacteria	396	64.9	1370	0.0	97.3
+A0A0M5ILH7	A0A0M5ILH7_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	uncultured bacterium 39k17	Bacteria	396	64.9	1370	0.0	97.3
+A0A0K6BYK9	A0A0K6BYK9_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis	Bacteria	396	64.9	1370	0.0	97.3
+A0A015PG39	A0A015PG39_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3397 T10	Bacteria	393	63.9	1369	0.0	97.3
+R6KAG8	R6KAG8_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus CAG:22	Bacteria	393	64.1	1369	0.0	97.3
+A0A0P0G261	A0A0P0G261_BACOV	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus	Bacteria	393	64.1	1369	0.0	97.3
+E4W005	E4W005_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis 3_1_12	Bacteria	396	65.3	1369	0.0	98.3
+K1FLH3	K1FLH3_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis HMW 616	Bacteria	396	65.3	1369	0.0	98.3
+A0A015TR76	A0A015TR76_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3988T(B)14	Bacteria	396	64.9	1369	0.0	97.3
+R6ZN89	R6ZN89_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis CAG:47	Bacteria	396	64.9	1369	0.0	97.3
+K1GAM5	K1GAM5_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis HMW 610	Bacteria	396	65.3	1369	0.0	98.3
+A0A0I9RYI6	A0A0I9RYI6_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis	Bacteria	396	65.3	1369	0.0	98.3
+A0A015RWV5	A0A015RWV5_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3986 N(B)19	Bacteria	396	64.9	1369	0.0	97.3
+E5CEL4	E5CEL4_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. D2	Bacteria	391	63.9	1368	0.0	97.3
+I9VJY9	I9VJY9_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis CL05T12C13	Bacteria	396	64.9	1368	0.0	97.3
+A0A0E2AN33	A0A0E2AN33_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis CL07T12C05	Bacteria	396	64.9	1368	0.0	97.3
+R6RZY3	R6RZY3_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides finegoldii CAG:203	Bacteria	396	63.9	1367	0.0	98.5
+A0A015X647	A0A015X647_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. S36L11	Bacteria	396	64.6	1367	0.0	97.3
+A0A0E2SQD1	A0A0E2SQD1_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3-F-2 #6	Bacteria	396	64.6	1367	0.0	97.3
+B7DNT0	B7DNT0_9BACL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alicyclobacillus acidocaldarius LAA1	Bacteria	432	62.5	1370	0.0	99.5
+A0A078PMC7	A0A078PMC7_BACOV	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides ovatus str. 3725 D1 iv	Bacteria	393	63.9	1366	0.0	97.3
+A0A078Q2D8	A0A078Q2D8_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3725 D9 ii	Bacteria	393	63.9	1366	0.0	97.3
+D1JUR5	D1JUR5_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. 2_1_16	Bacteria	396	64.9	1366	0.0	97.3
+Q5L9J7	Q5L9J7_BACFN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / JCM 11019 / NCTC 9343)	Bacteria	396	64.9	1366	0.0	97.3
+A0A015YFL7	A0A015YFL7_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 2-F-2 #4	Bacteria	396	64.6	1366	0.0	97.3
+A0A081U6Y4	A0A081U6Y4_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis	Bacteria	396	65.1	1366	0.0	98.3
+Q64PT5	Q64PT5_BACFR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis (strain YCH46)	Bacteria	396	64.9	1365	0.0	97.3
+A0A015TXF1	A0A015TXF1_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3998T(B)3	Bacteria	396	64.6	1365	0.0	97.3
+A0A015Y5E3	A0A015Y5E3_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. J-143-4	Bacteria	396	64.6	1365	0.0	97.3
+A0A015TFC7	A0A015TFC7_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3996 N(B) 6	Bacteria	396	64.6	1365	0.0	97.3
+A0A098C0L2	A0A098C0L2_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Fermentimonas caenicola	Bacteria	418	61.9	1367	0.0	99.0
+A0A0W8EL81	A0A0W8EL81_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Cytophagales bacterium MC1A	Bacteria	421	62.0	1366	0.0	100.0
+A0A016H4H4	A0A016H4H4_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 20793-3	Bacteria	396	64.6	1363	0.0	97.3
+A0A016CHT9	A0A016CHT9_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. Korea 419	Bacteria	396	64.6	1363	0.0	97.3
+A0A015U4L2	A0A015U4L2_BACFG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides fragilis str. 3986 T(B)9	Bacteria	396	64.4	1361	0.0	97.3
+T0C367	T0C367_9BACL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alicyclobacillus acidoterrestris ATCC 49025	Bacteria	431	62.5	1363	0.0	99.5
+F8NAS7	F8NAS7_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prevotella multisaccharivorax DSM 17128	Bacteria	392	64.3	1359	0.0	99.0
+A0A094K9K6	A0A094K9K6_9BACL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Thermoactinomyces sp. Gus2-1	Bacteria	431	62.1	1361	0.0	99.5
+U6RTD8	U6RTD8_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. HPS0048	Bacteria	398	63.7	1357	0.0	98.5
+W1SH39	W1SH39_9BACI	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Bacillus vireti LMG 21834	Bacteria	422	61.3	1359	0.0	100.0
+W4P5P7	W4P5P7_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides pyogenes JCM 6292	Bacteria	396	63.6	1356	0.0	98.3
+R4FC14	R4FC14_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus flavithermus NBRC 109594	Bacteria	423	61.0	1357	0.0	100.0
+A0A0D0QA04	A0A0D0QA04_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus thermarum	Bacteria	423	60.6	1356	0.0	100.0
+I8XNS5	I8XNS5_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides nordii CL02T12C05	Bacteria	412	63.7	1354	0.0	98.5
+M8D3Y8	M8D3Y8_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus flavithermus AK1	Bacteria	423	60.6	1355	0.0	100.0
+M5R9P5	M5R9P5_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus sp. DT3-1	Bacteria	423	60.6	1355	0.0	100.0
+A0A0A2SK66	A0A0A2SK66_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus gonensis	Bacteria	424	60.6	1355	0.0	100.0
+A0A0A3JWQ8	A0A0A3JWQ8_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus massiliensis 4400831 = CIP 108448 = CCUG 49529	Bacteria	421	61.0	1354	0.0	100.0
+A0A0D0HUZ5	A0A0D0HUZ5_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus ayderensis	Bacteria	423	60.6	1354	0.0	100.0
+A0A077J831	A0A077J831_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus sp. X1(2014)	Bacteria	422	61.0	1353	0.0	100.0
+A0A0Q1AYD2	A0A0Q1AYD2_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. PA-3	Bacteria	423	60.6	1353	0.0	99.5
+S6A3G2	S6A3G2_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. JF8	Bacteria	423	60.9	1353	0.0	99.5
+A4IRQ0	A4IRQ0_GEOTN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus thermodenitrificans (strain NG80-2)	Bacteria	423	60.6	1353	0.0	99.5
+B7GGT7	B7GGT7_ANOFW	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus flavithermus (strain DSM 21510 / WK1)	Bacteria	429	60.8	1353	0.0	100.0
+A0A0Q9Y0K5	A0A0Q9Y0K5_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Virgibacillus soli	Bacteria	420	59.8	1352	0.0	99.7
+K6CXX4	K6CXX4_9BACI	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Bacillus bataviensis LMG 21833	Bacteria	422	61.3	1352	0.0	100.0
+A0A023DDC2	A0A023DDC2_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus caldoxylosilyticus NBRC 107762	Bacteria	423	60.4	1352	0.0	99.5
+W8F0T5	W8F0T5_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hymenobacter swuensis DY53	Bacteria	420	61.9	1351	0.0	99.0
+A0A0S8KZG5	A0A0S8KZG5_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. SM1_62	Bacteria	421	61.0	1351	0.0	100.0
+A0A0S8K4K3	A0A0S8K4K3_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. SM23_62	Bacteria	421	61.0	1351	0.0	100.0
+B7J4G7	B7J4G7_ACIF2	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) (Ferrobacillus ferrooxidans (strain ATCC 23270))	Bacteria	428	64.1	1351	0.0	99.5
+B5EMG1	B5EMG1_ACIF5	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Acidithiobacillus ferrooxidans (strain ATCC 53993) (Leptospirillum ferrooxidans (ATCC 53993))	Bacteria	430	64.1	1351	0.0	99.5
+A0A0G3Y027	A0A0G3Y027_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. 12AMOR1	Bacteria	423	60.1	1350	0.0	99.5
+K9E212	K9E212_9BACE	TREMBL	 (Isocitrate dehydrogenase, NADP-dependent) 	Bacteroides oleiciplenus YIT 12058	Bacteria	382	65.4	1345	0.0	94.7
+A0A0K6GJ92	A0A0K6GJ92_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus suryakundensis	Bacteria	424	60.3	1349	0.0	100.0
+X5DYM6	X5DYM6_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Draconibacterium orientale	Bacteria	421	61.2	1348	0.0	99.2
+A0A0Q1DQW3	A0A0Q1DQW3_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. Sah69	Bacteria	423	60.4	1348	0.0	99.5
+A0A0K9HUV2	A0A0K9HUV2_GEOSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus stearothermophilus (Bacillus stearothermophilus)	Bacteria	423	60.4	1348	0.0	99.5
+A0A087LHQ6	A0A087LHQ6_GEOSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus stearothermophilus (Bacillus stearothermophilus)	Bacteria	423	60.4	1348	0.0	99.5
+B3C5P2	B3C5P2_9BACE	TREMBL	 (Dehydrogenase, isocitrate/isopropylmalate family) 	Bacteroides intestinalis DSM 17393	Bacteria	387	64.3	1344	0.0	97.8
+R5GG41	R5GG41_9BACT	TREMBL	 (Isocitrate dehydrogenase [NADP]) 	Prevotella sp. CAG:755	Bacteria	397	64.5	1345	0.0	96.9
+A0A0S8HMU7	A0A0S8HMU7_9BACE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroides sp. SM23_62_1	Bacteria	423	60.8	1347	0.0	100.0
+A0A0D0G1W7	A0A0D0G1W7_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus thermoamylovorans	Bacteria	424	61.1	1347	0.0	99.5
+A0A0A7LIX4	A0A0A7LIX4_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hymenobacter sp. DG25B	Bacteria	421	60.8	1346	0.0	100.0
+I3ECK4	I3ECK4_BACMT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus methanolicus MGA3	Bacteria	422	60.6	1346	0.0	100.0
+A0A0M4R8E1	A0A0M4R8E1_GEOTM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus thermoglucosidasius (Bacillus thermoglucosidasius)	Bacteria	423	60.4	1346	0.0	99.5
+A0A090J0V0	A0A090J0V0_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus thermoamylovorans	Bacteria	424	61.1	1346	0.0	99.5
+A0A0D0FS82	A0A0D0FS82_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus thermoamylovorans	Bacteria	424	61.1	1346	0.0	99.5
+A0A094JW63	A0A094JW63_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus sp. KU2-6(11)	Bacteria	424	60.8	1346	0.0	99.2
+A0A0W7YN69	A0A0W7YN69_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus sp. F5	Bacteria	420	60.0	1345	1.2E-180	99.7
+A0A060ULP7	A0A060ULP7_9PROT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Acidithiobacillus ferrivorans	Bacteria	430	63.9	1346	1.2E-180	99.5
+A0A0A0E365	A0A0A0E365_9BACI	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Bacillus niacini	Bacteria	422	61.0	1345	1.3E-180	100.0
+C5D655	C5D655_GEOSW	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. (strain WCH70)	Bacteria	424	60.1	1345	1.4E-180	99.5
+A0A0F6BJP8	A0A0F6BJP8_GEOS0	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. (strain Y4.1MC1)	Bacteria	424	60.4	1345	1.4E-180	99.5
+A0A0M1QIX4	A0A0M1QIX4_GEOTC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus thermoglucosidasius (strain C56-YS93)	Bacteria	424	60.4	1345	1.4E-180	99.5
+A0A0S7C778	A0A0S7C778_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacteroidales bacterium TBC1	Bacteria	424	62.6	1345	1.4E-180	99.0
+A0A074LLV1	A0A074LLV1_9BACL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tumebacillus flagellatus	Bacteria	429	61.3	1345	1.7E-180	99.5
+A0A0M0WFF5	A0A0M0WFF5_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus sp. FJAT-14745	Bacteria	420	60.2	1344	1.7E-180	99.7
+G0JKT3	G0JKT3_9PROT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Acidithiobacillus ferrivorans SS3	Bacteria	430	63.9	1345	1.7E-180	99.5
+A0A0M3RVR5	A0A0M3RVR5_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hymenobacter sp. DG25A	Bacteria	421	60.6	1344	1.8E-180	100.0
+Q5KWB6	Q5KWB6_GEOKA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus kaustophilus (strain HTA426)	Bacteria	423	60.1	1344	1.9E-180	99.5
+A0A063YRB8	A0A063YRB8_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. CAMR5420	Bacteria	423	60.1	1344	1.9E-180	99.5
+A0A093U2Q7	A0A093U2Q7_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus icigianus	Bacteria	423	60.1	1344	1.9E-180	99.5
+L8A1U1	L8A1U1_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. GHH01	Bacteria	423	60.1	1344	1.9E-180	99.5
+G8N4X2	G8N4X2_GEOTH	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus thermoleovorans CCB_US3_UF5	Bacteria	423	60.1	1344	1.9E-180	99.5
+A0A0E0TFD9	A0A0E0TFD9_GEOS2	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. (strain Y412MC52)	Bacteria	423	60.1	1344	1.9E-180	99.5
+A0A0K2H7I3	A0A0K2H7I3_GEOSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus stearothermophilus 10	Bacteria	423	60.1	1344	1.9E-180	99.5
+U2WMG1	U2WMG1_GEOKU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus kaustophilus GBlys	Bacteria	428	60.1	1344	2.3E-180	99.5
+A0A098KZ95	A0A098KZ95_GEOTH	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus thermoleovorans B23	Bacteria	428	60.1	1344	2.3E-180	99.5
+V6VH23	V6VH23_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. MAS1	Bacteria	428	60.1	1344	2.3E-180	99.5
+T0NKT2	T0NKT2_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. A8	Bacteria	428	60.1	1344	2.3E-180	99.5
+S7SUW0	S7SUW0_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. WSUCF1	Bacteria	428	60.1	1344	2.3E-180	99.5
+A0A076HUP6	A0A076HUP6_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hymenobacter sp. APR13	Bacteria	421	61.0	1343	2.5E-180	99.2
+F3PR19	F3PR19_9BACE	TREMBL	 (Isocitrate dehydrogenase domain protein) 	Bacteroides fluxus YIT 12057	Bacteria	382	65.1	1339	2.6E-180	94.5
+A0A0D8BRW0	A0A0D8BRW0_GEOKU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus kaustophilus	Bacteria	423	60.1	1343	2.7E-180	99.5
+A0A0J0V726	A0A0J0V726_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus sp. T6	Bacteria	423	60.1	1343	2.7E-180	99.5
+A0A0M2PKE8	A0A0M2PKE8_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus sp. SA1-12	Bacteria	423	61.2	1343	2.7E-180	99.0
+A0A0C5C637	A0A0C5C637_BACCO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus coagulans	Bacteria	424	60.6	1343	2.8E-180	99.5
+G2TPH0	G2TPH0_BACCO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus coagulans 36D1	Bacteria	424	60.6	1343	2.8E-180	99.5
+A0A0A3I2E1	A0A0A3I2E1_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus sinduriensis BLB-1 = JCM 15800	Bacteria	419	61.2	1342	3.3E-180	99.0
+I8VEP6	I8VEP6_9BACE	TREMBL	 (Isocitrate dehydrogenase, NADP-dependent) 	Bacteroides cellulosilyticus CL02T12C19	Bacteria	382	65.2	1338	3.7E-180	94.7
+A0A0P0G471	A0A0P0G471_9BACE	TREMBL	 (Isocitrate dehydrogenase [NADP]) (EC 1.1.1.4) 	Bacteroides cellulosilyticus	Bacteria	382	65.2	1338	3.7E-180	94.7
+A0A120A4I1	A0A120A4I1_9BACE	TREMBL	 (Isocitrate dehydrogenase (NADP)) (EC 1.1.1.4) 	Bacteroides cellulosilyticus	Bacteria	382	65.2	1338	3.7E-180	94.7
+F5L945	F5L945_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Caldalkalibacillus thermarum TA2.A1	Bacteria	433	61.0	1343	3.8E-180	99.5
+A0A0N0Y890	A0A0N0Y890_THEVU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Thermoactinomyces vulgaris	Bacteria	431	61.3	1342	5.1E-180	99.5
+M5JJ13	M5JJ13_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoxybacillus flavithermus TNO-09.006	Bacteria	425	60.5	1341	5.8E-180	100.0
+A0A0A3J877	A0A0A3J877_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus odysseyi 34hs-1 = NBRC 100172	Bacteria	420	59.7	1340	6.9E-180	99.0
+A0A078MH97	A0A078MH97_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus sp. 13S34_air	Bacteria	420	61.2	1340	6.9E-180	99.0
+A0A0M9DRB1	A0A0M9DRB1_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	bacterium 336/3	Bacteria]	421	60.6	1340	7.2E-180	100.0
+A0A0C2Y110	A0A0C2Y110_BACBA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus badius	Bacteria	422	59.9	1340	7.4E-180	99.5
+U2MNB8	U2MNB8_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prevotella pleuritidis F0068	Bacteria	393	62.1	1337	7.6E-180	99.0
+G9QQE5	G9QQE5_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus smithii 7_3_47FAA	Bacteria	423	60.6	1340	7.7E-180	99.5
+A0A0M9WWP2	A0A0M9WWP2_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus decisifrondis	Bacteria	420	60.0	1339	9.8E-180	99.7
+A0A0A3IKX8	A0A0A3IKX8_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus boronitolerans JCM 21713 = 10a = NBRC 103108	Bacteria	420	60.0	1339	9.8E-180	99.7
+A0A0A3I1V7	A0A0A3I1V7_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus manganicus DSM 26584	Bacteria	421	59.6	1339	1.0E-179	100.0
+A0A0U3SC72	A0A0U3SC72_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hymenobacter sp. DG5B	Bacteria	421	60.6	1339	1.0E-179	100.0
+A0A0K9H921	A0A0K9H921_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus sp. FJAT-27231	Bacteria	422	59.9	1339	1.1E-179	99.5
+A0A023CMV3	A0A023CMV3_GEOSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geobacillus stearothermophilus NUB3621	Bacteria	423	59.4	1339	1.1E-179	99.5
+A0A0B5X7Z0	A0A0B5X7Z0_BACCO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus coagulans DSM 1 = ATCC 7050	Bacteria	424	60.6	1339	1.1E-179	99.5
+F7Z0K1	F7Z0K1_BACC6	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus coagulans (strain 2-6)	Bacteria	424	60.6	1339	1.1E-179	99.5
+A0A0V8JKR2	A0A0V8JKR2_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus sp. SGD-V-76	Bacteria	428	60.6	1339	1.3E-179	99.5
+A0A0J6KJU9	A0A0J6KJU9_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus sp. LK3	Bacteria	420	59.8	1338	1.4E-179	99.7
+A0A0K9F6N2	A0A0K9F6N2_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus xylanilyticus	Bacteria	420	59.8	1338	1.4E-179	99.7
+A0A0M2SXL1	A0A0M2SXL1_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus sp. SA2-6	Bacteria	423	60.1	1338	1.5E-179	99.5
+A0A0H4P580	A0A0H4P580_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus smithii	Bacteria	423	60.6	1338	1.5E-179	99.5
+A0A0Q3WWW3	A0A0Q3WWW3_9BACI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bacillus shackletonii	Bacteria	423	60.6	1338	1.5E-179	99.5
+E2N9P8	E2N9P8_9BACE	TREMBL	 (Dehydrogenase, isocitrate/isopropylmalate family) 	Bacteroides cellulosilyticus DSM 14838	Bacteria	387	63.8	1333	2.5E-179	97.8
+W7RXM1	W7RXM1_LYSSH	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus sphaericus CBAM5	Bacteria	429	59.8	1337	2.7E-179	99.7
+B1HX11	B1HX11_LYSSC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lysinibacillus sphaericus (strain C3-41)	Bacteria	429	59.8	1337	2.7E-179	99.7

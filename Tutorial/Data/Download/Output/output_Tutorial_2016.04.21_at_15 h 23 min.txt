@@ -1,0 +1,149 @@
+Number of prokaryotic organisms: 17 | Number of eukaryotic organisms: 10 | Number of protein subtypes: 2
+File for first reading: C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Input\Input_Tutorial_first.txt
+File for second reading: C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Input\Input_Tutorial_second.txt
+Path to UniProt files: C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_TutUniProt
+Path to BLAST files: C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial
+Path to Gene files: C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Genes\Genes_Tutorial
+Path to Newick trees: C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Newick\Newick_Tutorial
+
+UniProtIDs (euk)
+        ICDH_1         ICDH_2         
+Tetr	               Q23K14         
+Para	               A0BPK2         
+Stri	S9UPN9         S9UPW7         
+Leis	Q4Q3T2         Q4QHI7         
+Tryp	               A0A061IWC2     
+Toxo	               Q5UCG0         
+Plas	               Q8I6T2         
+Sacc	               P21954         
+Arab	               Q9SLK0         
+Homo	               O75874         
+
+
+
+ICDH_1         ICDH_2         ICDH_3         
+Stre	                              Q9KZF3         
+Micr	                              C5C942         
+Aqui	O67480                                       
+Cyto	               Q11VR5                        
+Chlo	                              Q8KFH5         
+Syne	A0A0H3K5K5                                   
+Nost	P50214                                       
+Sino	               Q92PG6                        
+Neis	                              Q9JZS1         
+Vibr	                              Q9KSW5         
+Esch	P08200                                       
+Desu	Q72EU1                                       
+Heli	                              Q7VGX2         
+Ther	               Q9X0N2                        
+Dein	Q9RU54                                       
+Baci	P39126                                       
+Cand	                                             
+
+
+Length
+        ICDH_1         ICDH_2         
+Tetr	               427            
+Para	               423            
+Stri	421            434            
+Leis	425            435            
+Tryp	               435            
+Toxo	               594            
+Plas	               468            
+Sacc	               428            
+Arab	               416            
+Homo	               414            
+
+
+
+GeneIDs
+        ICDH_1                   ICDH_2                   
+Tetr	                         tet:TTHERM_00196200      
+Para	                         ptm:GSPATT00009194001    
+Stri	STCU_03837               STCU_03419               
+Leis	lma:LMJF_33_2550         lma:LMJF_10_0290         
+Tryp	                         TRSC58_06174             
+Toxo	                         tgo:TGME49_066760        
+Plas	                         pfa:PF13_0242            
+Sacc	                         sce:YDL066W              
+Arab	                         ath:AT1G54340            
+Homo	                         hsa:3417                 
+
+
+
+Domains
+        ICDH_1                                               ICDH_2                                   
+All 	| IPR001804 | IPR004439 | IPR019818 | IPR024084 |    | IPR004790 | IPR019818 | IPR024084 |    
+Tetr	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+Para	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+Stri	| IPR001804 | IPR004439 | IPR019818 | IPR024084 |    | IPR004790 | IPR019818 | IPR024084 |    
+Leis	| IPR001804 | IPR004439 | IPR019818 | IPR024084 |    | IPR004790 | IPR019818 | IPR024084 |    
+Tryp	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+Toxo	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+Plas	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+Sacc	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+Arab	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+Homo	                                                     | IPR004790 | IPR019818 | IPR024084 |    
+
+
+
+BLAST
+        ICDH_1                                                      ICDH_2                                                      
+Tetr	                                                            | Archaea: 0 | Bacteria: 11 | Eukaryota: 239 | AI: 0 |      
+Para	                                                            | Archaea: 0 | Bacteria: 0 | Eukaryota: 250 | AI: -200 |    
+Stri	| Archaea: 0 | Bacteria: 240 | Eukaryota: 10 | AI: 200 |    | Archaea: 0 | Bacteria: 15 | Eukaryota: 235 | AI: 0 |      
+Leis	| Archaea: 0 | Bacteria: 204 | Eukaryota: 46 | AI: 200 |    | Archaea: 0 | Bacteria: 31 | Eukaryota: 219 | AI: 0 |      
+Tryp	                                                            | Archaea: 0 | Bacteria: 22 | Eukaryota: 228 | AI: 0 |      
+Toxo	                                                            | Archaea: 0 | Bacteria: 12 | Eukaryota: 238 | AI: 0 |      
+Plas	                                                            | Archaea: 0 | Bacteria: 5 | Eukaryota: 245 | AI: 0 |       
+Sacc	                                                            | Archaea: 0 | Bacteria: 0 | Eukaryota: 250 | AI: 0 |       
+Arab	                                                            | Archaea: 0 | Bacteria: 0 | Eukaryota: 250 | AI: 0 |       
+Homo	                                                            | Archaea: 0 | Bacteria: 0 | Eukaryota: 250 | AI: -200 |    
+
+
+
+GC content
+        ICDH_1                                                                                    ICDH_2                                                                                    
+Tetr	                                                                                          | GC coding: 34.58 | GC 1st: 43.22 | GC 2nd: 34.35 | GC 3rd: 26.17 | CAI: 0.785 |         
+Para	                                                                                          | GC coding: 34.36 | GC 1st: 39.62 | GC 2nd: 35.38 | GC 3rd: 28.07 | CAI: 0.795 |         
+Stri	| GC coding: 67.14 | GC 1st: 64.22 | GC 2nd: 44.55 | GC 3rd: 92.65 | CAI: 0.859 |         | GC coding: 63.3 | GC 1st: 58.62 | GC 2nd: 38.39 | GC 3rd: 92.87 | CAI: 0.885 |          
+Leis	| GC coding: 59.94 | GC 1st: 59.15 | GC 2nd: 42.96 | GC 3rd: 77.7 | CAI: 0.705 |          | GC coding: 59.48 | GC 1st: 54.59 | GC 2nd: 38.07 | GC 3rd: 85.78 | CAI: 0.783 |         
+Tryp	                                                                                          | GC coding: 56.57 | GC 1st: 57.11 | GC 2nd: 40.37 | GC 3rd: 72.25 | CAI: 0.818 |         
+Toxo	                                                                                          | GC coding: 50.76 | GC 1st: 55.46 | GC 2nd: 42.02 | GC 3rd: 54.79 | CAI: 0.743 |         
+Plas	                                                                                          | GC coding: 28.71 | GC 1st: 40.3 | GC 2nd: 31.56 | GC 3rd: 14.29 | CAI: 0.791 |          
+Sacc	                                                                                          | GC coding: 42.5 | GC 1st: 45.45 | GC 2nd: 37.06 | GC 3rd: 44.99 | CAI: 0.79 |           
+Arab	                                                                                          | GC coding: 43.73 | GC 1st: 47.48 | GC 2nd: 39.57 | GC 3rd: 44.12 | CAI: 0.809 |         
+Homo	                                                                                          | GC coding: 44.5 | GC 1st: 49.88 | GC 2nd: 35.9 | GC 3rd: 47.71 | CAI: 0.764 |           
+
+
+
+Features
+        ICDH_1                           ICDH_2                           
+Tetr	                                 01000 | 00000 | 00000 | 00100    
+Para	                                 01000 | 00000 | 00000 | 00100    
+Stri	00111 | 11101 | 11110 | 10100    00000 | 00000 | 11110 | 00100    
+Leis	01111 | 11001 | 00100 | 10100    01000 | 00000 | 01110 | 00100    
+Tryp	                                 00000 | 00000 | 00010 | 00100    
+Toxo	                                 11000 | 00000 | 00010 | 00100    
+Plas	                                 01000 | 00000 | 01100 | 00101    
+Sacc	                                 01000 | 00000 | 00010 | 00100    
+Arab	                                 01000 | 00000 | 00000 | 00100    
+Homo	                                 11000 | 00000 | 10110 | 00100    
+
+
+
+Scores
+        ICDH_1                             ICDH_2                             
+Tetr	                                   0 (10) b  t                        
+Para	                                   0 (10) b  t                        
+Stri	65 -> Proteobacteria               0 (25) b  t                        
+Leis	50 -> Proteobacteria               0 (25) b  t                        
+Tryp	                                   0 (10) b  t                        
+Toxo	                                   0 (20) b  t                        
+Plas	                                   0 (25) b  t                        
+Sacc	                                   0 (15) b  t                        
+Arab	                                   0 (10) b  t                        
+Homo	                                   0 (30) b  t                        
+
+
+

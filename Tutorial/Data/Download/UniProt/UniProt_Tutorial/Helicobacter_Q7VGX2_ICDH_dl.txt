@@ -1,0 +1,93 @@
+ID   Q7VGX2_HELHP            Unreviewed;       734 AA.
+AC   Q7VGX2;
+DT   01-OCT-2003, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2003, sequence version 1.
+DT   16-MAR-2016, entry version 78.
+DE   SubName: Full=Isocitrate dehydrogenase {ECO:0000313|EMBL:AAP77793.1};
+GN   OrderedLocusNames=HH_1196 {ECO:0000313|EMBL:AAP77793.1};
+OS   Helicobacter hepaticus (strain ATCC 51449 / 3B1).
+OC   Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+OC   Helicobacteraceae; Helicobacter.
+OX   NCBI_TaxID=235279 {ECO:0000313|EMBL:AAP77793.1, ECO:0000313|Proteomes:UP000002495};
+RN   [1] {ECO:0000313|EMBL:AAP77793.1, ECO:0000313|Proteomes:UP000002495}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 51449 / 3B1 {ECO:0000313|Proteomes:UP000002495};
+RX   PubMed=12810954; DOI=10.1073/pnas.1332093100;
+RA   Suerbaum S., Josenhans C., Sterzenbach T., Drescher B., Brandt P.,
+RA   Bell M., Droege M., Fartmann B., Fischer H.-P., Ge Z., Hoerster A.,
+RA   Holland R., Klein K., Koenig J., Macko L., Mendz G.L., Nyakatura G.,
+RA   Schauer D.B., Shen Z., Weber J., Frosch M., Fox J.G.;
+RT   "The complete genome sequence of the carcinogenic bacterium
+RT   Helicobacter hepaticus.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:7901-7906(2003).
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRSR:PIRSR009407-3};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017125; AAP77793.1; -; Genomic_DNA.
+DR   RefSeq; WP_011116036.1; NC_004917.1.
+DR   ProteinModelPortal; Q7VGX2; -.
+DR   SMR; Q7VGX2; 2-731.
+DR   STRING; 235279.HH1196; -.
+DR   EnsemblBacteria; AAP77793; AAP77793; HH_1196.
+DR   KEGG; hhe:HH1196; -.
+DR   PATRIC; 20589846; VBIHelHep90276_1184.
+DR   eggNOG; ENOG4105E9K; Bacteria.
+DR   eggNOG; COG2838; LUCA.
+DR   KO; K00031; -.
+DR   OMA; RDSGKMW; -.
+DR   OrthoDB; EOG6DVJPP; -.
+DR   BioCyc; HHEP235279:GHUA-1232-MONOMER; -.
+DR   Proteomes; UP000002495; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:InterPro.
+DR   Gene3D; 3.40.718.10; -; 3.
+DR   Pfam; PF03971; IDH; 1.
+DR   PIRSF; PIRSF009407; IDH_monmr; 1.
+DR   TIGRFAMs; TIGR00178; monomer_idh; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002495};
+KW   Magnesium {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Metal-binding {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002495}.
+FT   REGION      129    136       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   METAL       344    344       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       539    539       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       543    543       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   BINDING     142    142       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   BINDING     538    538       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   SITE        251    251       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+FT   SITE        414    414       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+SQ   SEQUENCE   734 AA;  81163 MW;  D1BE5B4F53C17966 CRC64;
+     MKITYTLTDE SPALATYSFL PIAKAFLRHA NIEVATSDIS LSARILAQFP ERLKQEQQVE
+     DALSILGDLV KTKEANLIKT PNISASIPQL KAAIKELQGK GYDVPNFPDE PQNDTEKAIK
+     EKYQKVLGSA VNPVLRQGNS DRRSTKAVKS YAQKNPYRVV PFSADSKSYV SYMKEGDFFD
+     NEKAVLIPSA TTAKIIFRDS SGEKVLKEGL KLEQNEILDA TFMDAQKLSR FYEEQITSCK
+     NKGILFSLHL KATMMKVSDP VLFGYAVKAY FKEIFESFGD ELSRLGVNAN NGVSELLSKI
+     ESSPKKAEIL SKYNEILEKS AKISMVNSDK GITNLHVPSD VIVDASMPAM LKNGARLWDK
+     EGKECDANAV IPDKTYATIY EAVIEDLHKN GTLNPATLGS VSNVGLMARK AQEYGSHDKT
+     FIAPNDGEFV IVDANGSVLL SHKVRKNDIY RANQAKFDAV QNWIDLGIER ADITGDKAIF
+     WLDAKRASNK IMIDLVQKRL KEKGKNIEIL APKEACLESL RLIRAGKNAI SITGNVLRDY
+     LTDLFPILEL GTSAKMLSVV PMLNGGAMFE TGAGGSAPKQ VEQLVGENHL RWDSLGEFLA
+     LQASLEFYAQ KQNNAKAKVL ADALDSATSQ WLDNNKAPSR KVGEDDNRTS HFYLSMYFTR
+     ALANQSADTS IAAFFKPIAD ELESKQDSIR AEFNNAQGKA VDLGGYYKFD DNKAESIMRP
+     SKSFNTIIEQ IARG
+//
+DR   InterPro; IPR004436; Isocitrate_DH_NADP_mono.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

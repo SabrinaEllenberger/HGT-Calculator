@@ -1,0 +1,12 @@
+Strigomonas	prot>S9UPN9	ICDH_1	no KEGG
+Leishmania	prot>Q4Q3T2	ICDH_1	lma:LMJF_33_2550
+Leishmania	prot>Q4QHI7	ICDH_2	lma:LMJF_10_0290
+Arabidopsis	prot>Q9SLK0	ICDH_2	ath:AT1G54340
+Homo	prot>O75874	ICDH_2	hsa:3417
+Plasmodium	prot>Q8I6T2	ICDH_2	pfa:PF13_0242
+Paramecium	prot>A0BPK2	ICDH_2	ptm:GSPATT00005218001
+Saccharomyces	prot>P21954	ICDH_2	sce:YDL066W
+Tetrahymena	prot>Q23K14	ICDH_2	tet:TTHERM_00196200
+Toxoplasma	prot>Q5UCG0	ICDH_2	tgo:TGME49_066760
+Trypanosoma	prot>A0A061IWC2	ICDH_2	no KEGG
+Strigomonas	prot>S9UPW7	ICDH_2	no KEGG

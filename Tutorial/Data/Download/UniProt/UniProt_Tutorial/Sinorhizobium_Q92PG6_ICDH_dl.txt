@@ -1,0 +1,141 @@
+ID   Q92PG6_RHIME            Unreviewed;       404 AA.
+AC   Q92PG6;
+DT   01-DEC-2001, integrated into UniProtKB/TrEMBL.
+DT   01-DEC-2001, sequence version 1.
+DT   13-APR-2016, entry version 101.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP] {ECO:0000256|PIRNR:PIRNR000108};
+DE            EC=1.1.1.42 {ECO:0000256|PIRNR:PIRNR000108};
+GN   Name=icd {ECO:0000313|EMBL:CAC46371.1};
+GN   ORFNames=SMc00480 {ECO:0000313|EMBL:CAC46371.1};
+OS   Rhizobium meliloti (strain 1021) (Ensifer meliloti) (Sinorhizobium
+OS   meliloti).
+OC   Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+OC   Rhizobiaceae; Sinorhizobium/Ensifer group; Sinorhizobium.
+OX   NCBI_TaxID=266834 {ECO:0000313|EMBL:CAC46371.1, ECO:0000313|Proteomes:UP000001976};
+RN   [1] {ECO:0000313|EMBL:CAC46371.1, ECO:0000313|Proteomes:UP000001976}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=1021 {ECO:0000313|EMBL:CAC46371.1,
+RC   ECO:0000313|Proteomes:UP000001976};
+RX   PubMed=11481430; DOI=10.1073/pnas.161294398;
+RA   Capela D., Barloy-Hubler F., Gouzy J., Bothe G., Ampe F., Batut J.,
+RA   Boistard P., Becker A., Boutry M., Cadieu E., Dreano S., Gloux S.,
+RA   Godrie T., Goffeau A., Kahn D., Kiss E., Lelaure V., Masuy D.,
+RA   Pohl T., Portetelle D., Puehler A., Purnelle B., Ramsperger U.,
+RA   Renard C., Thebault P., Vandenbol M., Weidner S., Galibert F.;
+RT   "Analysis of the chromosome sequence of the legume symbiont
+RT   Sinorhizobium meliloti strain 1021.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:9877-9882(2001).
+RN   [2] {ECO:0000313|Proteomes:UP000001976}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=1021 {ECO:0000313|Proteomes:UP000001976};
+RX   PubMed=11474104; DOI=10.1126/science.1060966;
+RA   Galibert F., Finan T.M., Long S.R., Puehler A., Abola P., Ampe F.,
+RA   Barloy-Hubler F., Barnett M.J., Becker A., Boistard P., Bothe G.,
+RA   Boutry M., Bowser L., Buhrmester J., Cadieu E., Capela D., Chain P.,
+RA   Cowie A., Davis R.W., Dreano S., Federspiel N.A., Fisher R.F.,
+RA   Gloux S., Godrie T., Goffeau A., Golding B., Gouzy J., Gurjal M.,
+RA   Hernandez-Lucas I., Hong A., Huizar L., Hyman R.W., Jones T., Kahn D.,
+RA   Kahn M.L., Kalman S., Keating D.H., Kiss E., Komp C., Lelaure V.,
+RA   Masuy D., Palm C., Peck M.C., Pohl T.M., Portetelle D., Purnelle B.,
+RA   Ramsperger U., Surzycki R., Thebault P., Vandenbol M.,
+RA   Vorhoelter F.J., Weidner S., Wells D.H., Wong K., Yeh K.-C., Batut J.;
+RT   "The composite genome of the legume symbiont Sinorhizobium meliloti.";
+RL   Science 293:668-672(2001).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-3};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL591688; CAC46371.1; -; Genomic_DNA.
+DR   RefSeq; NP_385898.1; NC_003047.1.
+DR   RefSeq; WP_010969471.1; NC_003047.1.
+DR   PDB; 3US8; X-ray; 2.25 A; A/B=1-404.
+DR   PDBsum; 3US8; -.
+DR   ProteinModelPortal; Q92PG6; -.
+DR   SMR; Q92PG6; 3-403.
+DR   STRING; 266834.SMc00480; -.
+DR   EnsemblBacteria; CAC46371; CAC46371; SMc00480.
+DR   GeneID; 1233457; -.
+DR   KEGG; sme:SMc00480; -.
+DR   PATRIC; 23632989; VBISinMel96828_3233.
+DR   eggNOG; ENOG4105D5N; Bacteria.
+DR   eggNOG; COG0538; LUCA.
+DR   HOGENOM; HOG000019858; -.
+DR   KO; K00031; -.
+DR   OMA; QVIEHDV; -.
+DR   OrthoDB; EOG628F3X; -.
+DR   BioCyc; SMEL266834:GJF6-1840-MONOMER; -.
+DR   Proteomes; UP000001976; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006102; P:isocitrate metabolic process; IEA:InterPro.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11822; PTHR11822; 1.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PIRSF; PIRSF000108; IDH_NADP; 1.
+DR   TIGRFAMs; TIGR00127; nadp_idh_euk; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3US8};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001976};
+KW   Magnesium {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Manganese {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Metal-binding {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   NADP {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-4};
+KW   Oxidoreductase {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000313|EMBL:CAC46371.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001976};
+KW   Tricarboxylic acid cycle {ECO:0000256|PIRNR:PIRNR000108}.
+FT   DOMAIN        5    392       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+FT   NP_BIND      75     77       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   NP_BIND     308    313       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   REGION       94    100       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   METAL       250    250       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   METAL       273    273       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   BINDING      77     77       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING      82     82       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     109    109       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     132    132       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     258    258       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     326    326       NADP; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000256|PIRSR:PIRSR000108-
+FT                                4}.
+FT   SITE        139    139       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+FT   SITE        210    210       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+SQ   SEQUENCE   404 AA;  45174 MW;  A7E2A9E57A4C832A CRC64;
+     MAKIKVANPV VELDGDEMTR IIWQFIKDKL IHPYLDLDLE YYDLGVENRD ATDDQVTIDA
+     ANAIKKHGVG VKCATITPDE GRVEEFKLKK MWKSPNGTIR NILGGVIFRE PIICKNVPRL
+     VPGWTKPIIV GRHAFGDQYR ATDFKFPGKG KLSIKFVGED GQTIEHDVYD APGAGVALAM
+     YNLDESITEF ARASFNYGLQ RKVPVYLSTK NTILKAYDGR FKDIFQKVFD EEFAAQFKAE
+     KLWYEHRLID DMVASALKWS GGYVWACKNY DGDVQSDIVA QGFGSLGLMT SVLMTPDGKT
+     VEAEAAHGTV TRHYRQHQKG EETSTNSIAS IFAWTRGLAH RAKLDGNAEL AKFSETLERV
+     CVDTVESGFM TKDLALLIGP DQPWLSTTGF LDKIDENLRK AMAA
+//
+DR   InterPro; IPR004790; Isocitrate_DH_NADP.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

@@ -1,0 +1,227 @@
+ID   IDHP_YEAST              Reviewed;         428 AA.
+AC   P21954; D6VRT1;
+DT   01-AUG-1991, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1991, sequence version 1.
+DT   13-APR-2016, entry version 150.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP], mitochondrial;
+DE            Short=IDH;
+DE            EC=1.1.1.42;
+DE   AltName: Full=IDP;
+DE   AltName: Full=NADP(+)-specific ICDH;
+DE   AltName: Full=Oxalosuccinate decarboxylase;
+DE   Flags: Precursor;
+GN   Name=IDP1; OrderedLocusNames=YDL066W;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 17-36.
+RX   PubMed=1989987;
+RA   Haselbeck R.J., McAlister-Henn L.;
+RT   "Isolation, nucleotide sequence, and disruption of the Saccharomyces
+RT   cerevisiae gene encoding mitochondrial NADP(H)-specific isocitrate
+RT   dehydrogenase.";
+RL   J. Biol. Chem. 266:2339-2345(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169867;
+RA   Jacq C., Alt-Moerbe J., Andre B., Arnold W., Bahr A., Ballesta J.P.G.,
+RA   Bargues M., Baron L., Becker A., Biteau N., Bloecker H., Blugeon C.,
+RA   Boskovic J., Brandt P., Brueckner M., Buitrago M.J., Coster F.,
+RA   Delaveau T., del Rey F., Dujon B., Eide L.G., Garcia-Cantalejo J.M.,
+RA   Goffeau A., Gomez-Peris A., Granotier C., Hanemann V., Hankeln T.,
+RA   Hoheisel J.D., Jaeger W., Jimenez A., Jonniaux J.-L., Kraemer C.,
+RA   Kuester H., Laamanen P., Legros Y., Louis E.J., Moeller-Rieker S.,
+RA   Monnet A., Moro M., Mueller-Auer S., Nussbaumer B., Paricio N.,
+RA   Paulin L., Perea J., Perez-Alonso M., Perez-Ortin J.E., Pohl T.M.,
+RA   Prydz H., Purnelle B., Rasmussen S.W., Remacha M.A., Revuelta J.L.,
+RA   Rieger M., Salom D., Saluz H.P., Saiz J.E., Saren A.-M., Schaefer M.,
+RA   Scharfe M., Schmidt E.R., Schneider C., Scholler P., Schwarz S.,
+RA   Soler-Mira A., Urrestarazu L.A., Verhasselt P., Vissers S., Voet M.,
+RA   Volckaert G., Wagner G., Wambutt R., Wedler E., Wedler H., Woelfl S.,
+RA   Harris D.E., Bowman S., Brown D., Churcher C.M., Connor R., Dedman K.,
+RA   Gentles S., Hamlin N., Hunt S., Jones L., McDonald S., Murphy L.D.,
+RA   Niblett D., Odell C., Oliver K., Rajandream M.A., Richards C.,
+RA   Shore L., Walsh S.V., Barrell B.G., Dietrich F.S., Mulligan J.T.,
+RA   Allen E., Araujo R., Aviles E., Berno A., Carpenter J., Chen E.,
+RA   Cherry J.M., Chung E., Duncan M., Hunicke-Smith S., Hyman R.W.,
+RA   Komp C., Lashkari D., Lew H., Lin D., Mosedale D., Nakahara K.,
+RA   Namath A., Oefner P., Oh C., Petel F.X., Roberts D., Schramm S.,
+RA   Schroeder M., Shogren T., Shroff N., Winant A., Yelton M.A.,
+RA   Botstein D., Davis R.W., Johnston M., Andrews S., Brinkman R.,
+RA   Cooper J., Ding H., Du Z., Favello A., Fulton L., Gattung S.,
+RA   Greco T., Hallsworth K., Hawkins J., Hillier L.W., Jier M.,
+RA   Johnson D., Johnston L., Kirsten J., Kucaba T., Langston Y.,
+RA   Latreille P., Le T., Mardis E., Menezes S., Miller N., Nhan M.,
+RA   Pauley A., Peluso D., Rifkin L., Riles L., Taich A., Trevaskis E.,
+RA   Vignati D., Wilcox L., Wohldman P., Vaudin M., Wilson R.,
+RA   Waterston R., Albermann K., Hani J., Heumann K., Kleine K.,
+RA   Mewes H.-W., Zollner A., Zaccaria P.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome IV.";
+RL   Nature 387:75-78(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M.,
+RA   Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and
+RT   now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+CC   -!- FUNCTION: Mitochondrial IDP1 may regulate flux through the
+CC       tricarboxylic acid cycle and respiration. Its probably critical
+CC       function is the production of NADPH.
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit. {ECO:0000250};
+CC   -!- ENZYME REGULATION: The enzyme is subject to end product inhibition
+CC       by NADPH and 2-oxoglutarate.
+CC   -!- SUBUNIT: Homodimer.
+CC   -!- INTERACTION:
+CC       P16474:KAR2; NbExp=2; IntAct=EBI-8898, EBI-7876;
+CC       P50101:UBP15; NbExp=2; IntAct=EBI-8898, EBI-19898;
+CC   -!- SUBCELLULAR LOCATION: Mitochondrion.
+CC   -!- INDUCTION: By growth with glucose as a carbon source.
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M57229; AAA34703.1; -; Genomic_DNA.
+DR   EMBL; Z74114; CAA98631.1; -; Genomic_DNA.
+DR   EMBL; BK006938; DAA11791.1; -; Genomic_DNA.
+DR   PIR; A38610; DCBYIS.
+DR   RefSeq; NP_010217.1; NM_001180125.1.
+DR   PDB; 2QFV; X-ray; 2.30 A; A/B/C/D=16-428.
+DR   PDB; 2QFW; X-ray; 2.60 A; A/B/C/D/E/F=16-428.
+DR   PDB; 2QFX; X-ray; 2.70 A; A/B/C/D/E/F=16-428.
+DR   PDB; 2QFY; X-ray; 2.10 A; A/B/C/D/E/F=16-428.
+DR   PDBsum; 2QFV; -.
+DR   PDBsum; 2QFW; -.
+DR   PDBsum; 2QFX; -.
+DR   PDBsum; 2QFY; -.
+DR   ProteinModelPortal; P21954; -.
+DR   SMR; P21954; 17-427.
+DR   BioGrid; 31993; 45.
+DR   DIP; DIP-4494N; -.
+DR   IntAct; P21954; 24.
+DR   MINT; MINT-510681; -.
+DR   MaxQB; P21954; -.
+DR   PeptideAtlas; P21954; -.
+DR   PRIDE; P21954; -.
+DR   EnsemblFungi; YDL066W; YDL066W; YDL066W.
+DR   GeneID; 851493; -.
+DR   KEGG; sce:YDL066W; -.
+DR   EuPathDB; FungiDB:YDL066W; -.
+DR   SGD; S000002224; IDP1.
+DR   GeneTree; ENSGT00390000012547; -.
+DR   HOGENOM; HOG000019858; -.
+DR   InParanoid; P21954; -.
+DR   KO; K00031; -.
+DR   OMA; EANWRSK; -.
+DR   OrthoDB; EOG7G4QQD; -.
+DR   BioCyc; YEAST:YDL066W-MONOMER; -.
+DR   BRENDA; 1.1.1.42; 984.
+DR   Reactome; R-SCE-389542; NADPH regeneration.
+DR   Reactome; R-SCE-71403; Citric acid cycle (TCA cycle).
+DR   SABIO-RK; P21954; -.
+DR   EvolutionaryTrace; P21954; -.
+DR   NextBio; 968825; -.
+DR   PRO; PR:P21954; -.
+DR   Proteomes; UP000002311; Chromosome IV.
+DR   GO; GO:0042645; C:mitochondrial nucleoid; IDA:SGD.
+DR   GO; GO:0005739; C:mitochondrion; IDA:SGD.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IDA:SGD.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006537; P:glutamate biosynthetic process; IGI:SGD.
+DR   GO; GO:0006097; P:glyoxylate cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0006102; P:isocitrate metabolic process; IEA:InterPro.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11822; PTHR11822; 1.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PIRSF; PIRSF000108; IDH_NADP; 1.
+DR   TIGRFAMs; TIGR00127; nadp_idh_euk; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   Glyoxylate bypass; Magnesium; Manganese; Metal-binding; Mitochondrion;
+KW   NADP; Oxidoreductase; Reference proteome; Transit peptide;
+KW   Tricarboxylic acid cycle.
+FT   TRANSIT       1     16       Mitochondrion.
+FT                                {ECO:0000269|PubMed:1989987}.
+FT   CHAIN        17    428       Isocitrate dehydrogenase [NADP],
+FT                                mitochondrial.
+FT                                /FTId=PRO_0000014426.
+FT   NP_BIND      91     93       NADP. {ECO:0000250}.
+FT   NP_BIND     327    332       NADP. {ECO:0000250}.
+FT   REGION      110    116       Substrate binding. {ECO:0000250}.
+FT   METAL       269    269       Magnesium or manganese. {ECO:0000250}.
+FT   METAL       292    292       Magnesium or manganese. {ECO:0000250}.
+FT   BINDING      93     93       Substrate. {ECO:0000250}.
+FT   BINDING      98     98       NADP. {ECO:0000250}.
+FT   BINDING     125    125       Substrate. {ECO:0000250}.
+FT   BINDING     148    148       Substrate. {ECO:0000250}.
+FT   BINDING     277    277       NADP. {ECO:0000250}.
+FT   BINDING     345    345       NADP; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000250}.
+FT   SITE        155    155       Critical for catalysis. {ECO:0000250}.
+FT   SITE        229    229       Critical for catalysis. {ECO:0000250}.
+FT   STRAND       26     30       {ECO:0000244|PDB:2QFY}.
+FT   HELIX        33     46       {ECO:0000244|PDB:2QFY}.
+FT   TURN         47     50       {ECO:0000244|PDB:2QFY}.
+FT   STRAND       55     59       {ECO:0000244|PDB:2QFY}.
+FT   HELIX        62     67       {ECO:0000244|PDB:2QFY}.
+FT   TURN         68     70       {ECO:0000244|PDB:2QFY}.
+FT   HELIX        71     83       {ECO:0000244|PDB:2QFY}.
+FT   STRAND       84     88       {ECO:0000244|PDB:2QFY}.
+FT   HELIX        96    101       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       111    119       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      121    127       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      142    149       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       153    156       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      158    162       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      164    175       {ECO:0000244|PDB:2QFY}.
+FT   TURN        177    179       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      183    192       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      194    202       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       203    220       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      224    228       {ECO:0000244|PDB:2QFY}.
+FT   TURN        230    232       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       236    251       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       253    259       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      263    267       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       268    277       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      280    286       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       288    302       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      307    313       {ECO:0000244|PDB:2QFY}.
+FT   STRAND      315    318       {ECO:0000244|PDB:2QFX}.
+FT   STRAND      320    323       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       330    337       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       347    364       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       367    385       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       392    397       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       403    405       {ECO:0000244|PDB:2QFY}.
+FT   HELIX       409    426       {ECO:0000244|PDB:2QFY}.
+SQ   SEQUENCE   428 AA;  48190 MW;  7F885785B8682416 CRC64;
+     MSMLSRRLFS TSRLAAFSKI KVKQPVVELD GDEMTRIIWD KIKKKLILPY LDVDLKYYDL
+     SVESRDATSD KITQDAAEAI KKYGVGIKCA TITPDEARVK EFNLHKMWKS PNGTIRNILG
+     GTVFREPIVI PRIPRLVPRW EKPIIIGRHA HGDQYKATDT LIPGPGSLEL VYKPSDPTTA
+     QPQTLKVYDY KGSGVAMAMY NTDESIEGFA HSSFKLAIDK KLNLFLSTKN TILKKYDGRF
+     KDIFQEVYEA QYKSKFEQLG IHYEHRLIDD MVAQMIKSKG GFIMALKNYD GDVQSDIVAQ
+     GFGSLGLMTS ILVTPDGKTF ESEAAHGTVT RHYRKYQKGE ETSTNSIASI FAWSRGLLKR
+     GELDNTPALC KFANILESAT LNTVQQDGIM TKDLALACGN NERSAYVTTE EFLDAVEKRL
+     QKEIKSIE
+//
+DR   InterPro; IPR004790; Isocitrate_DH_NADP.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

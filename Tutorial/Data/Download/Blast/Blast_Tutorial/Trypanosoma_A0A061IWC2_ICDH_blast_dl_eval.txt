@@ -1,0 +1,251 @@
+Eval (All, Archaea, Bacteria, Eukaryota, One euk Organism, Good scores, Alien index, Donor):	250	0	22	228	1	1	0.0	no HGT
+A0A061IWC2	A0A061IWC2_TRYRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma rangeli SC58	Eukaryota	435	100.0	2270	0.0	100.0
+Q4DG65	Q4DG65_TRYCC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma cruzi (strain CL Brener)	Eukaryota	433	85.6	1946	0.0	99.0
+K4DIS2	K4DIS2_TRYCR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma cruzi	Eukaryota	433	85.2	1933	0.0	99.0
+V5B9G3	V5B9G3_TRYCR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma cruzi Dm28c	Eukaryota	433	85.2	1933	0.0	99.0
+K2MIU2	K2MIU2_TRYCR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma cruzi marinkellei	Eukaryota	433	84.3	1920	0.0	99.7
+G0U0U7	G0U0U7_TRYVY	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma vivax (strain Y486)	Eukaryota	436	82.0	1861	0.0	99.3
+G0U9V9	G0U9V9_TRYVY	TREMBL	 (Putative isocitrate dehydrogenase [NADP], mitochondrial) (EC 1.1.1.4) 	Trypanosoma vivax (strain Y486)	Eukaryota	426	81.9	1836	0.0	97.7
+C9ZVF6	C9ZVF6_TRYB9	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma brucei gambiense (strain MHOM/CI/86/DAL972)	Eukaryota	437	79.4	1835	0.0	99.7
+Q580Y9	Q580Y9_TRYB2	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Eukaryota	437	79.6	1835	0.0	99.7
+A0A0N0DSD2	A0A0N0DSD2_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leptomonas pyrrhocoris	Eukaryota	435	73.9	1702	0.0	99.3
+A4HUD9	A4HUD9_LEIIN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania infantum	Eukaryota	435	73.7	1700	0.0	99.3
+E9BA79	E9BA79_LEIDB	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania donovani (strain BPK282A1)	Eukaryota	435	73.7	1700	0.0	99.3
+A2CIA8	A2CIA8_LEIDO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania donovani	Eukaryota	435	73.4	1695	0.0	99.3
+A2CIA0	A2CIA0_LEIIN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania infantum	Eukaryota	435	73.4	1695	0.0	99.3
+A2CIB0	A2CIB0_LEIDO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania donovani archibaldi	Eukaryota	435	73.4	1695	0.0	99.3
+Q4QHI7	Q4QHI7_LEIMA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania major	Eukaryota	435	73.0	1690	0.0	99.3
+A0A075IY05	A0A075IY05_LEIDO	TREMBL	 (Mitochondrial isocitrate dehydrogenase) 	Leishmania donovani	Eukaryota	421	74.9	1687	0.0	95.8
+A2CIC8	A2CIC8_LEITR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania tropica	Eukaryota	435	73.0	1688	0.0	99.3
+E9AN39	E9AN39_LEIMU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania mexicana (strain MHOM/GT/2001/U1103)	Eukaryota	435	73.2	1688	0.0	99.3
+S9UPW7	S9UPW7_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Strigomonas culicis	Eukaryota	434	73.6	1686	0.0	99.3
+A2CIC7	A2CIC7_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania gerbilli	Eukaryota	435	73.2	1682	0.0	99.3
+A4H612	A4H612_LEIBR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania braziliensis	Eukaryota	435	72.1	1663	0.0	99.3
+A0A088RJL4	A0A088RJL4_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leishmania panamensis	Eukaryota	435	72.1	1663	0.0	99.3
+I3VJP5	I3VJP5_9TRYP	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania gerbilli	Eukaryota	402	76.3	1656	0.0	91.7
+I3VJQ6	I3VJQ6_LEIDO	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania donovani	Eukaryota	402	76.3	1656	0.0	91.7
+I3VJP2	I3VJP2_LEIIN	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania infantum	Eukaryota	402	76.3	1656	0.0	91.7
+I3VJP9	I3VJP9_9TRYP	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania turanica	Eukaryota	401	76.0	1652	0.0	91.7
+I3VJP8	I3VJP8_LEIDO	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania donovani	Eukaryota	402	76.0	1652	0.0	91.7
+I3VJN7	I3VJN7_LEIDO	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania donovani	Eukaryota	402	76.0	1652	0.0	91.7
+I3VJN6	I3VJN6_9TRYP	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania turanica	Eukaryota	402	76.0	1652	0.0	91.7
+I3VJP1	I3VJP1_LEIDO	TREMBL	 (Isocitrate dehydrogenase) 	Leishmania donovani	Eukaryota	402	76.0	1649	0.0	91.7
+S9V991	S9V991_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Angomonas deanei	Eukaryota	436	72.4	1651	0.0	97.7
+A0A0N1I742	A0A0N1I742_LEPSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leptomonas seymouri	Eukaryota	435	70.4	1642	0.0	99.3
+A0A0S4JT83	A0A0S4JT83_BODSA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bodo saltans (Flagellated protozoan)	Eukaryota	433	71.5	1641	0.0	99.0
+W6KWA4	W6KWA4_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytomonas sp. isolate EM1	Eukaryota	411	69.7	1533	0.0	92.1
+W6LAF3	W6LAF3_9TRYP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytomonas sp. isolate Hart1	Eukaryota	436	65.7	1512	0.0	99.3
+D8UFZ3	D8UFZ3_VOLCA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Volvox carteri f. nagariensis	Eukaryota	449	66.8	1435	0.0	92.4
+A8J9S7	A8J9S7_CHLRE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Chlamydomonas reinhardtii (Chlamydomonas smithii)	Eukaryota	483	66.9	1427	0.0	91.2
+A0A059LRP9	A0A059LRP9_9CHLO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Helicosporidium sp. ATCC 50920	Eukaryota	429	65.0	1417	0.0	94.0
+E1Z4A2	E1Z4A2_CHLVA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Chlorella variabilis (Green alga)	Eukaryota	471	65.5	1420	0.0	91.0
+B8LKH5	B8LKH5_PICSI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Picea sitchensis (Sitka spruce) (Pinus sitchensis)	Eukaryota	418	66.8	1408	0.0	92.1
+A0A0G4EXH4	A0A0G4EXH4_9ALVE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Vitrella brassicaformis CCMP3155	Eukaryota	428	66.6	1408	0.0	92.8
+V9E9J6	V9E9J6_PHYPR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora parasitica P1569	Eukaryota	427	65.7	1407	0.0	91.2
+W2W4R8	W2W4R8_PHYPR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora parasitica CJ01A1	Eukaryota	427	65.7	1407	0.0	91.2
+W2YFW5	W2YFW5_PHYPR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora parasitica P10297	Eukaryota	427	65.7	1407	0.0	91.2
+W2G1D8	W2G1D8_PHYPR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora parasitica (Potato buckeye rot agent)	Eukaryota	427	65.7	1407	0.0	91.2
+A0A080ZCT8	A0A080ZCT8_PHYPR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora parasitica P1976	Eukaryota	427	65.7	1406	0.0	91.2
+C0PQT7	C0PQT7_PICSI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Picea sitchensis (Sitka spruce) (Pinus sitchensis)	Eukaryota	418	66.8	1403	0.0	92.1
+A0A068S5U6	A0A068S5U6_9FUNG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lichtheimia corymbifera JMRC:FSU:9682	Eukaryota	420	68.3	1402	0.0	91.9
+A0A0W8E0M7	A0A0W8E0M7_PHYNI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora nicotianae (Buckeye rot agent)	Eukaryota	427	65.4	1402	0.0	91.2
+G4Z0M1	G4Z0M1_PHYSP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora sojae (strain P6497) (Soybean stem and root rot agent) (Phytophthora megasperma f. sp. glycines)	Eukaryota	427	65.2	1402	0.0	91.2
+W2R0C6	W2R0C6_PHYPN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora parasitica (strain INRA-310)	Eukaryota	427	65.4	1402	0.0	91.2
+E3M2S7	E3M2S7_CAERE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Caenorhabditis remanei (Caenorhabditis vulgaris)	Eukaryota	436	66.3	1402	0.0	92.6
+A0A0B8WY96	A0A0B8WY96_9DELT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bdellovibrio sp. ArHS	Bacteria	409	65.6	1398	0.0	93.1
+W0EZD3	W0EZD3_9SPHI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Niabella soli DSM 19437	Bacteria	410	66.5	1398	0.0	92.1
+D0N755	D0N755_PHYIT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora infestans (strain T30-4) (Potato late blight fungus)	Eukaryota	427	64.7	1399	0.0	91.2
+U1P2S5	U1P2S5_ASCSU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ascaris suum (Pig roundworm) (Ascaris lumbricoides)	Eukaryota	435	66.0	1399	0.0	92.1
+A0A0E9N1V2	A0A0E9N1V2_9SPHI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Flavihumibacter petaseus NBRC 106054	Bacteria	410	65.6	1396	0.0	92.4
+F1L8D7	F1L8D7_ASCSU	TREMBL	 (Isocitrate dehydrogenase NADP) 	Ascaris suum (Pig roundworm) (Ascaris lumbricoides)	Eukaryota	442	66.0	1399	0.0	92.1
+A0A0B7AME1	A0A0B7AME1_9EUPU	TREMBL	 (Uncharacterized protein) 	Arion vulgaris	Eukaryota	466	65.3	1401	0.0	94.9
+A0A077WPZ9	A0A077WPZ9_9FUNG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lichtheimia ramosa	Eukaryota	413	67.8	1395	0.0	91.9
+D8T0X0	D8T0X0_SELML	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Selaginella moellendorffii (Spikemoss)	Eukaryota	416	65.7	1394	0.0	92.6
+V3ZNV5	V3ZNV5_LOTGI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lottia gigantea (Giant owl limpet)	Eukaryota	448	64.0	1397	0.0	92.6
+H3G9I7	H3G9I7_PHYRM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phytophthora ramorum (Sudden oak death agent)	Eukaryota	419	64.7	1394	0.0	91.2
+M4BFC2	M4BFC2_HYAAE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hyaloperonospora arabidopsidis (strain Emoy2) (Downy mildew agent) (Peronospora arabidopsidis)	Eukaryota	429	65.3	1395	0.0	91.4
+D8R492	D8R492_SELML	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Selaginella moellendorffii (Spikemoss)	Eukaryota	416	65.7	1393	0.0	92.6
+A0A0V1A275	A0A0V1A275_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella patagoniensis	Eukaryota	437	64.2	1395	0.0	92.4
+E5S5M3	E5S5M3_TRISP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella spiralis (Trichina worm)	Eukaryota	443	64.3	1394	0.0	91.9
+A0A077WE84	A0A077WE84_9FUNG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lichtheimia ramosa	Eukaryota	415	66.7	1391	0.0	92.4
+A0A067LDM2	A0A067LDM2_JATCU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Jatropha curcas (Barbados nut)	Eukaryota	476	61.9	1397	0.0	97.9
+A0A0C9SA52	A0A0C9SA52_9SPER	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Wollemia nobilis	Eukaryota	417	66.8	1391	0.0	92.1
+A0A0V1H744	A0A0V1H744_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella zimbabwensis	Eukaryota	495	64.3	1398	0.0	91.9
+A0A0V1MRK9	A0A0V1MRK9_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella papuae	Eukaryota	495	64.3	1398	0.0	91.9
+F8X2K5	F8X2K5_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Dysgonomonas mossii DSM 22836	Bacteria	408	65.3	1389	0.0	92.4
+A0A0A0KP32	A0A0A0KP32_CUCSA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Cucumis sativus (Cucumber)	Eukaryota	481	64.6	1396	0.0	94.7
+K4DUK8	K4DUK8_TRYCR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma cruzi	Eukaryota	414	63.1	1389	0.0	93.1
+O17643	O17643_CAEEL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Caenorhabditis elegans	Eukaryota	435	65.8	1391	0.0	92.6
+Q4E4L7	Q4E4L7_TRYCC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma cruzi (strain CL Brener)	Eukaryota	413	63.4	1388	0.0	93.1
+A0A0V1LTM6	A0A0V1LTM6_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella nativa	Eukaryota	432	64.3	1389	0.0	91.9
+A0A0V0WIG6	A0A0V0WIG6_9BILA	TREMBL	 (Motochondrial isocitrate dehydrogenase) 	Trichinella sp. T6	Eukaryota	432	64.3	1389	0.0	91.9
+A0A0V1PGQ1	A0A0V1PGQ1_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella sp. T8	Eukaryota	415	64.0	1387	0.0	91.9
+A0A068RNE1	A0A068RNE1_9FUNG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lichtheimia corymbifera JMRC:FSU:9682	Eukaryota	415	67.2	1387	0.0	92.4
+C5KGY4	C5KGY4_PERM5	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Perkinsus marinus (strain ATCC 50983 / TXsc)	Eukaryota	416	65.5	1387	0.0	92.4
+A0A0V0WHT4	A0A0V0WHT4_9BILA	TREMBL	 (Motochondrial isocitrate dehydrogenase) 	Trichinella sp. T6	Eukaryota	443	64.3	1389	0.0	91.9
+A0A0V1LSY4	A0A0V1LSY4_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella nativa	Eukaryota	444	64.3	1389	0.0	91.9
+A0A0V1BKH5	A0A0V1BKH5_TRISP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella spiralis (Trichina worm)	Eukaryota	415	63.9	1386	0.0	91.7
+A8XQZ0	A8XQZ0_CAEBR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Caenorhabditis briggsae	Eukaryota	435	65.3	1388	0.0	93.3
+A0A0V1A317	A0A0V1A317_9BILA	TREMBL	 (Motochondrial isocitrate dehydrogenase) 	Trichinella patagoniensis	Eukaryota	465	64.3	1391	0.0	91.9
+A0A067KUE5	A0A067KUE5_JATCU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Jatropha curcas (Barbados nut)	Eukaryota	416	66.1	1386	0.0	92.1
+A0A087SNM4	A0A087SNM4_AUXPR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Auxenochlorella protothecoides (Green microalga) (Chlorella protothecoides)	Eukaryota	472	62.6	1391	0.0	94.2
+A0A0V1PGV8	A0A0V1PGV8_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella sp. T8	Eukaryota	433	64.0	1387	0.0	91.9
+A0A0V0V0L1	A0A0V0V0L1_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella sp. T9	Eukaryota	471	64.3	1390	0.0	91.9
+A0A0V1IUQ3	A0A0V1IUQ3_TRIPS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella pseudospiralis (Parasitic roundworm)	Eukaryota	432	63.8	1386	0.0	91.9
+A0A0E0JLW3	A0A0E0JLW3_ORYPU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza punctata (Red rice)	Eukaryota	473	65.1	1390	0.0	97.0
+A0A0V0YBB2	A0A0V0YBB2_TRIPS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella pseudospiralis (Parasitic roundworm)	Eukaryota	433	63.8	1386	0.0	91.9
+F5J459	F5J459_9PORP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Dysgonomonas gadei ATCC BAA-286	Bacteria	407	63.8	1383	0.0	92.4
+A0A0F7V4Z5	A0A0F7V4Z5_TOXGV	TREMBL	 (Isocitrate dehydrogenase, putative) 	Toxoplasma gondii (strain ATCC 50861 / VEG)	Eukaryota	540	63.8	1396	0.0	96.7
+A0A0C1ICA9	A0A0C1ICA9_9SPHI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Flavihumibacter sp. ZG627	Bacteria	411	65.6	1383	0.0	91.0
+A0A0D3ERZ7	A0A0D3ERZ7_9ORYZ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza barthii	Eukaryota	412	67.0	1383	0.0	92.1
+A2WTC5	A2WTC5_ORYSI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza sativa subsp. indica (Rice)	Eukaryota	412	67.0	1383	0.0	92.1
+A0A0E0FQE3	A0A0E0FQE3_ORYNI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza nivara (Indian wild rice)	Eukaryota	412	67.0	1383	0.0	92.1
+Q9XGU8	Q9XGU8_ORYSA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza sativa (Rice)	Eukaryota	412	67.0	1383	0.0	92.1
+A0A0E0N049	A0A0E0N049_ORYRU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza rufipogon (Brownbeard rice) (Asian wild rice)	Eukaryota	412	67.0	1383	0.0	92.1
+I1NQ97	I1NQ97_ORYGL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza glaberrima (African rice)	Eukaryota	412	67.0	1383	0.0	92.1
+Q7F280	Q7F280_ORYSJ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza sativa subsp. japonica (Rice)	Eukaryota	412	67.0	1383	0.0	92.1
+A0A0V0RQS6	A0A0V0RQS6_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichinella nelsoni	Eukaryota	433	63.8	1385	0.0	91.9
+A0A0D9YCK0	A0A0D9YCK0_9ORYZ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza glumipatula	Eukaryota	474	65.1	1389	0.0	97.0
+A0A0P6W9T4	A0A0P6W9T4_9RHIZ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prosthecomicrobium hirschii	Bacteria	405	65.8	1382	0.0	92.4
+W5AUA7	W5AUA7_WHEAT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Triticum aestivum (Wheat)	Eukaryota	476	62.1	1389	0.0	95.6
+A0A0R2SCY9	A0A0R2SCY9_9FLAO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Cryomorphaceae bacterium BACL18 MAG-120924-bin36	Bacteria	408	64.9	1382	0.0	92.4
+I1VYY1	I1VYY1_MYTTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus trossulus (Blue mussel)	Eukaryota	448	61.6	1386	0.0	99.5
+T2MFK0	T2MFK0_HYDVU	TREMBL	 (Isocitrate dehydrogenase [NADP],mitochondrial) 	Hydra vulgaris (Hydra) (Hydra attenuata)	Eukaryota	470	63.3	1388	0.0	95.8
+A0A0E0C5G5	A0A0E0C5G5_9ORYZ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza meridionalis	Eukaryota	460	65.9	1387	0.0	95.4
+A0AR16	A0AR16_PINPS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Pinus pinaster (Maritime pine)	Eukaryota	417	66.1	1382	0.0	92.1
+A0A090LMU2	A0A090LMU2_STRRB	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Strongyloides ratti (Parasitic roundworm)	Eukaryota	408	66.4	1381	0.0	90.8
+T1EG15	T1EG15_HELRO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Helobdella robusta (Californian leech)	Eukaryota	418	66.3	1382	0.0	91.7
+A0A0P1AK72	A0A0P1AK72_9STRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Plasmopara halstedii	Eukaryota	419	64.4	1382	0.0	91.2
+A8I2F4	A8I2F4_AZOC5	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / JCM 20966 / NBRC 14845 / NCIMB 13405 / ORS 571)	Bacteria	404	64.8	1380	0.0	93.1
+K2MRY2	K2MRY2_TRYCR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trypanosoma cruzi marinkellei	Eukaryota	414	63.1	1381	0.0	93.1
+A0A0D2RPH0	A0A0D2RPH0_GOSRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gossypium raimondii (New World cotton)	Eukaryota	468	62.3	1386	0.0	98.3
+Q40345	IDHP_MEDSA	SWISSPROT	Isocitrate dehydrogenase [NADP], chloroplastic(EC 1.1.1.4) 	Medicago sativa (Alfalfa)	Eukaryota	433	64.2	1382	0.0	96.5
+A0A061EJH9	A0A061EJH9_THECC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Theobroma cacao (Cacao) (Cocoa)	Eukaryota	494	62.4	1388	0.0	97.9
+A0A0S4IN25	A0A0S4IN25_BODSA	TREMBL	 (Isocitrate dehydrogenase, putative) 	Bodo saltans (Flagellated protozoan)	Eukaryota	416	65.3	1380	0.0	92.8
+H2AYA8	H2AYA8_KAZAF	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276) (Yeast) (Kluyveromyces africanus)	Eukaryota	421	65.4	1380	0.0	94.9
+M4VNL2	M4VNL2_9DELT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bdellovibrio exovorus JSS	Bacteria	408	65.0	1378	0.0	93.1
+A0A067MK73	A0A067MK73_9HOMO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Botryobasidium botryosum FD-172 SS1	Eukaryota	448	64.2	1382	0.0	91.9
+A0A098L9R5	A0A098L9R5_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Sporocytophaga myxococcoides	Bacteria	410	64.9	1378	0.0	92.4
+A0A024UIK0	A0A024UIK0_9STRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Aphanomyces invadans	Eukaryota	425	64.3	1379	0.0	92.1
+C5L3J6	C5L3J6_PERM5	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Perkinsus marinus (strain ATCC 50983 / TXsc)	Eukaryota	416	65.3	1378	0.0	92.4
+A0A0D9V3N4	A0A0D9V3N4_9ORYZ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Leersia perrieri	Eukaryota	409	66.5	1377	0.0	92.1
+A0A0L0HL26	A0A0L0HL26_SPIPN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Spizellomyces punctatus DAOM BR117	Eukaryota	453	64.6	1381	0.0	96.0
+H2WLP4	H2WLP4_CAEJA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Caenorhabditis japonica	Eukaryota	434	65.3	1379	0.0	92.6
+A0A0A1PWY8	A0A0A1PWY8_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	bacterium YEK0313	Bacteria]	406	65.0	1376	0.0	93.1
+W5BFI3	W5BFI3_WHEAT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Triticum aestivum (Wheat)	Eukaryota	476	61.9	1383	0.0	95.6
+A0A0N4Y8E1	A0A0N4Y8E1_NIPBR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Nippostrongylus brasiliensis (Rat hookworm)	Eukaryota	439	62.6	1379	0.0	96.5
+S2KK06	S2KK06_MUCC1	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mucor circinelloides f. circinelloides (strain 1006PhL) (Mucormycosis agent) (Calyptromyces circinelloides)	Eukaryota	415	66.6	1376	0.0	91.9
+S7W894	S7W894_TOXGG	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii (strain ATCC 50853 / GT1)	Eukaryota	621	63.8	1396	0.0	96.7
+A4UQJ4	A4UQJ4_TOXGO	TREMBL	 (Isocitrate dehydrogenase 2) 	Toxoplasma gondii	Eukaryota	621	63.8	1396	0.0	96.7
+S8EUA8	S8EUA8_TOXGM	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii (strain ATCC 50611 / Me49)	Eukaryota	621	63.8	1396	0.0	96.7
+A0A086KHY5	A0A086KHY5_TOXGO	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii GAB2-2007-GAL-DOM2	Eukaryota	621	63.8	1396	0.0	96.7
+A0A086LHH1	A0A086LHH1_TOXGO	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii FOU	Eukaryota	621	63.8	1396	0.0	96.7
+A0A125YST2	A0A125YST2_TOXGV	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii (strain ATCC 50861 / VEG)	Eukaryota	621	63.8	1396	0.0	96.7
+A0A086QYZ4	A0A086QYZ4_TOXGO	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii MAS	Eukaryota	621	63.8	1396	0.0	96.7
+A0A086MB12	A0A086MB12_TOXGO	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii RUB	Eukaryota	621	63.8	1396	0.0	96.7
+A0A086QB03	A0A086QB03_TOXGO	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Toxoplasma gondii VAND	Eukaryota	621	63.8	1396	0.0	96.7
+W5X1B2	W5X1B2_BDEBC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bdellovibrio bacteriovorus W	Bacteria	407	65.3	1375	0.0	93.1
+I1VYX2	I1VYX2_MYTTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus trossulus (Blue mussel)	Eukaryota	448	61.1	1379	0.0	99.5
+A0A068YDW6	A0A068YDW6_ECHMU	TREMBL	 (NADP dependent isocitrate dehydrogenase) 	Echinococcus multilocularis (Fox tapeworm)	Eukaryota	419	63.3	1376	0.0	94.2
+A0A068WJX2	A0A068WJX2_ECHGR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Echinococcus granulosus (Hydatid tapeworm)	Eukaryota	419	63.9	1376	0.0	93.7
+J0WQ75	J0WQ75_AURST	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Auricularia subglabra (strain TFB-10046 / SS5) (White-rot fungus) (Auricularia delicata (strain TFB10046))	Eukaryota	434	64.4	1377	0.0	91.2
+G0MI11	G0MI11_CAEBE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Caenorhabditis brenneri (Nematode worm)	Eukaryota	436	65.3	1377	0.0	93.3
+I1VYX7	I1VYX7_MYTTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus trossulus (Blue mussel)	Eukaryota	448	61.1	1378	0.0	99.5
+W6UP55	W6UP55_ECHGR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Echinococcus granulosus (Hydatid tapeworm)	Eukaryota	430	63.9	1376	0.0	93.7
+K3XIC0	K3XIC0_SETIT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Setaria italica (Foxtail millet) (Panicum italicum)	Eukaryota	412	66.3	1374	0.0	92.1
+F6HUY0	F6HUY0_VITVI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Vitis vinifera (Grape)	Eukaryota	486	63.6	1381	0.0	95.6
+A0A0L8H5J4	A0A0L8H5J4_OCTBM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Octopus bimaculoides (California two-spotted octopus)	Eukaryota	446	63.9	1377	0.0	91.4
+I1VYY0	I1VYY0_MYTTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus trossulus (Blue mussel)	Eukaryota	448	61.1	1377	0.0	99.5
+A0A0R3P9L7	A0A0R3P9L7_ANGCS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Angiostrongylus costaricensis (Nematode worm)	Eukaryota	431	65.8	1375	0.0	91.9
+A0A0B2S741	A0A0B2S741_GLYSO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine soja (Wild soybean)	Eukaryota	413	66.6	1373	0.0	92.1
+G4LUW3	G4LUW3_SCHMA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Schistosoma mansoni (Blood fluke)	Eukaryota	446	65.4	1376	0.0	93.1
+I1VYY3	I1VYY3_MYTTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus trossulus (Blue mussel)	Eukaryota	448	60.9	1376	0.0	99.5
+N6U9G5	N6U9G5_9RHIZ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Rhizobium freirei PRF 81	Bacteria	404	64.5	1371	0.0	93.1
+Q946X9	Q946X9_PRUPE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prunus persica (Peach) (Amygdalus persica)	Eukaryota	414	66.1	1372	0.0	92.1
+R7URD2	R7URD2_CAPTE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Capitella teleta (Polychaete worm)	Eukaryota	414	65.0	1372	0.0	91.2
+M5WXP5	M5WXP5_PRUPE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prunus persica (Peach) (Amygdalus persica)	Eukaryota	415	66.1	1372	0.0	92.1
+C5YBX0	C5YBX0_SORBI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Sorghum bicolor (Sorghum) (Sorghum vulgare)	Eukaryota	487	62.2	1379	0.0	96.7
+B9HYD8	B9HYD8_POPTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa)	Eukaryota	428	65.6	1373	0.0	92.1
+I1VYY2	I1VYY2_MYTTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus trossulus (Blue mussel)	Eukaryota	448	61.1	1375	0.0	99.5
+U6PH24	U6PH24_HAECO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Haemonchus contortus (Barber pole worm)	Eukaryota	439	62.2	1374	0.0	98.3
+A0A0B0MIG9	A0A0B0MIG9_GOSAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gossypium arboreum (Tree cotton) (Gossypium nanking)	Eukaryota	411	66.0	1371	0.0	93.1
+A0EI79	A0EI79_PARTE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Paramecium tetraurelia	Eukaryota	411	66.3	1371	0.0	91.9
+A0A0B7N5F3	A0A0B7N5F3_9FUNG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parasitella parasitica	Eukaryota	415	66.6	1371	0.0	91.9
+G7IT36	G7IT36_MEDTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Medicago truncatula (Barrel medic) (Medicago tribuloides)	Eukaryota	416	65.3	1371	0.0	92.1
+A0A0D6R4M7	A0A0D6R4M7_ARACU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Araucaria cunninghamii (Hoop pine) (Moreton Bay pine)	Eukaryota	417	66.1	1371	0.0	92.1
+I1VYX3	I1VYX3_MYTGA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus galloprovincialis (Mediterranean mussel)	Eukaryota	448	61.1	1374	0.0	99.5
+A0A0B0NEA2	A0A0B0NEA2_GOSAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gossypium arboreum (Tree cotton) (Gossypium nanking)	Eukaryota	489	62.7	1378	0.0	95.6
+H3E3B4	H3E3B4_PRIPA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Pristionchus pacificus (Parasitic nematode)	Eukaryota	410	65.8	1370	0.0	90.8
+A0A0D2SFZ8	A0A0D2SFZ8_GOSRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gossypium raimondii (New World cotton)	Eukaryota	411	66.3	1370	0.0	92.1
+A0A022RLR1	A0A022RLR1_ERYGU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Erythranthe guttata (Yellow monkey flower) (Mimulus guttatus)	Eukaryota	473	66.1	1376	0.0	92.1
+I1CKX9	I1CKX9_RHIO9	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) (Mucormycosis agent) (Rhizopus arrhizus var. delemar)	Eukaryota	414	65.5	1370	0.0	92.4
+I1KTT3	I1KTT3_SOYBN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine max (Soybean) (Glycine hispida)	Eukaryota	416	65.6	1370	0.0	92.1
+A0A0B2QN79	A0A0B2QN79_GLYSO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine soja (Wild soybean)	Eukaryota	416	65.6	1370	0.0	92.1
+Q9ZWI0	Q9ZWI0_DAUCA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Daucus carota (Wild carrot)	Eukaryota	416	64.4	1370	0.0	92.4
+A0A0N4Z655	A0A0N4Z655_PARTI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parastrongyloides trichosuri (Possum-specific nematode worm)	Eukaryota	408	65.4	1369	0.0	90.8
+A0A0E9LUF2	A0A0E9LUF2_9BACT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Geofilum rubicundum JCM 15548	Bacteria	409	64.6	1369	0.0	92.4
+A0DUY0	A0DUY0_PARTE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Paramecium tetraurelia	Eukaryota	411	66.1	1369	0.0	91.9
+W9S0M2	W9S0M2_9ROSA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Morus notabilis	Eukaryota	484	63.8	1376	0.0	94.7
+A0A022R260	A0A022R260_ERYGU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Erythranthe guttata (Yellow monkey flower) (Mimulus guttatus)	Eukaryota	474	61.1	1375	0.0	96.5
+G0QVK1	G0QVK1_ICHMG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ichthyophthirius multifiliis (strain G5) (White spot disease agent) (Ich)	Eukaryota	416	64.3	1369	0.0	92.8
+I1VYX4	I1VYX4_MYTGA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus galloprovincialis (Mediterranean mussel)	Eukaryota	448	60.9	1372	0.0	99.5
+A0A0K0D407	A0A0K0D407_ANGCA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Angiostrongylus cantonensis (Rat lungworm)	Eukaryota	435	65.3	1370	0.0	92.1
+O82585	O82585_SOYBN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine max (Soybean) (Glycine hispida)	Eukaryota	416	65.6	1368	0.0	92.1
+W4GZC0	W4GZC0_9STRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Aphanomyces astaci	Eukaryota	448	63.4	1371	0.0	92.4
+Q6MH39	Q6MH39_BDEBA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100)	Bacteria	409	64.4	1367	0.0	93.1
+D2D324	D2D324_GOSHI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gossypium hirsutum (Upland cotton) (Gossypium mexicanum)	Eukaryota	411	65.8	1367	0.0	93.1
+A0A067R707	A0A067R707_ZOONE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Zootermopsis nevadensis (Dampwood termite)	Eukaryota	422	64.4	1368	0.0	92.6
+A0A0P6IWM1	A0A0P6IWM1_AEDAE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)	Eukaryota	443	61.6	1370	0.0	97.0
+A0A0C9LZI3	A0A0C9LZI3_9FUNG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mucor ambiguus	Eukaryota	415	66.1	1367	0.0	91.9
+A0A0S3T6V9	A0A0S3T6V9_PHAAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Vigna angularis var. angularis	Eukaryota	476	64.3	1373	0.0	92.1
+A0A0L9VPE3	A0A0L9VPE3_PHAAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phaseolus angularis (Azuki bean) (Vigna angularis)	Eukaryota	476	64.3	1373	0.0	92.1
+B4FLJ3	B4FLJ3_MAIZE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Zea mays (Maize)	Eukaryota	412	65.5	1366	0.0	92.1
+A0A0R0GQK7	A0A0R0GQK7_SOYBN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine max (Soybean) (Glycine hispida)	Eukaryota	413	66.3	1366	0.0	92.1
+C6T857	C6T857_SOYBN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine max (Soybean) (Glycine hispida)	Eukaryota	413	66.3	1366	0.0	92.1
+Q06197	IDHC_SOYBN	SWISSPROT	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine max (Soybean) (Glycine hispida)	Eukaryota	413	66.3	1366	0.0	92.1
+A0A067E5M7	A0A067E5M7_CITSI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Citrus sinensis (Sweet orange) (Citrus aurantium var. sinensis)	Eukaryota	414	65.3	1366	0.0	92.1
+V4T2Q5	V4T2Q5_9ROSI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Citrus clementina	Eukaryota	414	65.3	1366	0.0	92.1
+Q6FI37	Q6FI37_HUMAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	66.6	1366	0.0	90.8
+V9HWJ2	V9HWJ2_HUMAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	66.6	1366	0.0	90.8
+O75874	IDHC_HUMAN	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	66.6	1366	0.0	90.8
+A0A0B2S0C5	A0A0B2S0C5_GLYSO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine soja (Wild soybean)	Eukaryota	416	65.1	1366	0.0	92.1
+I1MJH1	I1MJH1_SOYBN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine max (Soybean) (Glycine hispida)	Eukaryota	416	65.1	1366	0.0	92.1
+M4VFA8	M4VFA8_9PROT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Micavibrio aeruginosavorus EPB	Bacteria	407	64.3	1365	0.0	93.5
+I1VYX5	I1VYX5_MYTGA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus galloprovincialis (Mediterranean mussel)	Eukaryota	448	60.7	1369	0.0	99.5
+A0A0D2VKI3	A0A0D2VKI3_GOSRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gossypium raimondii (New World cotton)	Eukaryota	489	63.0	1373	0.0	94.4
+F2D5I1	F2D5I1_HORVD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hordeum vulgare var. distichum (Domesticated barley)	Eukaryota	409	65.8	1365	0.0	92.1
+A0A0B0PZY6	A0A0B0PZY6_GOSAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gossypium arboreum (Tree cotton) (Gossypium nanking)	Eukaryota	481	61.4	1372	0.0	98.3
+G7KFV7	G7KFV7_MEDTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Medicago truncatula (Barrel medic) (Medicago tribuloides)	Eukaryota	412	65.3	1365	0.0	92.1
+K3Y6V4	K3Y6V4_SETIT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Setaria italica (Foxtail millet) (Panicum italicum)	Eukaryota	493	62.4	1373	0.0	95.4
+F4NV91	F4NV91_BATDJ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) (Frog chytrid fungus)	Eukaryota	443	65.4	1368	0.0	91.2
+A0A0R2S5H0	A0A0R2S5H0_9FLAO	TREMBL	 (Isocitrate dehydrogenase) (EC 1.1.1.4) 	Cryomorphaceae bacterium BACL11 MAG-121128-bin16	Bacteria	404	63.2	1364	0.0	91.4
+B9H3K3	B9H3K3_POPTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa)	Eukaryota	414	65.8	1365	0.0	92.1
+C6TGV2	C6TGV2_SOYBN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Glycine max (Soybean) (Glycine hispida)	Eukaryota	416	65.3	1365	0.0	92.1
+F0ZRV6	F0ZRV6_DICPU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Dictyostelium purpureum (Slime mold)	Eukaryota	416	63.7	1365	0.0	92.6
+W5JVS7	W5JVS7_ANODA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anopheles darlingi (Mosquito)	Eukaryota	446	60.7	1368	0.0	98.3
+W7U1U2	W7U1U2_9STRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Nannochloropsis gaditana	Eukaryota	449	64.6	1368	0.0	91.0
+A0A087G747	A0A087G747_ARAAL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Arabis alpina (Alpine rock-cress)	Eukaryota	490	61.7	1372	0.0	97.7
+A0A0R3WC84	A0A0R3WC84_TAEAS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Taenia asiatica (Asian tapeworm)	Eukaryota	410	64.9	1364	0.0	91.9
+A0A024GJB0	A0A024GJB0_9STRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Albugo candida	Eukaryota	431	63.5	1366	0.0	91.4
+V7BBU8	V7BBU8_PHAVU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phaseolus vulgaris (Kidney bean) (French bean)	Eukaryota	412	66.3	1364	0.0	92.1
+J3L2G0	J3L2G0_ORYBR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryza brachyantha (malo sina)	Eukaryota	412	65.8	1364	0.0	92.1
+A0A0H5R6N9	A0A0H5R6N9_9EUKA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Spongospora subterranea	Eukaryota	433	61.9	1366	0.0	97.2
+A0A068SN28	A0A068SN28_RHIGA	TREMBL	 (Isocitrate dehydrogenase [NADP]) 	Neorhizobium galegae bv. orientalis str. HAMBI 540	Bacteria	404	67.7	1363	0.0	86.6
+A0A068T8R7	A0A068T8R7_RHIGA	TREMBL	 (Isocitrate dehydrogenase [NADP]) 	Neorhizobium galegae bv. officinalis bv. officinalis str. HAMBI 1141	Bacteria	404	67.7	1363	0.0	86.6
+A0A091S023	A0A091S023_NESNO	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Nestor notabilis (Kea)	Eukaryota	414	65.1	1364	0.0	90.8
+Q7Y0W7	Q7Y0W7_LUPAL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lupinus albus (White lupin) (Lupinus termis)	Eukaryota	485	63.1	1371	0.0	94.9
+A0A024GKV9	A0A024GKV9_9STRA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Albugo candida	Eukaryota	436	63.5	1366	0.0	91.4
+I1VYX8	I1VYX8_MYTTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mytilus trossulus (Blue mussel)	Eukaryota	448	60.9	1367	0.0	99.5
+D3BEC9	D3BEC9_POLPA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Polysphondylium pallidum (Cellular slime mold)	Eukaryota	509	65.8	1373	0.0	91.2
+H3G2C6	H3G2C6_PRIPA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Pristionchus pacificus (Parasitic nematode)	Eukaryota	451	59.6	1367	0.0	98.6
+A0A0B2VRT6	A0A0B2VRT6_TOXCA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Toxocara canis (Canine roundworm)	Eukaryota	451	60.9	1367	0.0	97.9
+T2DNN6	T2DNN6_PHAVU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Phaseolus vulgaris (Kidney bean) (French bean)	Eukaryota	412	66.3	1363	0.0	92.1
+J7QFI5	J7QFI5_METSZ	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Methylocystis sp. (strain SC2)	Bacteria	403	64.8	1362	0.0	93.1
+M0YIA7	M0YIA7_HORVD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hordeum vulgare var. distichum (Domesticated barley)	Eukaryota	473	64.2	1369	0.0	96.5
+B0UL70	B0UL70_METS4	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Methylobacterium sp. (strain 4-46)	Bacteria	404	63.1	1362	0.0	93.1
+M5WUJ4	M5WUJ4_PRUPE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Prunus persica (Peach) (Amygdalus persica)	Eukaryota	417	65.3	1363	0.0	91.9
+A0A087TI66	A0A087TI66_9ARAC	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Stegodyphus mimosarum	Eukaryota	447	63.9	1366	0.0	93.5
+A0A0N4UXK1	A0A0N4UXK1_ENTVE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Enterobius vermicularis (Human pinworm)	Eukaryota	437	61.8	1365	0.0	97.7
+F0VNC8	F0VNC8_NEOCL	TREMBL	 (Isocitrate dehydrogenase, cytoplasmic)  (Uncharacterized protein) 	Neospora caninum (strain Liverpool)	Eukaryota	540	64.6	1375	0.0	91.9
+F2CQL5	F2CQL5_HORVD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hordeum vulgare var. distichum (Domesticated barley)	Eukaryota	409	65.5	1362	0.0	92.1
+F0VB31	F0VB31_NEOCL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Neospora caninum (strain Liverpool)	Eukaryota	419	66.0	1363	0.0	91.4

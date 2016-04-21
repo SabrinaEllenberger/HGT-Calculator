@@ -1,0 +1,141 @@
+ID   Q4QHI7_LEIMA            Unreviewed;       435 AA.
+AC   Q4QHI7;
+DT   19-JUL-2005, integrated into UniProtKB/TrEMBL.
+DT   19-JUL-2005, sequence version 1.
+DT   13-APR-2016, entry version 77.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP] {ECO:0000256|PIRNR:PIRNR000108};
+DE            EC=1.1.1.42 {ECO:0000256|PIRNR:PIRNR000108};
+GN   ORFNames=LMJF_10_0290 {ECO:0000313|EMBL:CAJ02471.1};
+OS   Leishmania major.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae;
+OC   Leishmaniinae; Leishmania.
+OX   NCBI_TaxID=5664 {ECO:0000313|EMBL:CAJ02471.1, ECO:0000313|Proteomes:UP000000542};
+RN   [1] {ECO:0000313|EMBL:CAJ02471.1, ECO:0000313|Proteomes:UP000000542}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MHOM/IL/81/Friedlin {ECO:0000313|Proteomes:UP000000542};
+RX   PubMed=16020728; DOI=10.1126/science.1112680;
+RA   Ivens A.C., Peacock C.S., Worthey E.A., Murphy L., Aggarwal G.,
+RA   Berriman M., Sisk E., Rajandream M.A., Adlem E., Aert R., Anupama A.,
+RA   Apostolou Z., Attipoe P., Bason N., Bauser C., Beck A., Beverley S.M.,
+RA   Bianchettin G., Borzym K., Bothe G., Bruschi C.V., Collins M.,
+RA   Cadag E., Ciarloni L., Clayton C., Coulson R.M., Cronin A., Cruz A.K.,
+RA   Davies R.M., De Gaudenzi J., Dobson D.E., Duesterhoeft A.,
+RA   Fazelina G., Fosker N., Frasch A.C., Fraser A., Fuchs M., Gabel C.,
+RA   Goble A., Goffeau A., Harris D., Hertz-Fowler C., Hilbert H., Horn D.,
+RA   Huang Y., Klages S., Knights A., Kube M., Larke N., Litvin L.,
+RA   Lord A., Louie T., Marra M., Masuy D., Matthews K., Michaeli S.,
+RA   Mottram J.C., Muller-Auer S., Munden H., Nelson S., Norbertczak H.,
+RA   Oliver K., O'neil S., Pentony M., Pohl T.M., Price C., Purnelle B.,
+RA   Quail M.A., Rabbinowitsch E., Reinhardt R., Rieger M., Rinta J.,
+RA   Robben J., Robertson L., Ruiz J.C., Rutter S., Saunders D.,
+RA   Schafer M., Schein J., Schwartz D.C., Seeger K., Seyler A., Sharp S.,
+RA   Shin H., Sivam D., Squares R., Squares S., Tosato V., Vogt C.,
+RA   Volckaert G., Wambutt R., Warren T., Wedler H., Woodward J., Zhou S.,
+RA   Zimmermann W., Smith D.F., Blackwell J.M., Stuart K.D., Barrell B.,
+RA   Myler P.J.;
+RT   "The genome of the kinetoplastid parasite, Leishmania major.";
+RL   Science 309:436-442(2005).
+RN   [2] {ECO:0000313|EMBL:CAJ02471.1, ECO:0000313|Proteomes:UP000000542}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MHOM/IL/81/Friedlin {ECO:0000313|Proteomes:UP000000542};
+RX   PubMed=22038252; DOI=10.1101/gr.122945.111;
+RA   Rogers M.B., Hilley J.D., Dickens N.J., Wilkes J., Bates P.A.,
+RA   Depledge D.P., Harris D., Her Y., Herzyk P., Imamura H., Otto T.D.,
+RA   Sanders M., Seeger K., Dujardin J.C., Berriman M., Smith D.F.,
+RA   Hertz-Fowler C., Mottram J.C.;
+RT   "Chromosome and gene copy number variation allow major structural
+RT   change between species and strains of Leishmania.";
+RL   Genome Res. 21:2129-2142(2011).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-3};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FR796406; CAJ02471.1; -; Genomic_DNA.
+DR   RefSeq; XP_001681361.1; XM_001681309.1.
+DR   ProteinModelPortal; Q4QHI7; -.
+DR   SMR; Q4QHI7; 27-433.
+DR   STRING; 5664.LmjF.10.0290; -.
+DR   EnsemblProtists; LmjF.10.0290:mRNA; LmjF.10.0290:pep; LmjF.10.0290.
+DR   GeneID; 5649629; -.
+DR   KEGG; lma:LMJF_10_0290; -.
+DR   eggNOG; KOG1526; Eukaryota.
+DR   eggNOG; COG0538; LUCA.
+DR   HOGENOM; HOG000019858; -.
+DR   InParanoid; Q4QHI7; -.
+DR   KO; K00031; -.
+DR   OMA; QVIEHDV; -.
+DR   Proteomes; UP000000542; Chromosome 10.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006102; P:isocitrate metabolic process; IEA:InterPro.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11822; PTHR11822; 1.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PIRSF; PIRSF000108; IDH_NADP; 1.
+DR   TIGRFAMs; TIGR00127; nadp_idh_euk; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000542};
+KW   Magnesium {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Manganese {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Metal-binding {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   NADP {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-4};
+KW   Oxidoreductase {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000313|EMBL:CAJ02471.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000542};
+KW   Tricarboxylic acid cycle {ECO:0000256|PIRNR:PIRNR000108}.
+FT   DOMAIN       33    425       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+FT   NP_BIND     101    103       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   NP_BIND     334    339       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   REGION      120    126       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   METAL       276    276       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   METAL       299    299       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   BINDING     103    103       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     108    108       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     135    135       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     158    158       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     284    284       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     352    352       NADP; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000256|PIRSR:PIRSR000108-
+FT                                4}.
+FT   SITE        165    165       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+FT   SITE        236    236       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+SQ   SEQUENCE   435 AA;  48490 MW;  685D1D34CB6A5CC3 CRC64;
+     MFRHVSAASA SSLVAARSFS STNVYLDKRI KVKNEVVDMD GDEMTRIIWS FIKEKLILPY
+     VDVPINYFDL SVTNRDATND KVTVEAAEAV KKCNVGIKCA TITPDEARVK EFNLKKMWKS
+     PNGTIRNILG GTVFREPIIV SNIPRIVPQW HNPIVVGRHA FGDQYKATDA VLKPGKLQLV
+     HTPADGSAPT TLDVYDFKGE GVGLAMYNTK ESIEGFAKSC FQYALMRKYP LVLTTKNTIL
+     KKYDGMFLQT FQRMYDEQYK ADFEKAGITY NHRLIDDQVA QMIKGEGGFV WACKNYDGDV
+     QSDIVAQGFG SLGLMTSVLM CPDGKTIEAE AAHGTVTRHY RQHQQGKETS TNSVASIYAW
+     TRGLAHRGKL DGNSDLVKFS ETLERVVVKA IEDGHMTKDL ALCVYGSSGV KREHYETTEQ
+     FLDSVDTALK KAMSA
+//
+DR   InterPro; IPR004790; Isocitrate_DH_NADP.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

@@ -1,0 +1,17 @@
+Synechococcus	syc:syc2372_d	(GenBank) isocitrate dehydrogenase (NADP+)	prot>A0A0H3K5K5	ICDH_1
+Escherichia	eco:b1136	(RefSeq) e14 prophage; isocitrate dehydrogenase, specific for NADP+ (EC:1.1.1.42)	prot>P08200	ICDH_1
+Deinococcus	dra:DR_1540	(RefSeq) isocitrate dehydrogenase	prot>Q9RU54	ICDH_1
+Bacillus	bsu:BSU29130	(RefSeq) isocitrate dehydrogenase (EC:1.1.1.41)	prot>P39126	ICDH_1
+Nostoc	ana:alr1827	(GenBank) isocitrate dehydrogenase	prot>P50214	ICDH_1
+Aquifex	aae:aq_1512	(RefSeq) isocitrate dehydrogenase	prot>O67480	ICDH_1
+Cytophaga	chu:CHU_1228	(GenBank) isocitrate dehydrogenase (NADP) (EC:1.1.1.42)	prot>Q11VR5	ICDH_2
+Desulfovibrio	dvu:DVU0477	(RefSeq) isocitrate dehydrogenase (EC:1.1.1.42)	prot>Q72EU1	ICDH_1
+Sinorhizobium	sme:SMc00480	(RefSeq) isocitrate dehydrogenase (EC:1.1.1.41)	prot>Q92PG6	ICDH_2
+Chlorobium	cte:CT0351	(RefSeq) isocitrate dehydrogenase	prot>Q8KFH5	ICDH_3
+Helicobacter	hhe:HH_1196	(GenBank) isocitrate dehydrogenase	prot>Q7VGX2	ICDH_3
+Micrococcus	mlu:Mlut_04530	(GenBank) isocitrate dehydrogenase, NADP-dependent, monomeric type (EC:1.1.1.42)	prot>C5C942	ICDH_3
+Neisseria	nme:NMB0920	(RefSeq) isocitrate dehydrogenase, NADP-dependent, monomeric type (EC:1.1.1.42)	prot>Q9JZS1	ICDH_3
+Streptomyces	sco:SCO7000	(RefSeq) isocitrate dehydrogenase	prot>Q9KZF3	ICDH_3
+Thermotoga	tma:TM1148	(RefSeq) isocitrate dehydrogenase (EC:1.1.1.41)	prot>Q9X0N2	ICDH_2
+Vibrio	vch:VC1141	(RefSeq) isocitrate dehydrogenase	prot>Q9KSW5	ICDH_3
+________________________________________________________________________

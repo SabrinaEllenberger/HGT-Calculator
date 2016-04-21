@@ -1,0 +1,203 @@
+Search for horizontal gene transfer from Bacteria into Protozoa
+Open Settings: C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Input\Start_Tutorial.txt
+Protein Abbreviations: ICDH
+Prokaryotic organisms: Streptomyces  Micrococcus  Aquifex  Cytophaga  Chlorobium  Synechococcus  Nostoc  Sinorhizobium  Neisseria  Vibrio  Escherichia  Desulfovibrio  Helicobacter  Thermotoga  Deinococcus  Bacillus  Candidatus Kinetoplastibacterium  
+Eukaryotic organisms: Tetrahymena  Paramecium  Strigomonas  Leishmania  Trypanosoma  Toxoplasma  Plasmodium  Saccharomyces  Arabidopsis  Homo  
+ 
+-------------------------------------------------------------
+Query: Isocitrate dehydrogenase
+Query abbreviation: ICDH
+ 
+Find candidates IDs ( K00031 | Eukaryotic )
+> check UniProtFiles
+ 
+UniProt Search for: Isocitrate dehydrogenase | all
+> check UniProtFiles
+ 
+Find candidates IDs ( K00031 | Prokaryotic )
+> check UniProtFiles
+ 
+Download of eukaryotic sequences
+> download protein sequences
+> download gene sequences
+Download of prokaryotic sequences
+> download protein sequences
+> download gene sequences
+Test of downloaded protein and gene files
+> File not found (Strigomonas: Genes | ICDH)-> start download
+> write missing file: Strigomonas (S9UPN9) | ICDH_1 | Genes
+> File not found (Trypanosoma: Genes | ICDH)-> start download
+> write missing file: Trypanosoma (A0A061IWC2) | ICDH_2 | Genes
+> File not found (Strigomonas: Genes | ICDH)-> start download
+> write missing file: Strigomonas (S9UPW7) | ICDH_2 | Genes
+ 
+Start_blast()
+Strigomonas_S9UPN9_ICDH -> BLAST search started...
+Leishmania_Q4Q3T2_ICDH -> BLAST search started...
+Leishmania_Q4QHI7_ICDH -> BLAST search started...
+Arabidopsis_Q9SLK0_ICDH -> BLAST search started...
+Homo_O75874_ICDH -> BLAST search started...
+Plasmodium_Q8I6T2_ICDH -> BLAST search started...
+Paramecium_A0BPK2_ICDH -> BLAST search started...
+Saccharomyces_P21954_ICDH -> BLAST search started...
+Tetrahymena_Q23K14_ICDH -> BLAST search started...
+Toxoplasma_Q5UCG0_ICDH -> BLAST search started...
+Trypanosoma_A0A061IWC2_ICDH -> BLAST search started...
+Strigomonas_S9UPW7_ICDH -> BLAST search started...
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Plasmodium_Q8I6T2_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Toxoplasma_Q5UCG0_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Strigomonas_S9UPW7_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Tetrahymena_Q23K14_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Leishmania_Q4QHI7_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Saccharomyces_P21954_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Trypanosoma_A0A061IWC2_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Strigomonas_S9UPN9_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Homo_O75874_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Leishmania_Q4Q3T2_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Arabidopsis_Q9SLK0_ICDH_blast_dl_eval.txt
+> C:\Users\Standard\Documents\HGT-Calculator\Test\Data\Download\Blast\Blast_Tutorial\Paramecium_A0BPK2_ICDH_blast_dl_eval.txt
+ 
+Show BLAST statistics
+ 
+CAI calculation
+Download CUT for Arabidopsis thaliana (Mouse-ear cress) (3702)
+Download CUT for Homo sapiens (Human) (9606)
+Download CUT for Leishmania major (5664)
+Download CUT for Paramecium tetraurelia (5888)
+Download CUT for Plasmodium falciparum (isolate 3D7) (36329)
+Download CUT for Saccharomyces cerevisiae (4932)
+Download CUT for Strigomonas culicis (28005)
+Download CUT for Tetrahymena thermophila (5911)
+Download CUT for Toxoplasma gondii (5811)
+Download CUT for Trypanosoma cruzi (5693)
+ 
+Create Tree Files for ICDH as protein tree
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_Leishmania_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_Paramecium_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_Plasmodium_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_sah_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_Strigomonas_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_Tetrahymena_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_Toxoplasma_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_single_Trypanosoma_prot.txt
+> Create multiple alignment with ClustalW2 for ICDH_dataAlignInput_small_prot.txt
+ 
+Write input files for HGT Calculator
+ 
+> write input_Tutorial_first.txt
+> write input_Tutorial_second.txt
+ 
+Start HGT Calculator
+Protein cluster after first reading (1):
+ICDH | 2 | ICDH_1, ICDH_2
+
+ 
+Start Block A
+Protein cluster after second reading (1):
+ ICDH | 2 | ICDH_1, ICDH_2, IPR004790, IPR019818, IPR024084, IPR001804, IPR004439
+
+
+Organism cluster:
+ Viridiplantae | Arabidopsis thaliana (Mouse-ear cress)
+
+ Metazoa | Homo sapiens (Human)
+
+ Euglenozoa | Leishmania major, Strigomonas culicis, Trypanosoma rangeli SC58
+
+ Alveolata | Paramecium tetraurelia, Plasmodium falciparum (isolate 3D7), Tetrahymena thermophila (strain SB210), Toxoplasma gondii
+
+ Fungi | Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)
+
+
+Domains
+Organism: Strigomonas | Subgroup: ICDH_1 | IPR001804, IPR004439, IPR019818, IPR024084
+
+Organism: Leishmania | Subgroup: ICDH_1 | IPR001804, IPR004439, IPR019818, IPR024084
+
+ 
+Start Block B
+Organism: Strigomonas | Subgroup: ICDH_1 | Archaea: 0, Bacteria: 240, Eukaryota: 10, AI: 200, Donor: Proteobacteria
+Organism: Leishmania | Subgroup: ICDH_1 | Archaea: 0, Bacteria: 204, Eukaryota: 46, AI: 200, Donor: Proteobacteria
+ 
+Start Block C
+GC coding Strigomonas | ICDH_1 | 67.14 |  average: 31.71
+GC first Strigomonas | ICDH_1 | 64.22 |  average: 37.51
+GC second Strigomonas | ICDH_1 | 44.55 |  average: 30.33
+GC third Strigomonas | ICDH_1 | 92.65 |  average: 27.29
+GC coding Strigomonas | ICDH_2 | 63.3 |  average: 31.71
+GC first Strigomonas | ICDH_2 | 58.62 |  average: 37.51
+GC second Strigomonas | ICDH_2 | 38.39 |  average: 30.33
+GC third Strigomonas | ICDH_2 | 92.87 |  average: 27.29
+GC second Leishmania | ICDH_1 | 42.96 |  average: 50.3
+GC first Leishmania | ICDH_2 | 54.59 |  average: 63.63
+GC second Leishmania | ICDH_2 | 38.07 |  average: 50.3
+GC third Leishmania | ICDH_2 | 85.78 |  average: 76.2
+GC third Trypanosoma | ICDH_2 | 72.25 |  average: 60.36
+GC third Toxoplasma | ICDH_2 | 54.79 |  average: 61.68
+GC first Plasmodium | ICDH_2 | 40.3 |  average: 31.95
+GC second Plasmodium | ICDH_2 | 31.56 |  average: 22.16
+GC third Saccharomyces | ICDH_2 | 44.99 |  average: 38.1
+GC coding Homo | ICDH_2 | 44.5 |  average: 52.27
+GC second Homo | ICDH_2 | 35.9 |  average: 42.54
+GC third Homo | ICDH_2 | 47.71 |  average: 58.55
+ 
+Start Block D
+Hit in singleTree ICDH_newickTree_single_Strigomonas_prot.ph > Strigomonas | ICDH_1 | 1
+Hit in singleTree ICDH_newickTree_single_Strigomonas_prot.ph > Strigomonas | ICDH_1 | 1
+Hit in singleTree ICDH_newickTree_single_Leishmania_prot.ph > Leishmania | ICDH_1 | 1
+Hit in singleTree ICDH_newickTree_single_Leishmania_prot.ph > Leishmania | ICDH_1 | 1
+LargeTree ICDH_newickTree_prot.ph
+Split: 1 | 0
+LargeTree: find neighbors > ICDH_newickTree_prot.ph | Plasmodium | ICDH_2
+ 
+Start calculation of HGT Scores
+Complete run time: 
+0 min
+
+
+Errors: 
+Strigomonas_ICDH (S9UPN9) -> Gene file is missing
+  
+Trypanosoma_ICDH (A0A061IWC2) -> Gene file is missing
+  
+Strigomonas_ICDH (S9UPW7) -> Gene file is missing
+  
+Codon usage Table for Strigomonas culicis_28005 has entry 0.0 for UUA 
+  
+Codon usage Table for Strigomonas culicis_28005 has entry 0.0 for UGA 
+  
+Codon usage Table for Strigomonas culicis_28005 has entry 0.0 for CGA 
+  
+Codon usage Table for Strigomonas culicis_28005 has entry 0.0 for ACU 
+  
+Codon usage Table for Strigomonas culicis_28005 has entry 0.0 for AGU 
+  
+Codon usage Table for Strigomonas culicis_28005 has entry 0.0 for AGA 
+  
+Codon usage Table for Strigomonas culicis_28005 has entry 0.0 for GGA 
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPN9_ICDH_nt_dl (UUA)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPN9_ICDH_nt_dl (AGU)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPN9_ICDH_nt_dl (ACU)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPN9_ICDH_nt_dl (CGA)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPN9_ICDH_nt_dl (AGA)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPN9_ICDH_nt_dl (GGA)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPW7_ICDH_nt_dl (UUA)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPW7_ICDH_nt_dl (AGU)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPW7_ICDH_nt_dl (ACU)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPW7_ICDH_nt_dl (CGA)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPW7_ICDH_nt_dl (AGA)
+  
+Warning: insufficient information for computing CAI of Strigomonas_S9UPW7_ICDH_nt_dl (GGA)
+  

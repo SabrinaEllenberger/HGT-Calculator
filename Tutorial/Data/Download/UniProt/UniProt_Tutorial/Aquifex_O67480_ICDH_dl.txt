@@ -1,0 +1,93 @@
+ID   IDH_AQUAE               Reviewed;         426 AA.
+AC   O67480;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   11-NOV-2015, entry version 99.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP];
+DE            Short=IDH;
+DE            EC=1.1.1.42;
+DE   AltName: Full=IDP;
+DE   AltName: Full=NADP(+)-specific ICDH;
+DE   AltName: Full=Oxalosuccinate decarboxylase;
+GN   Name=icd; OrderedLocusNames=aq_1512;
+OS   Aquifex aeolicus (strain VF5).
+OC   Bacteria; Aquificae; Aquificales; Aquificaceae; Aquifex.
+OX   NCBI_TaxID=224324;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=VF5;
+RX   PubMed=9537320; DOI=10.1038/32831;
+RA   Deckert G., Warren P.V., Gaasterland T., Young W.G., Lenox A.L.,
+RA   Graham D.E., Overbeek R., Snead M.A., Keller M., Aujay M., Huber R.,
+RA   Feldman R.A., Short J.M., Olsen G.J., Swanson R.V.;
+RT   "The complete genome of the hyperthermophilic bacterium Aquifex
+RT   aeolicus.";
+RL   Nature 392:353-358(1998).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit. {ECO:0000250};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000657; AAC07444.1; -; Genomic_DNA.
+DR   PIR; F70431; F70431.
+DR   RefSeq; NP_214045.1; NC_000918.1.
+DR   RefSeq; WP_010880983.1; NC_000918.1.
+DR   ProteinModelPortal; O67480; -.
+DR   STRING; 224324.aq_1512; -.
+DR   EnsemblBacteria; AAC07444; AAC07444; aq_1512.
+DR   GeneID; 1193103; -.
+DR   KEGG; aae:aq_1512; -.
+DR   PATRIC; 20960134; VBIAquAeo85532_1180.
+DR   eggNOG; ENOG4108HMX; Bacteria.
+DR   eggNOG; COG0538; LUCA.
+DR   HOGENOM; HOG000021113; -.
+DR   InParanoid; O67480; -.
+DR   KO; K00031; -.
+DR   OMA; RDWGYEL; -.
+DR   OrthoDB; EOG6SNDTP; -.
+DR   BioCyc; AAEO224324:GJBH-1087-MONOMER; -.
+DR   Proteomes; UP000000798; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006097; P:glyoxylate cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11835; PTHR11835; 2.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Glyoxylate bypass; Magnesium; Manganese;
+KW   Metal-binding; NADP; Oxidoreductase; Phosphoprotein;
+KW   Reference proteome; Tricarboxylic acid cycle.
+FT   CHAIN         1    426       Isocitrate dehydrogenase [NADP].
+FT                                /FTId=PRO_0000083548.
+FT   METAL       312    312       Magnesium or manganese. {ECO:0000250}.
+FT   BINDING     123    123       Substrate. {ECO:0000250}.
+FT   BINDING     125    125       Substrate. {ECO:0000250}.
+FT   BINDING     129    129       Substrate. {ECO:0000250}.
+FT   BINDING     139    139       Substrate. {ECO:0000250}.
+FT   BINDING     162    162       Substrate. {ECO:0000250}.
+FT   SITE        169    169       Critical for catalysis. {ECO:0000250}.
+FT   SITE        239    239       Critical for catalysis. {ECO:0000250}.
+FT   MOD_RES     123    123       Phosphoserine. {ECO:0000250}.
+SQ   SEQUENCE   426 AA;  46925 MW;  06E47E36D844432A CRC64;
+     MNKTTFENVY YWEGKAQIPQ EGQFIKLKED KTLEVPDNPI IPFIEGDGIG PEITQAMLLI
+     INTAVEKTYN GSKKIYWVEL LAGDKAEEKT GERLPQETLD VLKESIVGIK GPLGTPVGKG
+     VRSINSALRR AFDYYSAVRP VYWMGQATPI PNPERVDLVV FRENTDDVYA GVEFFAGTPE
+     AKKVREFLIK EMGAKEEGFP EDVGITVKPM SEFKTKRHVR KALRYALENN KKNVAVIGKG
+     NIMKATEGAF INWAFEVAEE PEFKGKVVTD PEAEPGEGQV KLTKVITDQM LMQLVLKPEA
+     WDVIIAQNLN GDYVSDLAAS LIGGPGFVPS GNIGDGYALF ESTHGTAWDI AGKGIANPLS
+     LTLSGAMMLE YIGWKEAAQK VYDAVRRTLA EHIGTPDIAS GFQKQGIEAK AVGTMEFAEE
+     ISKRIE
+//
+DR   InterPro; IPR001804; Isocitrate/isopropylmalate_DH.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

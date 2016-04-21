@@ -1,0 +1,101 @@
+ID   Q9KSW5_VIBCH            Unreviewed;       741 AA.
+AC   Q9KSW5;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   16-MAR-2016, entry version 85.
+DE   SubName: Full=Isocitrate dehydrogenase {ECO:0000313|EMBL:AAF94300.1};
+GN   OrderedLocusNames=VC_1141 {ECO:0000313|EMBL:AAF94300.1};
+OS   Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales;
+OC   Vibrionaceae; Vibrio.
+OX   NCBI_TaxID=243277 {ECO:0000313|EMBL:AAF94300.1, ECO:0000313|Proteomes:UP000000584};
+RN   [1] {ECO:0000313|EMBL:AAF94300.1, ECO:0000313|Proteomes:UP000000584}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 39315 / El Tor Inaba N16961
+RC   {ECO:0000313|Proteomes:UP000000584};
+RX   PubMed=10952301; DOI=10.1038/35020000;
+RA   Heidelberg J.F., Eisen J.A., Nelson W.C., Clayton R.A., Gwinn M.L.,
+RA   Dodson R.J., Haft D.H., Hickey E.K., Peterson J.D., Umayam L.A.,
+RA   Gill S.R., Nelson K.E., Read T.D., Tettelin H., Richardson D.,
+RA   Ermolaeva M.D., Vamathevan J., Bass S., Qin H., Dragoi I., Sellers P.,
+RA   McDonald L., Utterback T., Fleishmann R.D., Nierman W.C., White O.,
+RA   Salzberg S.L., Smith H.O., Colwell R.R., Mekalanos J.J., Venter J.C.,
+RA   Fraser C.M.;
+RT   "DNA sequence of both chromosomes of the cholera pathogen Vibrio
+RT   cholerae.";
+RL   Nature 406:477-483(2000).
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRSR:PIRSR009407-3};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE003852; AAF94300.1; -; Genomic_DNA.
+DR   PIR; B82236; B82236.
+DR   RefSeq; NP_230786.1; NC_002505.1.
+DR   RefSeq; WP_001142855.1; NC_002505.1.
+DR   ProteinModelPortal; Q9KSW5; -.
+DR   SMR; Q9KSW5; 6-739.
+DR   STRING; 243277.VC1141; -.
+DR   DNASU; 2614411; -.
+DR   EnsemblBacteria; AAF94300; AAF94300; VC_1141.
+DR   GeneID; 2614411; -.
+DR   KEGG; vch:VC1141; -.
+DR   PATRIC; 20081374; VBIVibCho83274_1090.
+DR   eggNOG; ENOG4105E9K; Bacteria.
+DR   eggNOG; COG2838; LUCA.
+DR   KO; K00031; -.
+DR   OMA; RDSGKMW; -.
+DR   OrthoDB; EOG6DVJPP; -.
+DR   BioCyc; VCHO:VC1141-MONOMER; -.
+DR   Proteomes; UP000000584; Chromosome 1.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; ISS:TIGR.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; ISS:TIGR.
+DR   Gene3D; 3.40.718.10; -; 3.
+DR   Pfam; PF03971; IDH; 1.
+DR   PIRSF; PIRSF009407; IDH_monmr; 1.
+DR   TIGRFAMs; TIGR00178; monomer_idh; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000584};
+KW   Magnesium {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Metal-binding {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000584}.
+FT   REGION      134    141       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   METAL       352    352       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       550    550       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       554    554       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   BINDING     147    147       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   BINDING     549    549       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   SITE        257    257       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+FT   SITE        422    422       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+SQ   SEQUENCE   741 AA;  80531 MW;  9442576499BA54A7 CRC64;
+     MPTNKPTIIY TITDEAPALA TYSLLPIIQS FTASSGINVE TRDISLAGRI LANFPEHLTE
+     EQRISDALTE LGELAKTPEA NIIKLPNISA SVPQLKAAIK ELQDKGYALP NYPEEPSSYE
+     EEAIKATYDK IKGSAVNPVL REGNSDRRAP ASVKNYAKKN PHSMGAWSKD SKSHVASMSD
+     KDFFGSEKSM TVSGATKVAI EFVGKEGAVK VLKKPFALQD KEIIDTSVMS KKALIAFFEK
+     EIADAKAQDV LFSLHMKATM MKVSDPVIFG HAVKVYYKAV FDKYGQLFDQ LGVDVNNGLG
+     DVYAKIQSLP EAQRAEIEAA IQAVYATQPA LAMVDSDRGI TNLHVPSDVI VDASMPAMIR
+     TSGQMWGPDG KQKDTKATIP DRCYAGVYQT VIDFCKQHGA FDPTTMGSVP NVGLMAQKAE
+     EYGSHDKTFI LDAEGVVRVI DEAGKVLLEQ SVEAGDIFRM CQVKDAPIQD WVKLAVTRAR
+     ASNTPAVFWL DPARAHDAEL IKKVNQYLPN HDTSGLEIKI LSPIEATQYS LVRMKAGQDT
+     ISVTGNVLRD YLTDLFPILE LGTSAKMLSI VPLMNGGGLF ETGAGGSAPK HVQQVQKENH
+     LRWDSLGEFL ALAASLEHLS VVTGNRKAQV LADALDKATG KFLDMNKSPS RRVGEIDNRG
+     SHFYLATYWA QALAEQTADA DLAAEFAPIA KALEEKEAQI VAELNGAQGK PGDLGGYYAP
+     EFAKVAPLMR PSSTFNAIID R
+//
+DR   InterPro; IPR004436; Isocitrate_DH_NADP_mono.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

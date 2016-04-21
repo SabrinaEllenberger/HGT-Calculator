@@ -1,0 +1,108 @@
+ID   A0A061IWC2_TRYRA        Unreviewed;       435 AA.
+AC   A0A061IWC2;
+DT   03-SEP-2014, integrated into UniProtKB/TrEMBL.
+DT   03-SEP-2014, sequence version 1.
+DT   13-APR-2016, entry version 11.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP] {ECO:0000256|PIRNR:PIRNR000108};
+DE            EC=1.1.1.42 {ECO:0000256|PIRNR:PIRNR000108};
+GN   ORFNames=TRSC58_06174 {ECO:0000313|EMBL:ESL06156.1};
+OS   Trypanosoma rangeli SC58.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae; Trypanosoma;
+OC   Herpetosoma.
+OX   NCBI_TaxID=429131 {ECO:0000313|EMBL:ESL06156.1, ECO:0000313|Proteomes:UP000031737};
+RN   [1] {ECO:0000313|EMBL:ESL06156.1, ECO:0000313|Proteomes:UP000031737}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=SC58 {ECO:0000313|EMBL:ESL06156.1,
+RC   ECO:0000313|Proteomes:UP000031737};
+RA   Stoco P.H., Wagner G., Gerber A., Zaha A., Thompson C.,
+RA   Bartholomeu D.C., Luckemeyer D.D., Bahia D., Loreto E., Prestes E.B.,
+RA   Lima F.M., Rodrigues-Luiz G., Vallejo G.A., Filho J.F., Monteiro K.M.,
+RA   Tyler K.M., de Almeida L.G., Ortiz M.F., Siervo M.A., de Moraes M.H.,
+RA   Cunha O.L., Mendonca-Neto R., Silva R., Teixeira S.M., Murta S.M.,
+RA   Sincero T.C., Mendes T.A., Urmenyi T.P., Silva V.G., da Rocha W.D.,
+RA   Andersson B., Romanha A.J., Steindel M., de Vasconcelos A.T.,
+RA   Grisard E.C.;
+RL   Submitted (JUL-2013) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-3};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:ESL06156.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AUPL01006174; ESL06156.1; -; Genomic_DNA.
+DR   EnsemblProtists; ESL06156; ESL06156; TRSC58_06174.
+DR   Proteomes; UP000031737; Unassembled WGS sequence.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006102; P:isocitrate metabolic process; IEA:InterPro.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11822; PTHR11822; 1.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PIRSF; PIRSF000108; IDH_NADP; 1.
+DR   TIGRFAMs; TIGR00127; nadp_idh_euk; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000031737};
+KW   Magnesium {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Manganese {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Metal-binding {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   NADP {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-4};
+KW   Oxidoreductase {ECO:0000256|PIRNR:PIRNR000108};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000031737};
+KW   Tricarboxylic acid cycle {ECO:0000256|PIRNR:PIRNR000108}.
+FT   DOMAIN       37    423       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+FT   NP_BIND     102    104       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   NP_BIND     334    339       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   REGION      121    127       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   METAL       276    276       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   METAL       299    299       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   BINDING     104    104       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     109    109       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     136    136       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     159    159       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     284    284       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     352    352       NADP; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000256|PIRSR:PIRSR000108-
+FT                                4}.
+FT   SITE        166    166       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+FT   SITE        236    236       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+SQ   SEQUENCE   435 AA;  48775 MW;  9BE6932EED68C7A9 CRC64;
+     MLRRVACRAS VAFSAAAACY MSTTCRRLER IKVTGKVVDM DGDEMARIIW SLIKEKLIFP
+     YVDVPIDYYD LSVTNRDATN DKVTFQAAEA ILRHNVGIKC ATITPDEARV KEFNLKKMWK
+     SPNGTIRNIL GGTVFREPIL IKNVPRVVPH WREPIIVGRH AFGDQYSATD AVFPPGRLEL
+     VHTPPGGTPT VREVFNFKGE GIGLAMYNTR ENIEKFAESC FEFALMRKYP LVLSTKNTIL
+     KKYDGMFLDI FQRIYDTQYK GQFEQLKLTF FHRLIDDQVA QMIKGHGGFV WACKNYDGDI
+     QSDVVAQGFG SLGLMTSVLL CSDGKTIEAE AAHGTVTRHY REYQKGKETS TNSIASIFAW
+     THGLAQRGKL DGNAALVDFA AALELAVIRT VEAGHMTKDL ALCIYGQEKL QRSHYETTEG
+     FIESVAAELV RACKI
+//
+DR   InterPro; IPR004790; Isocitrate_DH_NADP.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

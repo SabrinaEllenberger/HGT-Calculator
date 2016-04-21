@@ -1,0 +1,107 @@
+ID   Q9JZS1_NEIMB            Unreviewed;       741 AA.
+AC   Q9JZS1;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   16-MAR-2016, entry version 87.
+DE   SubName: Full=Isocitrate dehydrogenase, NADP-dependent, monomeric type {ECO:0000313|EMBL:AAF41328.1};
+DE            EC=1.1.1.42 {ECO:0000313|EMBL:AAF41328.1};
+GN   Name=icd {ECO:0000313|EMBL:AAF41328.1};
+GN   OrderedLocusNames=NMB0920 {ECO:0000313|EMBL:AAF41328.1};
+OS   Neisseria meningitidis serogroup B (strain MC58).
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales;
+OC   Neisseriaceae; Neisseria.
+OX   NCBI_TaxID=122586 {ECO:0000313|EMBL:AAF41328.1, ECO:0000313|Proteomes:UP000000425};
+RN   [1] {ECO:0000313|EMBL:AAF41328.1, ECO:0000313|Proteomes:UP000000425}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MC58 {ECO:0000313|EMBL:AAF41328.1,
+RC   ECO:0000313|Proteomes:UP000000425};
+RX   PubMed=10710307; DOI=10.1126/science.287.5459.1809;
+RA   Tettelin H., Saunders N.J., Heidelberg J., Jeffries A.C., Nelson K.E.,
+RA   Eisen J.A., Ketchum K.A., Hood D.W., Peden J.F., Dodson R.J.,
+RA   Nelson W.C., Gwinn M.L., DeBoy R., Peterson J.D., Hickey E.K.,
+RA   Haft D.H., Salzberg S.L., White O., Fleischmann R.D., Dougherty B.A.,
+RA   Mason T., Ciecko A., Parksey D.S., Blair E., Cittone H., Clark E.B.,
+RA   Cotton M.D., Utterback T.R., Khouri H., Qin H., Vamathevan J.,
+RA   Gill J., Scarlato V., Masignani V., Pizza M., Grandi G., Sun L.,
+RA   Smith H.O., Fraser C.M., Moxon E.R., Rappuoli R., Venter J.C.;
+RT   "Complete genome sequence of Neisseria meningitidis serogroup B strain
+RT   MC58.";
+RL   Science 287:1809-1815(2000).
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRSR:PIRSR009407-3};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE002098; AAF41328.1; -; Genomic_DNA.
+DR   PIR; B81143; B81143.
+DR   RefSeq; NP_273960.1; NC_003112.2.
+DR   RefSeq; WP_002225341.1; NC_003112.2.
+DR   ProteinModelPortal; Q9JZS1; -.
+DR   SMR; Q9JZS1; 7-741.
+DR   STRING; 122586.NMB0920; -.
+DR   PaxDb; Q9JZS1; -.
+DR   PRIDE; Q9JZS1; -.
+DR   EnsemblBacteria; AAF41328; AAF41328; NMB0920.
+DR   GeneID; 903041; -.
+DR   KEGG; nme:NMB0920; -.
+DR   PATRIC; 20357285; VBINeiMen85645_1156.
+DR   eggNOG; ENOG4105E9K; Bacteria.
+DR   eggNOG; COG2838; LUCA.
+DR   HOGENOM; HOG000240860; -.
+DR   KO; K00031; -.
+DR   OMA; RDSGKMW; -.
+DR   OrthoDB; EOG6DVJPP; -.
+DR   BioCyc; NMEN122586:GHGG-958-MONOMER; -.
+DR   Proteomes; UP000000425; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:InterPro.
+DR   Gene3D; 3.40.718.10; -; 3.
+DR   Pfam; PF03971; IDH; 1.
+DR   PIRSF; PIRSF009407; IDH_monmr; 1.
+DR   TIGRFAMs; TIGR00178; monomer_idh; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000425};
+KW   Magnesium {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Metal-binding {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Oxidoreductase {ECO:0000313|EMBL:AAF41328.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000425}.
+FT   REGION      133    140       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   METAL       351    351       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       549    549       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       553    553       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   BINDING     146    146       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   BINDING     548    548       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   SITE        256    256       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+FT   SITE        421    421       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+SQ   SEQUENCE   741 AA;  80163 MW;  18FB6AF911226D31 CRC64;
+     MTQKSTIVYT HTDEAPALAT QSLLPIVQAF ARHADIDVKT SDISLSGRIL AAFPEYLTEA
+     QRVPDALAEL GELVKQPDAN VIKLPNISAS VPQLTAAIKE LQSKGFAVPD YPADPQTDEE
+     KAVRERYDRI KGSAVNPVLR EGNSDRRAPK AVKNFAKKNP HSMGAWTKDS KTHVATMQSG
+     DFFHNEQSVI VPEATSVSIV FTDKQGNKKE LREPVALKAG EIIDATVMSK KALLAFLAEQ
+     VKDAKAKGVL FSLHMKATMM KVSDPIIFGH AVKVFFAPVF EKFGDKLAAA GVNVNNGFGN
+     LLANLDKLDA DTRTAVEAEI AAVYAANPDL AMVDSDKGIT NLHVPSDVIV DASMPAMIRN
+     SGRMWDKNGK AQDTKAVIPD SSYAGVYQAT IDFCREHGAF DPTTMGTVPN VGLMAQAAEE
+     YGSHNKTFEI EADGQVQVID AAGKVLMQHD VEAGDIWRMC QTKDAPVKDW VQLAVNRARL
+     SNTPAVFWLD ENRPHDKSLL AKVKAYLAEL DTNGLDIRVL APEEAAKFSL GRLKNGEDTI
+     SVTGNVLRDY LTDLFPILEL GTSAKMLSIV PLMNGGGMFE TGAGGSAPKH VQQFLEENHL
+     RWDSLGEFLA LAVSFEHLAQ KTGNAKAQVL ADTLDAATEK LLLNDKSPKR KAGELDNRGS
+     HFYLTLYWAQ ELAAQDKDAE LKAAFTPLAA ALTADEAKIV AELSAVQGKA ADIGGYYAAN
+     PEKAAQVMRP SVTFNQALNA L
+//
+DR   InterPro; IPR004436; Isocitrate_DH_NADP_mono.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

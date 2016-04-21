@@ -1,0 +1,111 @@
+ID   Q4Q3T2_LEIMA            Unreviewed;       425 AA.
+AC   Q4Q3T2;
+DT   19-JUL-2005, integrated into UniProtKB/TrEMBL.
+DT   19-JUL-2005, sequence version 1.
+DT   16-MAR-2016, entry version 75.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP] {ECO:0000256|RuleBase:RU004446};
+DE            EC=1.1.1.42 {ECO:0000256|RuleBase:RU004446};
+GN   ORFNames=LMJF_33_2550 {ECO:0000313|EMBL:CAJ06701.1};
+OS   Leishmania major.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae;
+OC   Leishmaniinae; Leishmania.
+OX   NCBI_TaxID=5664 {ECO:0000313|EMBL:CAJ06701.1, ECO:0000313|Proteomes:UP000000542};
+RN   [1] {ECO:0000313|EMBL:CAJ06701.1, ECO:0000313|Proteomes:UP000000542}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MHOM/IL/81/Friedlin {ECO:0000313|Proteomes:UP000000542};
+RX   PubMed=16020728; DOI=10.1126/science.1112680;
+RA   Ivens A.C., Peacock C.S., Worthey E.A., Murphy L., Aggarwal G.,
+RA   Berriman M., Sisk E., Rajandream M.A., Adlem E., Aert R., Anupama A.,
+RA   Apostolou Z., Attipoe P., Bason N., Bauser C., Beck A., Beverley S.M.,
+RA   Bianchettin G., Borzym K., Bothe G., Bruschi C.V., Collins M.,
+RA   Cadag E., Ciarloni L., Clayton C., Coulson R.M., Cronin A., Cruz A.K.,
+RA   Davies R.M., De Gaudenzi J., Dobson D.E., Duesterhoeft A.,
+RA   Fazelina G., Fosker N., Frasch A.C., Fraser A., Fuchs M., Gabel C.,
+RA   Goble A., Goffeau A., Harris D., Hertz-Fowler C., Hilbert H., Horn D.,
+RA   Huang Y., Klages S., Knights A., Kube M., Larke N., Litvin L.,
+RA   Lord A., Louie T., Marra M., Masuy D., Matthews K., Michaeli S.,
+RA   Mottram J.C., Muller-Auer S., Munden H., Nelson S., Norbertczak H.,
+RA   Oliver K., O'neil S., Pentony M., Pohl T.M., Price C., Purnelle B.,
+RA   Quail M.A., Rabbinowitsch E., Reinhardt R., Rieger M., Rinta J.,
+RA   Robben J., Robertson L., Ruiz J.C., Rutter S., Saunders D.,
+RA   Schafer M., Schein J., Schwartz D.C., Seeger K., Seyler A., Sharp S.,
+RA   Shin H., Sivam D., Squares R., Squares S., Tosato V., Vogt C.,
+RA   Volckaert G., Wambutt R., Warren T., Wedler H., Woodward J., Zhou S.,
+RA   Zimmermann W., Smith D.F., Blackwell J.M., Stuart K.D., Barrell B.,
+RA   Myler P.J.;
+RT   "The genome of the kinetoplastid parasite, Leishmania major.";
+RL   Science 309:436-442(2005).
+RN   [2] {ECO:0000313|EMBL:CAJ06701.1, ECO:0000313|Proteomes:UP000000542}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=MHOM/IL/81/Friedlin {ECO:0000313|Proteomes:UP000000542};
+RX   PubMed=22038252; DOI=10.1101/gr.122945.111;
+RA   Rogers M.B., Hilley J.D., Dickens N.J., Wilkes J., Bates P.A.,
+RA   Depledge D.P., Harris D., Her Y., Herzyk P., Imamura H., Otto T.D.,
+RA   Sanders M., Seeger K., Dujardin J.C., Berriman M., Smith D.F.,
+RA   Hertz-Fowler C., Mottram J.C.;
+RT   "Chromosome and gene copy number variation allow major structural
+RT   change between species and strains of Leishmania.";
+RL   Genome Res. 21:2129-2142(2011).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH. {ECO:0000256|RuleBase:RU004446}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|RuleBase:RU004446};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|RuleBase:RU004446};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|RuleBase:RU004443}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FR796429; CAJ06701.1; -; Genomic_DNA.
+DR   RefSeq; XP_001686016.1; XM_001685964.1.
+DR   ProteinModelPortal; Q4Q3T2; -.
+DR   SMR; Q4Q3T2; 3-419.
+DR   STRING; 5664.LmjF.33.2550; -.
+DR   EnsemblProtists; LmjF.33.2550:mRNA; LmjF.33.2550:pep; LmjF.33.2550.
+DR   GeneID; 5654679; -.
+DR   KEGG; lma:LMJF_33_2550; -.
+DR   eggNOG; ENOG410IPH6; Eukaryota.
+DR   eggNOG; COG0538; LUCA.
+DR   HOGENOM; HOG000021113; -.
+DR   InParanoid; Q4Q3T2; -.
+DR   KO; K00031; -.
+DR   OMA; RDWGYEL; -.
+DR   Proteomes; UP000000542; Chromosome 33.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006097; P:glyoxylate cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11835; PTHR11835; 3.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   TIGRFAMs; TIGR00183; prok_nadp_idh; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000542};
+KW   Glyoxylate bypass {ECO:0000256|RuleBase:RU004446};
+KW   Manganese {ECO:0000256|RuleBase:RU004446};
+KW   Metal-binding {ECO:0000256|RuleBase:RU004446};
+KW   NADP {ECO:0000256|RuleBase:RU004446};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU004444,
+KW   ECO:0000313|EMBL:CAJ06701.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000542};
+KW   Tricarboxylic acid cycle {ECO:0000256|RuleBase:RU004446}.
+FT   DOMAIN       20    416       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+SQ   SEQUENCE   425 AA;  46335 MW;  0B2BE5791260B057 CRC64;
+     MAESISFAKG ALVVPSCPII PYIEGDGIGK EITEVAHRVF DAAVAKEYGT TRKISWLEVL
+     AGEKAFEQKG SWLPEETIEA FDKHRIGMKG PLTTPVGEGI RSLNVVLRHR LDLFVCQRPV
+     RWFTGVGSPI RHPEWVDMVV FRENTEDIYS GIEWGQGTPE AAKFADFLTK EMGVTTVRFP
+     ETSAYGVKPV SLEGSERLVR AAVQYAIDHH LPSVTLVHKG NIMKFTEGCF KKWGYALAER
+     EFPDAAFTMT QYDAIKEKGG KEAAETALRE AMDSGKVVIK DCICDAFLQN TILRPLDYSV
+     IATMNLNGDY VSDQLAALVG GIGIAPGANI NYVTGHAIFE ATHGTAPDIA GQGKANPSSL
+     ILSGAMMFDY MGWSEVSARI INALEMVFQA NMATVDLARQ MTGARALSTA EFGEAIIKKI
+     NGDEA
+//
+DR   InterPro; IPR001804; Isocitrate/isopropylmalate_DH.
+DR   InterPro; IPR004439; Isocitrate_DH_NADP_dimer_prok.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

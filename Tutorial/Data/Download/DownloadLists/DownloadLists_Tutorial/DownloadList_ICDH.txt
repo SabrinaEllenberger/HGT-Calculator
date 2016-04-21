@@ -1,0 +1,13 @@
+Strigomonas	no KEGG ID	Isocitrate dehydrogenase [NADP]	prot>S9UPN9	ICDH_1	0.859
+Leishmania	lma:LMJF_33_2550	(RefSeq) putative isocitrate dehydrogenase	prot>Q4Q3T2	ICDH_1	0.705
+Leishmania	lma:LMJF_10_0290	(RefSeq) putative isocitrate dehydrogenase [NADP] mitochondrial precursor	prot>Q4QHI7	ICDH_2	0.783
+Arabidopsis	ath:AT1G54340	(RefSeq) isocitrate dehydrogenase	prot>Q9SLK0	ICDH_2	0.809
+Homo	hsa:3417	(RefSeq) isocitrate dehydrogenase 1 (NADP+) (EC:1.1.1.42)	prot>O75874	ICDH_2	0.764
+Plasmodium	pfa:PF13_0242	(RefSeq) isocitrate dehydrogenase (NADP), mitochondrial precursor (EC:1.1.1.42)	prot>Q8I6T2	ICDH_2	0.791
+Paramecium	ptm:GSPATT00005218001	(RefSeq) hypothetical protein	prot>A0BPK2	ICDH_2	0.795
+Saccharomyces	sce:YDL066W	(RefSeq) isocitrate dehydrogenase (NADP(+)) IDP1 (EC:1.1.1.42)	prot>P21954	ICDH_2	0.79
+Tetrahymena	tet:TTHERM_00196200	(RefSeq) NADP-dependent isocitrate dehydrogenase	prot>Q23K14	ICDH_2	0.785
+Toxoplasma	tgo:TGME49_066760	(RefSeq) isocitrate dehydrogenase, putative (EC:1.1.1.42)	prot>Q5UCG0	ICDH_2	0.743
+Trypanosoma	no KEGG ID	Isocitrate dehydrogenase [NADP]	prot>A0A061IWC2	ICDH_2	0.818
+Strigomonas	no KEGG ID	Isocitrate dehydrogenase [NADP]	prot>S9UPW7	ICDH_2	0.885
+________________________________________________________________________

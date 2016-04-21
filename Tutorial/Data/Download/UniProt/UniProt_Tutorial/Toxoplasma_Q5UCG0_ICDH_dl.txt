@@ -1,0 +1,58 @@
+ID   Q5UCG0_TOXGO            Unreviewed;       594 AA.
+AC   Q5UCG0; A0A0N5E8Y1; B6KL81; B9Q1W1; B9QPC9; S7UHD0; S8EZ20;
+DT   07-DEC-2004, integrated into UniProtKB/TrEMBL.
+DT   07-DEC-2004, sequence version 1.
+DT   13-APR-2016, entry version 76.
+DE   SubName: Full=Isocitrate dehydrogenase {ECO:0000313|EMBL:AAV33246.1};
+GN   Name=ICDH1 {ECO:0000313|EMBL:AAV33246.1};
+OS   Toxoplasma gondii.
+OC   Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia;
+OC   Eucoccidiorida; Eimeriorina; Sarcocystidae; Toxoplasma.
+OX   NCBI_TaxID=5811 {ECO:0000313|EMBL:AAV33246.1};
+RN   [1] {ECO:0000313|EMBL:AAV33246.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Kwok L.Y., Soldati D.;
+RT   "Bimodal targeting of proteins to the mitochondrion and apicoplast of
+RT   Toxoplasma gondii.";
+RL   Submitted (SEP-2004) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY758242; AAV33246.1; -; mRNA.
+DR   RefSeq; XP_002368755.1; XM_002368714.1.
+DR   UniGene; Tgo.8537; -.
+DR   STRING; 5811.TGME49_066760; -.
+DR   EnsemblProtists; ESS33499; ESS33499; TGVEG_266760.
+DR   GeneID; 7893787; -.
+DR   KEGG; tgo:TGME49_066760; -.
+DR   EuPathDB; ToxoDB:TGME49_266760; -.
+DR   eggNOG; KOG1526; Eukaryota.
+DR   eggNOG; COG0538; LUCA.
+DR   KO; K00031; -.
+DR   OMA; PENGEPQ; -.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006102; P:isocitrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11822; PTHR11822; 1.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   TIGRFAMs; TIGR00127; nadp_idh_euk; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   2: Evidence at transcript level;
+SQ   SEQUENCE   594 AA;  66341 MW;  072CBC5C155E0809 CRC64;
+     MYPLLCVFFA FFSPVHARSA SQFSGSRCRP SAAILVPAVL PREPTNSCSG FLRQSYKDLL
+     RCTVSPASAP RSGDGTGHLH IPCSRTPYPG NSHYLATVTH PETVPETRIF VRRGLSLVSR
+     AKSYLSPLCG GQQVDGFGRP PPVTASGVQP SSASCKTVKK EERSNALSQT GIMNKMSGFQ
+     RIKVDQPVVE MDGDEMARVI WAMIKEKLIL PYLDIPLMYY DLSIQHRDKT DDQVTIDAAL
+     AIKRHGVGVK CATITPDEQR VKEFNLKKMW KSPNATIRNT LDGTIFRAPI LMKNVPRLVP
+     SWTKPIIIGR HAHADQYKAL DFTVDKPGRF VMSFIPADKS NPEVHEVYEF KGGGVALGMY
+     NTDASIKGFA HSCFQYALDQ KMPLYLSTKN TVLKKYDGRF KDIFQTIYEK EYKQKFEEAG
+     LWYEHRLIDD MVAQAIKSSG GFVWACKNYD GDVQSDVVAQ GYGSLGLMTS VLVCPDGKTI
+     EAEAAHGTVT RHYRQYQKGI KTSTNPIASI YAWTRSLGHR AKLDNNQKLK EFVEALEDAC
+     VETVEAGFMT KDLALAIKGD KLTDRDYLCT EDFMDKLARV AERKLLERQI ISKA
+//
+DR   InterPro; IPR004790; Isocitrate_DH_NADP.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

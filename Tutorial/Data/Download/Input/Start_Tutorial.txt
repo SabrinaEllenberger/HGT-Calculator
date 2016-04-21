@@ -1,0 +1,6 @@
+Name of the data set > Tutorial
+Transfer from > Bacteria
+Transfer into > Protozoa
+Protein abbreviations > ICDH
+Prokaryotic organisms > Streptomyces, Micrococcus, Aquifex, Cytophaga, Chlorobium, Synechococcus, Nostoc, Sinorhizobium, Neisseria, Vibrio, Escherichia, Desulfovibrio, Helicobacter, Thermotoga, Deinococcus, Bacillus, Candidatus Kinetoplastibacterium
+Eukaryotic organisms > Tetrahymena, Paramecium, Strigomonas, Leishmania, Trypanosoma, Toxoplasma, Plasmodium, Saccharomyces, Arabidopsis, Homo

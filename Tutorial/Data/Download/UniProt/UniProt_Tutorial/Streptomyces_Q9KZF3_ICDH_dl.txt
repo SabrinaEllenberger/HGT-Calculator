@@ -1,0 +1,102 @@
+ID   Q9KZF3_STRCO            Unreviewed;       739 AA.
+AC   Q9KZF3;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   16-MAR-2016, entry version 90.
+DE   SubName: Full=Isocitrate dehydrogenase {ECO:0000313|EMBL:CAB88977.1};
+GN   OrderedLocusNames=SCO7000 {ECO:0000313|EMBL:CAB88977.1};
+OS   Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145).
+OC   Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae;
+OC   Streptomyces; Streptomyces albidoflavus group.
+OX   NCBI_TaxID=100226 {ECO:0000313|Proteomes:UP000001973};
+RN   [1] {ECO:0000313|EMBL:CAB88977.1, ECO:0000313|Proteomes:UP000001973}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC BAA-471 / A3(2) / M145
+RC   {ECO:0000313|Proteomes:UP000001973};
+RX   PubMed=12000953; DOI=10.1038/417141a;
+RA   Bentley S.D., Chater K.F., Cerdeno-Tarraga A.M., Challis G.L.,
+RA   Thomson N.R., James K.D., Harris D.E., Quail M.A., Kieser H.,
+RA   Harper D., Bateman A., Brown S., Chandra G., Chen C.W., Collins M.,
+RA   Cronin A., Fraser A., Goble A., Hidalgo J., Hornsby T., Howarth S.,
+RA   Huang C.H., Kieser T., Larke L., Murphy L., Oliver K., O'Neil S.,
+RA   Rabbinowitsch E., Rajandream M.A., Rutherford K., Rutter S.,
+RA   Seeger K., Saunders D., Sharp S., Squares R., Squares S., Taylor K.,
+RA   Warren T., Wietzorrek A., Woodward J., Barrell B.G., Parkhill J.,
+RA   Hopwood D.A.;
+RT   "Complete genome sequence of the model actinomycete Streptomyces
+RT   coelicolor A3(2).";
+RL   Nature 417:141-147(2002).
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRSR:PIRSR009407-3};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL939130; CAB88977.1; -; Genomic_DNA.
+DR   RefSeq; NP_631065.1; NC_003888.3.
+DR   RefSeq; WP_011031369.1; NC_003888.3.
+DR   ProteinModelPortal; Q9KZF3; -.
+DR   SMR; Q9KZF3; 4-738.
+DR   STRING; 100226.SCO7000; -.
+DR   EnsemblBacteria; CAB88977; CAB88977; CAB88977.
+DR   GeneID; 1102438; -.
+DR   KEGG; sco:SCO7000; -.
+DR   PATRIC; 23743919; VBIStrCoe124346_7102.
+DR   eggNOG; COG2838; LUCA.
+DR   HOGENOM; HOG000240860; -.
+DR   InParanoid; Q9KZF3; -.
+DR   KO; K00031; -.
+DR   OMA; RDSGKMW; -.
+DR   OrthoDB; EOG6DVJPP; -.
+DR   PhylomeDB; Q9KZF3; -.
+DR   Proteomes; UP000001973; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:InterPro.
+DR   Gene3D; 3.40.718.10; -; 3.
+DR   Pfam; PF03971; IDH; 1.
+DR   PIRSF; PIRSF009407; IDH_monmr; 1.
+DR   TIGRFAMs; TIGR00178; monomer_idh; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001973};
+KW   Magnesium {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Metal-binding {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001973}.
+FT   REGION      132    139       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   METAL       348    348       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       546    546       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       550    550       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   BINDING     145    145       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   BINDING     545    545       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   SITE        255    255       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+FT   SITE        418    418       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+SQ   SEQUENCE   739 AA;  79520 MW;  FCDF3F1D006AFC2D CRC64;
+     MTDSTIIYTH TDEAPALATY SFLPVVRAYA SQAGVAVETR DISLAGRIIA LFPEYLTEDQ
+     RIPDALAELG ELAKTPAANI IKLPNISASI PQLKAAVAEL QGQGYALPAY PDDPKTDEER
+     DIRARYDKVK GSAVNPVLRE GNSDRRAPAS VKNYAKTHPH RMGAWTGESK TNVATMGEND
+     FRSTEKSAVI AEDGTLRIEL VGDDGTTTVL RESVPVKKDE VVDASVLRVA ALREFLTAQV
+     ARAKAEGILY SVHLKATMMK VSDPIIFGHV VRAFFPKTFA QYGDVLAKAG LTPNDGLGGI
+     YKGLESLPEG AEIKASFDAE LAEGPELAMV DSDKGITNLH VPSDVIIDAS MPAMIRTSGH
+     MWGADGGEHD ALAVIPDSSY AGVYQAVIED CRANGAYDPS TMGSVPNVGL MAQKAEEYGS
+     HDKTFEIPTT GTVRLVDAAG NAVLEQTVSA GDIFRACQTK DAPIRDWVKL AVTRARATGD
+     PAVFWLDEGR AHDANLIAKV KQYLSEHDTE GLDIRILDPV EATKLSVERI RRGENTISVT
+     GNVLRDYLTD LFPILELGTS AKMLSVVPLM AGGGLFETGA GGSAPKHVQQ LVKEDYLRWD
+     SLGEFFALVP SLEKYAEATG NGKAKVLADT LDRATATFLN EDKSPTRRVG GIDNRGSHFY
+     LSLYWAQELA KQTDDADLAK AFAPLAETLT ASEQKIVEEL NAVQGKPAEI GGYYQPDPAK
+     AAKIMRPSTT WNEALASLA
+//
+DR   InterPro; IPR004436; Isocitrate_DH_NADP_mono.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

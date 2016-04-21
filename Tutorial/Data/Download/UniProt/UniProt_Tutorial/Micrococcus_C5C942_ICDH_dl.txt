@@ -1,0 +1,100 @@
+ID   C5C942_MICLC            Unreviewed;       740 AA.
+AC   C5C942;
+DT   28-JUL-2009, integrated into UniProtKB/TrEMBL.
+DT   28-JUL-2009, sequence version 1.
+DT   16-MAR-2016, entry version 52.
+DE   SubName: Full=Isocitrate dehydrogenase, NADP-dependent, monomeric type {ECO:0000313|EMBL:ACS29994.1};
+DE            EC=1.1.1.42 {ECO:0000313|EMBL:ACS29994.1};
+GN   OrderedLocusNames=Mlut_04530 {ECO:0000313|EMBL:ACS29994.1};
+OS   Micrococcus luteus (strain ATCC 4698 / DSM 20030 / JCM 1464 / NBRC
+OS   3333 / NCIMB 9278 / NCTC 2665 / VKM Ac-2230) (Micrococcus
+OS   lysodeikticus).
+OC   Bacteria; Actinobacteria; Micrococcales; Micrococcaceae; Micrococcus.
+OX   NCBI_TaxID=465515 {ECO:0000313|EMBL:ACS29994.1, ECO:0000313|Proteomes:UP000000738};
+RN   [1] {ECO:0000313|Proteomes:UP000000738}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 4698 / DSM 20030 / JCM 1464 / NBRC 3333 / NCIMB 9278 /
+RC   NCTC 2665 / VKM Ac-2230 {ECO:0000313|Proteomes:UP000000738};
+RX   PubMed=19948807; DOI=10.1128/JB.01254-09;
+RA   Young M., Artsatbanov V., Beller H.R., Chandra G., Chater K.F.,
+RA   Dover L.G., Goh E.B., Kahan T., Kaprelyants A.S., Kyrpides N.,
+RA   Lapidus A., Lowry S.R., Lykidis A., Mahillon J., Markowitz V.,
+RA   Mavromatis K., Mukamolova G.V., Oren A., Rokem J.S., Smith M.C.,
+RA   Young D.I., Greenblatt C.L.;
+RT   "Genome sequence of the Fleming strain of Micrococcus luteus, a simple
+RT   free-living actinobacterium.";
+RL   J. Bacteriol. 192:841-860(2010).
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRSR:PIRSR009407-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRSR:PIRSR009407-3};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP001628; ACS29994.1; -; Genomic_DNA.
+DR   RefSeq; WP_010079378.1; NZ_CABC01000062.1.
+DR   ProteinModelPortal; C5C942; -.
+DR   SMR; C5C942; 2-738.
+DR   STRING; 465515.MlutN2_010100004966; -.
+DR   EnsemblBacteria; ACS29994; ACS29994; Mlut_04530.
+DR   GeneID; 7984567; -.
+DR   KEGG; mlu:Mlut_04530; -.
+DR   PATRIC; 22621551; VBIMicLut29563_0424.
+DR   eggNOG; ENOG4105E9K; Bacteria.
+DR   eggNOG; COG2838; LUCA.
+DR   HOGENOM; HOG000240860; -.
+DR   KO; K00031; -.
+DR   OMA; RDSGKMW; -.
+DR   OrthoDB; EOG6DVJPP; -.
+DR   BioCyc; MLUT465515:GHH6-452-MONOMER; -.
+DR   Proteomes; UP000000738; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:InterPro.
+DR   Gene3D; 3.40.718.10; -; 3.
+DR   Pfam; PF03971; IDH; 1.
+DR   PIRSF; PIRSF009407; IDH_monmr; 1.
+DR   TIGRFAMs; TIGR00178; monomer_idh; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000738};
+KW   Magnesium {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Metal-binding {ECO:0000256|PIRSR:PIRSR009407-3};
+KW   Oxidoreductase {ECO:0000313|EMBL:ACS29994.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000738}.
+FT   REGION      130    137       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   METAL       348    348       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       546    546       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   METAL       550    550       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-3}.
+FT   BINDING     143    143       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   BINDING     545    545       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-2}.
+FT   SITE        253    253       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+FT   SITE        418    418       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR009407-1}.
+SQ   SEQUENCE   740 AA;  79807 MW;  FDBE6BC8C2D2468A CRC64;
+     MSKIIYTLTD EAPMLATASL LPIVRAYAGT AGVELETRDI SLAGRILAAF KDVLPEEQRT
+     ADALAELGEL VKTPEANVIK LPNISASVPQ LRAAIKELQA HGYALPEYPD EPKTDAEKDA
+     KARYDSVKGS AVNPVLREGN SDRRAPKAVK EYAKRFPHSM GEWTPDSKTA VATMGADDFR
+     ANEQSVTLPA ADVLTIEFTD EDGKTTVLKE GLKVLKGEVV DGTFMSAKAL DAFLAEQVKR
+     AKEEGILFSA HLKATMMKVS DPVIFGHVVK AYFSELFEKY GEQLAAAGLS ANNGLAAIEG
+     GLDKLDAETA EGVRAAIAAA YENGPDVAMV NSAKGITNLH VPSDVIVDAS MPAMIRNSGR
+     MWNKHDQTQD TLAVIPDSSY AGVFQAVIDD CKANGAYDPS TMGTVPNVGL MAQKAEEYGS
+     HDKTFIMDAA GTVAVKNSAG ETLLSHDVEA GDIWRACQTK DVPVRDWVKL AVTRARASQT
+     PAVFWLDETR AHDRELIKKV EEYLKEHDTE GLDLRILSPV EATKLSVERI RRGEDTISVT
+     GNVLRDYNTD LFPILELGTS AKMLSIVPLL NGGGLFETGA GGSAPKHVQQ LLEENHLRWD
+     SLGEFLALAV SFEHEAVANE NHRAQVLADT LDAATGTLLI EGKSPKRKVG ELDNRGSHFY
+     LALYWARELA KQTEDAELAA AAKPIAEELG AQEETILAEL NGVQGSPVDL GGYYAPDMEK
+     VTSVMRPSAT LNAIVDKLSV
+//
+DR   InterPro; IPR004436; Isocitrate_DH_NADP_mono.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

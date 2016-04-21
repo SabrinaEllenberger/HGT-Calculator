@@ -1,0 +1,79 @@
+ID   Q72EU1_DESVH            Unreviewed;       380 AA.
+AC   Q72EU1;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   16-MAR-2016, entry version 93.
+DE   SubName: Full=Isocitrate dehydrogenase, NADP-dependent {ECO:0000313|EMBL:AAS94960.1};
+DE            EC=1.1.1.42 {ECO:0000313|EMBL:AAS94960.1};
+GN   Name=icd {ECO:0000313|EMBL:AAS94960.1};
+GN   OrderedLocusNames=DVU_0477 {ECO:0000313|EMBL:AAS94960.1};
+OS   Desulfovibrio vulgaris (strain Hildenborough / ATCC 29579 / NCIMB
+OS   8303).
+OC   Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales;
+OC   Desulfovibrionaceae; Desulfovibrio.
+OX   NCBI_TaxID=882 {ECO:0000313|EMBL:AAS94960.1, ECO:0000313|Proteomes:UP000002194};
+RN   [1] {ECO:0000313|EMBL:AAS94960.1, ECO:0000313|Proteomes:UP000002194}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Hildenborough / ATCC 29579 / NCIMB 8303
+RC   {ECO:0000313|Proteomes:UP000002194};
+RX   PubMed=15077118; DOI=10.1038/nbt959;
+RA   Heidelberg J.F., Seshadri R., Haveman S.A., Hemme C.L., Paulsen I.T.,
+RA   Kolonay J.F., Eisen J.A., Ward N., Methe B., Brinkac L.M.,
+RA   Daugherty S.C., Deboy R.T., Dodson R.J., Durkin A.S., Madupu R.,
+RA   Nelson W.C., Sullivan S.A., Fouts D., Haft D.H., Selengut J.,
+RA   Peterson J.D., Davidsen T.M., Zafar N., Zhou L., Radune D.,
+RA   Dimitrov G., Hance M., Tran K., Khouri H., Gill J., Utterback T.R.,
+RA   Feldblyum T.V., Wall J.D., Voordouw G., Fraser C.M.;
+RT   "The genome sequence of the anaerobic, sulfate-reducing bacterium
+RT   Desulfovibrio vulgaris Hildenborough.";
+RL   Nat. Biotechnol. 22:554-559(2004).
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|RuleBase:RU004443}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE017285; AAS94960.1; -; Genomic_DNA.
+DR   RefSeq; WP_010937784.1; NC_002937.3.
+DR   RefSeq; YP_009701.1; NC_002937.3.
+DR   ProteinModelPortal; Q72EU1; -.
+DR   SMR; Q72EU1; 2-378.
+DR   STRING; 882.DVU0477; -.
+DR   PaxDb; Q72EU1; -.
+DR   EnsemblBacteria; AAS94960; AAS94960; DVU_0477.
+DR   GeneID; 2793622; -.
+DR   KEGG; dvu:DVU0477; -.
+DR   PATRIC; 32060918; VBIDesVul119526_0451.
+DR   eggNOG; ENOG4108HMX; Bacteria.
+DR   eggNOG; COG0538; LUCA.
+DR   KO; K00031; -.
+DR   OMA; HPERVNM; -.
+DR   OrthoDB; EOG6SNDTP; -.
+DR   PhylomeDB; Q72EU1; -.
+DR   BioCyc; DVUL882:GJIL-498-MONOMER; -.
+DR   Proteomes; UP000002194; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11835; PTHR11835; 2.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002194};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU004444,
+KW   ECO:0000313|EMBL:AAS94960.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002194}.
+FT   DOMAIN        5    376       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+SQ   SEQUENCE   380 AA;  41519 MW;  A56FF5671C5A0B19 CRC64;
+     MRKTVYWIEG DGIGPEVWKA ARPVIDAAVE KSYGDSRSIE WKELLAGEKA HRETGEYLPQ
+     STLDTLATAE LAIKGPLGTP VGKGFRSLNV TMRQTLDLYA CIRPIRYFDG IMSPVKRPDL
+     VDMVVFRENT EDVYAGIEYR AGTPEAKRLI AFLRDELGAK VDIEAAVGIK PMTEKGSKRL
+     VRRALRFAID QKRPNLTLVH KGNIMKFTEG GFREWGYEVA RDEFADLTTT ETEGTAGRLV
+     VKDRIADAMF QEVLIRPQQY SVIATSNLNG DYISDALAAQ VGGLGLAPGV NMSDSLAFFE
+     ATHGTAPTIA GQDKANPGSL ILCGALMLEH MGWNEAAERI YKAVNEAIAS RRVTVDLATQ
+     MENATTVGTV AFGDIVTAGL
+//
+DR   InterPro; IPR001804; Isocitrate/isopropylmalate_DH.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

@@ -1,0 +1,26 @@
+Blastocrithidia culicis  [gbinv]: 2 CDS's (1371 codons)
+
+UUU  2.9(     4)  UCU  2.2(     3)  UAU  0.7(     1)  UGU  0.7(     1)
+UUC 40.1(    55)  UCC 24.8(    34)  UAC 26.3(    36)  UGC  8.0(    11)
+UUA  0.0(     0)  UCA  0.7(     1)  UAA  0.7(     1)  UGA  0.0(     0)
+UUG  1.5(     2)  UCG 23.3(    32)  UAG  0.7(     1)  UGG  9.5(    13)
+
+CUU  2.2(     3)  CCU  2.9(     4)  CAU  1.5(     2)  CGU  2.9(     4)
+CUC 40.8(    56)  CCC 19.0(    26)  CAC 24.8(    34)  CGC 42.3(    58)
+CUA  0.7(     1)  CCA  1.5(     2)  CAA  2.2(     3)  CGA  0.0(     0)
+CUG 46.0(    63)  CCG 22.6(    31)  CAG 35.0(    48)  CGG 12.4(    17)
+
+AUU  6.6(     9)  ACU  0.0(     0)  AAU  2.2(     3)  AGU  0.0(     0)
+AUC 48.9(    67)  ACC 19.0(    26)  AAC 48.1(    66)  AGC 20.4(    28)
+AUA  0.7(     1)  ACA  1.5(     2)  AAA  2.9(     4)  AGA  0.0(     0)
+AUG 30.6(    42)  ACG 29.9(    41)  AAG 79.5(   109)  AGG  1.5(     2)
+
+GUU  2.9(     4)  GCU  2.9(     4)  GAU  6.6(     9)  GGU 10.2(    14)
+GUC 19.7(    27)  GCC 23.3(    32)  GAC 48.1(    66)  GGC 49.6(    68)
+GUA  0.7(     1)  GCA  3.6(     5)  GAA  5.1(     7)  GGA  0.0(     0)
+GUG 48.1(    66)  GCG 32.8(    45)  GAG 46.0(    63)  GGG  9.5(    13)
+
+Coding GC 62.51%
+1st letter GC 56.60%
+2nd letter GC 37.71%
+3rd letter GC 93.22%

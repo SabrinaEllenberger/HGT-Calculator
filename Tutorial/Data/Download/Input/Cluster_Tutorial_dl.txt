@@ -1,0 +1,16 @@
+Phylum>Organism
+___________________________
+Viridiplantae>Arabidopsis thaliana (Mouse-ear cress)
+___________________________
+Metazoa>Homo sapiens (Human)
+___________________________
+Euglenozoa>Leishmania major
+Euglenozoa>Strigomonas culicis
+Euglenozoa>Trypanosoma rangeli SC58
+___________________________
+Alveolata>Paramecium tetraurelia
+Alveolata>Plasmodium falciparum (isolate 3D7)
+Alveolata>Tetrahymena thermophila (strain SB210)
+Alveolata>Toxoplasma gondii
+___________________________
+Fungi>Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)

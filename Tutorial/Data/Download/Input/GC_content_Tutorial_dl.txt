@@ -1,0 +1,10 @@
+Arabidopsis thaliana	Coding GC 44.59%	1st letter GC 50.84%	2nd letter GC 40.54%	3rd letter GC 42.38%
+Homo sapiens	Coding GC 52.27%	1st letter GC 55.72%	2nd letter GC 42.54%	3rd letter GC 58.55%
+Leishmania major	Coding GC 63.38%	1st letter GC 63.63%	2nd letter GC 50.30%	3rd letter GC 76.20%
+Paramecium tetraurelia	Coding GC 31.71%	1st letter GC 37.51%	2nd letter GC 30.33%	3rd letter GC 27.29%
+Plasmodium falciparum	Coding GC 23.80%	1st letter GC 31.95%	2nd letter GC 22.16%	3rd letter GC 17.28%
+Saccharomyces cerevisiae	Coding GC 39.77%	1st letter GC 44.58%	2nd letter GC 36.64%	3rd letter GC 38.10%
+Blastocrithidia culicis	Coding GC 62.51%	1st letter GC 56.60%	2nd letter GC 37.71%	3rd letter GC 93.22%
+Tetrahymena thermophila	Coding GC 32.53%	1st letter GC 38.64%	2nd letter GC 31.25%	3rd letter GC 27.69%
+Toxoplasma gondii	Coding GC 56.41%	1st letter GC 60.03%	2nd letter GC 47.52%	3rd letter GC 61.68%
+Trypanosoma cruzi	Coding GC 54.11%	1st letter GC 57.94%	2nd letter GC 44.04%	3rd letter GC 60.36%

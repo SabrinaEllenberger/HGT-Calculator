@@ -1,0 +1,111 @@
+ID   IDH_NOSS1               Reviewed;         473 AA.
+AC   P50214;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   09-DEC-2015, entry version 97.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP];
+DE            Short=IDH;
+DE            EC=1.1.1.42;
+DE   AltName: Full=IDP;
+DE   AltName: Full=NADP(+)-specific ICDH;
+DE   AltName: Full=Oxalosuccinate decarboxylase;
+GN   Name=icd; OrderedLocusNames=alr1827;
+OS   Nostoc sp. (strain PCC 7120 / UTEX 2576).
+OC   Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+OX   NCBI_TaxID=103690;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8169222;
+RA   Muro-Pastor M.I., Florencio F.J.;
+RT   "NADP(+)-isocitrate dehydrogenase from the cyanobacterium Anabaena sp.
+RT   strain PCC 7120: purification and characterization of the enzyme and
+RT   cloning, sequencing, and disruption of the icd gene.";
+RL   J. Bacteriol. 176:2718-2726(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PCC 7120 / UTEX 2576;
+RX   PubMed=11759840; DOI=10.1093/dnares/8.5.205;
+RA   Kaneko T., Nakamura Y., Wolk C.P., Kuritz T., Sasamoto S.,
+RA   Watanabe A., Iriguchi M., Ishikawa A., Kawashima K., Kimura T.,
+RA   Kishida Y., Kohara M., Matsumoto M., Matsuno A., Muraki A.,
+RA   Nakazaki N., Shimpo S., Sugimoto M., Takazawa M., Yamada M.,
+RA   Yasuda M., Tabata S.;
+RT   "Complete genomic sequence of the filamentous nitrogen-fixing
+RT   cyanobacterium Anabaena sp. strain PCC 7120.";
+RL   DNA Res. 8:205-213(2001).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X77654; CAA54734.1; -; Genomic_DNA.
+DR   EMBL; BA000019; BAB73526.1; -; Genomic_DNA.
+DR   PIR; A55591; A55591.
+DR   PIR; AE2034; AE2034.
+DR   RefSeq; WP_010995995.1; NC_003272.1.
+DR   ProteinModelPortal; P50214; -.
+DR   STRING; 103690.alr1827; -.
+DR   PRIDE; P50214; -.
+DR   EnsemblBacteria; BAB73526; BAB73526; BAB73526.
+DR   KEGG; ana:alr1827; -.
+DR   PATRIC; 22773725; VBINosSp37423_2340.
+DR   eggNOG; ENOG4108HMX; Bacteria.
+DR   eggNOG; COG0538; LUCA.
+DR   HOGENOM; HOG000021113; -.
+DR   KO; K00031; -.
+DR   OMA; RDWGYEL; -.
+DR   OrthoDB; EOG6SNDTP; -.
+DR   Proteomes; UP000002483; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006097; P:glyoxylate cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 2.
+DR   PANTHER; PTHR11835; PTHR11835; 3.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   TIGRFAMs; TIGR00183; prok_nadp_idh; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome; Glyoxylate bypass; Magnesium; Manganese;
+KW   Metal-binding; NADP; Oxidoreductase; Phosphoprotein;
+KW   Reference proteome; Tricarboxylic acid cycle.
+FT   CHAIN         1    473       Isocitrate dehydrogenase [NADP].
+FT                                /FTId=PRO_0000083547.
+FT   NP_BIND     394    400       NADP. {ECO:0000250}.
+FT   METAL       362    362       Magnesium or manganese. {ECO:0000250}.
+FT   BINDING     104    104       NADP. {ECO:0000250}.
+FT   BINDING     113    113       Substrate. {ECO:0000250}.
+FT   BINDING     115    115       Substrate. {ECO:0000250}.
+FT   BINDING     119    119       Substrate. {ECO:0000250}.
+FT   BINDING     129    129       Substrate. {ECO:0000250}.
+FT   BINDING     153    153       Substrate. {ECO:0000250}.
+FT   BINDING     407    407       NADP; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000250}.
+FT   BINDING     446    446       NADP. {ECO:0000250}.
+FT   BINDING     450    450       NADP. {ECO:0000250}.
+FT   SITE        160    160       Critical for catalysis. {ECO:0000250}.
+FT   SITE        237    237       Critical for catalysis. {ECO:0000250}.
+FT   MOD_RES     113    113       Phosphoserine. {ECO:0000250}.
+SQ   SEQUENCE   473 AA;  52228 MW;  D30941B992A38AAB CRC64;
+     MYNKITPPTT GEKITFKNGE PVVPDNPIIP FIRGDGTGID IWPATEKVLD AAVAKAYQGK
+     RKISWFKVYA GDEACDLYGT YQYLPEDTLT AIREYGVAIK GPLTTPVGGG IRSLNVALRQ
+     IFDLYACVRP CRYYAGTPSP HKNPEKLDVI VYRENTEDIY LGIEWKQGSE IGDRLISILN
+     KELIPATPEH GKKQIPLDSG IGIKPISKTG SQRLVRRAIK HALTLPKDKQ QVTLVHKGNI
+     MKYTEGAFRD WGYELATSEF RQETVTERES WILSNKEKNP NISLEDNARQ IDPGFDALTP
+     EKKAQIVKEV ETVLNSIWES HGNGKWKEKV LVNDRIADSI FQQIQTRPDE YSILATMNLN
+     GDYLSDAAAA IVGGLGMGPG ANIGDSCAVF EATHGTAPKH AGLDRINPGS VILSGVMMLE
+     YMGWQEAADL IKKGLSDAIA NSQVTYDLAR LLEPPVEPLK CSEFADAIIK HFG
+//
+DR   InterPro; IPR001804; Isocitrate/isopropylmalate_DH.
+DR   InterPro; IPR004439; Isocitrate_DH_NADP_dimer_prok.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

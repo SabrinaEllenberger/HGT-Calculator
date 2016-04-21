@@ -1,0 +1,132 @@
+ID   Q9X0N2_THEMA            Unreviewed;       399 AA.
+AC   Q9X0N2; G4FEJ9;
+DT   01-NOV-1999, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1999, sequence version 1.
+DT   13-APR-2016, entry version 114.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP] {ECO:0000256|PIRNR:PIRNR000108};
+DE            EC=1.1.1.42 {ECO:0000256|PIRNR:PIRNR000108};
+GN   OrderedLocusNames=TM_1148 {ECO:0000313|EMBL:AAD36224.1};
+GN   ORFNames=Tmari_1155 {ECO:0000313|EMBL:AGL50079.1};
+OS   Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099).
+OC   Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.
+OX   NCBI_TaxID=243274 {ECO:0000313|EMBL:AAD36224.1, ECO:0000313|Proteomes:UP000008183};
+RN   [1] {ECO:0000313|EMBL:AAD36224.1, ECO:0000313|Proteomes:UP000008183}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000008183}, and
+RC   MSB8 {ECO:0000313|EMBL:AAD36224.1};
+RX   PubMed=10360571; DOI=10.1038/20601;
+RA   Nelson K.E., Clayton R.A., Gill S.R., Gwinn M.L., Dodson R.J.,
+RA   Haft D.H., Hickey E.K., Peterson J.D., Nelson W.C., Ketchum K.A.,
+RA   McDonald L., Utterback T.R., Malek J.A., Linher K.D., Garrett M.M.,
+RA   Stewart A.M., Cotton M.D., Pratt M.S., Phillips C.A., Richardson D.,
+RA   Heidelberg J., Sutton G.G., Fleischmann R.D., White O., Salzberg S.L.,
+RA   Smith H.O., Venter J.C., Fraser C.M.;
+RT   "Evidence for lateral gene transfer between Archaea and Bacteria from
+RT   genome sequence of Thermotoga maritima.";
+RL   Nature 399:323-329(1999).
+RN   [2] {ECO:0000313|EMBL:AGL50079.1, ECO:0000313|Proteomes:UP000013901}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 43589 / MSB8 / DSM 3109 / JCM 10099
+RC   {ECO:0000313|Proteomes:UP000013901}, and
+RC   MSB8 {ECO:0000313|EMBL:AGL50079.1};
+RX   PubMed=23637642;
+RA   Latif H., Lerman J.A., Portnoy V.A., Tarasova Y., Nagarajan H.,
+RA   Schrimpe-Rutledge A.C., Smith R.D., Adkins J.N., Lee D.H., Qiu Y.,
+RA   Zengler K.;
+RT   "The genome organization of Thermotoga maritima reflects its
+RT   lifestyle.";
+RL   PLoS Genet. 9:E1003485-E1003485(2013).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-3};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AE000512; AAD36224.1; -; Genomic_DNA.
+DR   EMBL; CP004077; AGL50079.1; -; Genomic_DNA.
+DR   PIR; H72288; H72288.
+DR   RefSeq; NP_228954.1; NC_000853.1.
+DR   RefSeq; WP_004080233.1; NZ_CP011107.1.
+DR   PDB; 1ZOR; X-ray; 2.24 A; A/B=1-399.
+DR   PDBsum; 1ZOR; -.
+DR   STRING; 243274.TM1148; -.
+DR   EnsemblBacteria; AAD36224; AAD36224; TM_1148.
+DR   EnsemblBacteria; AGL50079; AGL50079; Tmari_1155.
+DR   GeneID; 898338; -.
+DR   KEGG; tma:TM1148; -.
+DR   KEGG; tmi:THEMA_08600; -.
+DR   KEGG; tmm:Tmari_1155; -.
+DR   KEGG; tmw:THMA_1172; -.
+DR   PATRIC; 23937233; VBITheMar51294_1165.
+DR   eggNOG; ENOG4105D5N; Bacteria.
+DR   eggNOG; COG0538; LUCA.
+DR   KO; K00031; -.
+DR   OMA; VMGMYNF; -.
+DR   OrthoDB; EOG628F3X; -.
+DR   BioCyc; TMAR243274:GC6P-1177-MONOMER; -.
+DR   BRENDA; 1.1.1.42; 6331.
+DR   Proteomes; UP000008183; Chromosome.
+DR   Proteomes; UP000013901; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0006102; P:isocitrate metabolic process; IEA:InterPro.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11822; PTHR11822; 1.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PIRSF; PIRSF000108; IDH_NADP; 1.
+DR   TIGRFAMs; TIGR00127; nadp_idh_euk; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1ZOR};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008183};
+KW   Magnesium {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Manganese {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Metal-binding {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   NADP {ECO:0000256|PIRNR:PIRNR000108};
+KW   Oxidoreductase {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000313|EMBL:AGL50079.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008183};
+KW   Tricarboxylic acid cycle {ECO:0000256|PIRNR:PIRNR000108}.
+FT   DOMAIN        5    391       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+FT   REGION       94    100       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   METAL       247    247       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   METAL       270    270       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   BINDING      77     77       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     109    109       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     132    132       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   SITE        139    139       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+FT   SITE        208    208       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+SQ   SEQUENCE   399 AA;  45403 MW;  21828AFA6AE10034 CRC64;
+     MEKVKVKNPI VELDGDEMAR VMWKMIKEKL ILPYLDIQLV YFDLGIKKRD ETDDQITIEA
+     AKAIKKYGVG VKCATITPDA ERVKEYNLKK AWKSPNATIR AYLDGTVFRK PIMVKNVPPL
+     VKRWKKPIII GRHAYGDIYN AVEAKVEGPA EVELVVRNKE NKTLLVHKFE GNGVVMAMHN
+     LEKSIRSFAQ SCINYAISEK VDIWFATKDT ISKVYHAYFK DIFQEEVDKR KEELEKAGVN
+     YRYMLIDDAA AQILRSEGGM LWACMNYEGD IMSDMIASGF GSLGLMTSVL VSPDGVYEFE
+     AAHGTVRRHY YRYLKGEKTS TNPTASIFAW TGAIRKRGEL DGTPEVCEFA DKLEKAVINT
+     IESGVITKDL QPFTEPPIDK YVTLEEFIDE VKKNLEKLL
+//
+DR   InterPro; IPR004790; Isocitrate_DH_NADP.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

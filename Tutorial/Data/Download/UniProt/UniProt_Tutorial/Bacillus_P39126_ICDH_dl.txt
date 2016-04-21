@@ -1,0 +1,220 @@
+ID   IDH_BACSU               Reviewed;         423 AA.
+AC   P39126;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1995, sequence version 1.
+DT   17-FEB-2016, entry version 134.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP];
+DE            Short=IDH;
+DE            EC=1.1.1.42;
+DE   AltName: Full=IDP;
+DE   AltName: Full=NADP(+)-specific ICDH;
+DE   AltName: Full=Oxalosuccinate decarboxylase;
+GN   Name=icd; Synonyms=citC; OrderedLocusNames=BSU29130;
+OS   Bacillus subtilis (strain 168).
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.
+OX   NCBI_TaxID=224308;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168 / SMY;
+RX   PubMed=8045898;
+RA   Jin S., Sonenshein A.L.;
+RT   "Identification of two distinct Bacillus subtilis citrate synthase
+RT   genes.";
+RL   J. Bacteriol. 176:4669-4679(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9387221; DOI=10.1099/00221287-143-11-3431;
+RA   Lapidus A., Galleron N., Sorokin A., Ehrlich S.D.;
+RT   "Sequencing and functional annotation of the Bacillus subtilis genes
+RT   in the 200 kb rrnB-dnaB region.";
+RL   Microbiology 143:3431-3441(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=168;
+RX   PubMed=9384377; DOI=10.1038/36786;
+RA   Kunst F., Ogasawara N., Moszer I., Albertini A.M., Alloni G.,
+RA   Azevedo V., Bertero M.G., Bessieres P., Bolotin A., Borchert S.,
+RA   Borriss R., Boursier L., Brans A., Braun M., Brignell S.C., Bron S.,
+RA   Brouillet S., Bruschi C.V., Caldwell B., Capuano V., Carter N.M.,
+RA   Choi S.-K., Codani J.-J., Connerton I.F., Cummings N.J., Daniel R.A.,
+RA   Denizot F., Devine K.M., Duesterhoeft A., Ehrlich S.D., Emmerson P.T.,
+RA   Entian K.-D., Errington J., Fabret C., Ferrari E., Foulger D.,
+RA   Fritz C., Fujita M., Fujita Y., Fuma S., Galizzi A., Galleron N.,
+RA   Ghim S.-Y., Glaser P., Goffeau A., Golightly E.J., Grandi G.,
+RA   Guiseppi G., Guy B.J., Haga K., Haiech J., Harwood C.R., Henaut A.,
+RA   Hilbert H., Holsappel S., Hosono S., Hullo M.-F., Itaya M.,
+RA   Jones L.-M., Joris B., Karamata D., Kasahara Y., Klaerr-Blanchard M.,
+RA   Klein C., Kobayashi Y., Koetter P., Koningstein G., Krogh S.,
+RA   Kumano M., Kurita K., Lapidus A., Lardinois S., Lauber J.,
+RA   Lazarevic V., Lee S.-M., Levine A., Liu H., Masuda S., Mauel C.,
+RA   Medigue C., Medina N., Mellado R.P., Mizuno M., Moestl D., Nakai S.,
+RA   Noback M., Noone D., O'Reilly M., Ogawa K., Ogiwara A., Oudega B.,
+RA   Park S.-H., Parro V., Pohl T.M., Portetelle D., Porwollik S.,
+RA   Prescott A.M., Presecan E., Pujic P., Purnelle B., Rapoport G.,
+RA   Rey M., Reynolds S., Rieger M., Rivolta C., Rocha E., Roche B.,
+RA   Rose M., Sadaie Y., Sato T., Scanlan E., Schleich S., Schroeter R.,
+RA   Scoffone F., Sekiguchi J., Sekowska A., Seror S.J., Serror P.,
+RA   Shin B.-S., Soldo B., Sorokin A., Tacconi E., Takagi T., Takahashi H.,
+RA   Takemaru K., Takeuchi M., Tamakoshi A., Tanaka T., Terpstra P.,
+RA   Tognoni A., Tosato V., Uchiyama S., Vandenbol M., Vannier F.,
+RA   Vassarotti A., Viari A., Wambutt R., Wedler E., Wedler H.,
+RA   Weitzenegger T., Winters P., Wipat A., Yamamoto H., Yamane K.,
+RA   Yasumoto K., Yata K., Yoshida K., Yoshikawa H.-F., Zumstein E.,
+RA   Yoshikawa H., Danchin A.;
+RT   "The complete genome sequence of the Gram-positive bacterium Bacillus
+RT   subtilis.";
+RL   Nature 390:249-256(1997).
+RN   [4]
+RP   PHOSPHORYLATION.
+RX   PubMed=11751849; DOI=10.1074/jbc.M107908200;
+RA   Singh S.K., Miller S.P., Dean A., Banaszak L.J., LaPorte D.C.;
+RT   "Bacillus subtilis isocitrate dehydrogenase. A substrate analogue for
+RT   Escherichia coli isocitrate dehydrogenase kinase/phosphatase.";
+RL   J. Biol. Chem. 277:7567-7573(2002).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) IN COMPLEX WITH CITRATE, AND
+RP   SUBUNIT.
+RX   PubMed=11290745; DOI=10.1074/jbc.M101191200;
+RA   Singh S.K., Matsuno K., LaPorte D.C., Banaszak L.J.;
+RT   "Crystal structure of Bacillus subtilis isocitrate dehydrogenase at
+RT   1.55 A. Insights into the nature of substrate specificity exhibited by
+RT   Escherichia coli isocitrate dehydrogenase kinase/phosphatase.";
+RL   J. Biol. Chem. 276:26154-26163(2001).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit. {ECO:0000250};
+CC   -!- SUBUNIT: Homodimer. {ECO:0000269|PubMed:11290745}.
+CC   -!- INTERACTION:
+CC       P49814:mdh; NbExp=3; IntAct=EBI-7829570, EBI-7827708;
+CC   -!- MISCELLANEOUS: The enzyme can be phosphorylated in vitro by the
+CC       E.coli isocitrate dehydrogenase kinase/phosphatase, but B.subtilis
+CC       lacks such an enzyme.
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U05257; AAA96342.1; -; Genomic_DNA.
+DR   EMBL; AF008220; AAC00346.1; -; Genomic_DNA.
+DR   EMBL; AL009126; CAB14873.1; -; Genomic_DNA.
+DR   PIR; I40382; I40382.
+DR   RefSeq; NP_390791.1; NC_000964.3.
+DR   RefSeq; WP_003229433.1; NZ_JNCM01000036.1.
+DR   PDB; 1HQS; X-ray; 1.55 A; A/B=1-423.
+DR   PDBsum; 1HQS; -.
+DR   ProteinModelPortal; P39126; -.
+DR   SMR; P39126; 1-423.
+DR   IntAct; P39126; 2.
+DR   MINT; MINT-1711252; -.
+DR   STRING; 224308.Bsubs1_010100015896; -.
+DR   PaxDb; P39126; -.
+DR   PRIDE; P39126; -.
+DR   EnsemblBacteria; CAB14873; CAB14873; BSU29130.
+DR   GeneID; 938183; -.
+DR   KEGG; bsu:BSU29130; -.
+DR   PATRIC; 18977720; VBIBacSub10457_3048.
+DR   eggNOG; ENOG4108HMX; Bacteria.
+DR   eggNOG; COG0538; LUCA.
+DR   HOGENOM; HOG000021113; -.
+DR   InParanoid; P39126; -.
+DR   KO; K00031; -.
+DR   OMA; RDWGYEL; -.
+DR   OrthoDB; EOG6SNDTP; -.
+DR   PhylomeDB; P39126; -.
+DR   BioCyc; BSUB:BSU29130-MONOMER; -.
+DR   SABIO-RK; P39126; -.
+DR   EvolutionaryTrace; P39126; -.
+DR   Proteomes; UP000001570; Chromosome.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006097; P:glyoxylate cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11835; PTHR11835; 3.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   TIGRFAMs; TIGR00183; prok_nadp_idh; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Glyoxylate bypass; Magnesium;
+KW   Manganese; Metal-binding; NADP; Oxidoreductase; Reference proteome;
+KW   Tricarboxylic acid cycle.
+FT   CHAIN         1    423       Isocitrate dehydrogenase [NADP].
+FT                                /FTId=PRO_0000083549.
+FT   NP_BIND     345    351       NADP. {ECO:0000250}.
+FT   METAL       311    311       Magnesium or manganese. {ECO:0000250}.
+FT   BINDING      95     95       NADP. {ECO:0000250}.
+FT   BINDING      96     96       Substrate.
+FT   BINDING     104    104       Substrate.
+FT   BINDING     106    106       Substrate.
+FT   BINDING     110    110       Substrate.
+FT   BINDING     120    120       Substrate. {ECO:0000250}.
+FT   BINDING     144    144       Substrate.
+FT   BINDING     358    358       NADP; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000250}.
+FT   BINDING     397    397       NADP. {ECO:0000250}.
+FT   BINDING     401    401       NADP. {ECO:0000250}.
+FT   SITE        151    151       Critical for catalysis. {ECO:0000250}.
+FT   SITE        221    221       Critical for catalysis. {ECO:0000250}.
+FT   STRAND        3      5       {ECO:0000244|PDB:1HQS}.
+FT   STRAND        8     10       {ECO:0000244|PDB:1HQS}.
+FT   STRAND       13     15       {ECO:0000244|PDB:1HQS}.
+FT   STRAND       18     25       {ECO:0000244|PDB:1HQS}.
+FT   HELIX        31     50       {ECO:0000244|PDB:1HQS}.
+FT   STRAND       57     60       {ECO:0000244|PDB:1HQS}.
+FT   HELIX        65     71       {ECO:0000244|PDB:1HQS}.
+FT   HELIX        77     86       {ECO:0000244|PDB:1HQS}.
+FT   STRAND       88     91       {ECO:0000244|PDB:1HQS}.
+FT   STRAND       98    102       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       105    112       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      117    123       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      131    133       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       135    137       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      139    145       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       149    152       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       161    173       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       182    184       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      185    193       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       194    211       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      214    220       {ECO:0000244|PDB:1HQS}.
+FT   TURN        222    224       {ECO:0000244|PDB:1HQS}.
+FT   TURN        226    228       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       229    244       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       245    247       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      248    250       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       251    275       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      279    285       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       286    295       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       297    299       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      301    305       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       307    320       {ECO:0000244|PDB:1HQS}.
+FT   TURN        324    326       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      328    332       {ECO:0000244|PDB:1HQS}.
+FT   TURN        334    336       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      339    344       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       349    351       {ECO:0000244|PDB:1HQS}.
+FT   TURN        352    355       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       360    373       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       376    391       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       397    400       {ECO:0000244|PDB:1HQS}.
+FT   STRAND      403    405       {ECO:0000244|PDB:1HQS}.
+FT   HELIX       411    420       {ECO:0000244|PDB:1HQS}.
+SQ   SEQUENCE   423 AA;  46418 MW;  CC69E694EB66D0D8 CRC64;
+     MAQGEKITVS NGVLNVPNNP IIPFIEGDGT GPDIWNAASK VLEAAVEKAY KGEKKITWKE
+     VYAGEKAYNK TGEWLPAETL DVIREYFIAI KGPLTTPVGG GIRSLNVALR QELDLFVCLR
+     PVRYFTGVPS PVKRPEDTDM VIFRENTEDI YAGIEYAKGS EEVQKLISFL QNELNVNKIR
+     FPETSGIGIK PVSEEGTSRL VRAAIDYAIE HGRKSVTLVH KGNIMKFTEG AFKNWGYELA
+     EKEYGDKVFT WAQYDRIAEE QGKDAANKAQ SEAEAAGKII IKDSIADIFL QQILTRPNEF
+     DVVATMNLNG DYISDALAAQ VGGIGIAPGA NINYETGHAI FEATHGTAPK YAGLDKVNPS
+     SVILSGVLLL EHLGWNEAAD LVIKSMEKTI ASKVVTYDFA RLMDGATEVK CSEFGEELIK
+     NMD
+//
+DR   InterPro; IPR001804; Isocitrate/isopropylmalate_DH.
+DR   InterPro; IPR004439; Isocitrate_DH_NADP_dimer_prok.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

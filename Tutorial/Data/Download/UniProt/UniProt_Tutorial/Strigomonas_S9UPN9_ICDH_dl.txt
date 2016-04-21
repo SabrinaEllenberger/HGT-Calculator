@@ -1,0 +1,100 @@
+ID   S9UPN9_9TRYP            Unreviewed;       421 AA.
+AC   S9UPN9;
+DT   16-OCT-2013, integrated into UniProtKB/TrEMBL.
+DT   16-OCT-2013, sequence version 1.
+DT   09-DEC-2015, entry version 15.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP] {ECO:0000256|RuleBase:RU004446};
+DE            EC=1.1.1.42 {ECO:0000256|RuleBase:RU004446};
+GN   ORFNames=STCU_03837 {ECO:0000313|EMBL:EPY30866.1},
+GN   STCU_03914 {ECO:0000313|EMBL:EPY30744.1},
+GN   STCU_07437 {ECO:0000313|EMBL:EPY23826.1};
+OS   Strigomonas culicis.
+OC   Eukaryota; Euglenozoa; Kinetoplastida; Trypanosomatidae;
+OC   Strigomonadinae; Strigomonas.
+OX   NCBI_TaxID=28005 {ECO:0000313|EMBL:EPY30744.1, ECO:0000313|Proteomes:UP000015354};
+RN   [1] {ECO:0000313|EMBL:EPY30744.1, ECO:0000313|Proteomes:UP000015354}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=23560078;
+RA   Motta M.C., Martins A.C., de Souza S.S., Catta-Preta C.M., Silva R.,
+RA   Klein C.C., de Almeida L.G., de Lima Cunha O., Ciapina L.P.,
+RA   Brocchi M., Colabardini A.C., de Araujo Lima B., Machado C.R.,
+RA   de Almeida Soares C.M., Probst C.M., de Menezes C.B., Thompson C.E.,
+RA   Bartholomeu D.C., Gradia D.F., Pavoni D.P., Grisard E.C.,
+RA   Fantinatti-Garboggini F., Marchini F.K., Rodrigues-Luiz G.F.,
+RA   Wagner G., Goldman G.H., Fietto J.L., Elias M.C., Goldman M.H.,
+RA   Sagot M.F., Pereira M., Stoco P.H., de Mendonca-Neto R.P.,
+RA   Teixeira S.M., Maciel T.E., de Oliveira Mendes T.A., Urmenyi T.P.,
+RA   de Souza W., Schenkman S., de Vasconcelos A.T.;
+RT   "Predicting the Proteins of Angomonas deanei, Strigomonas culicis and
+RT   Their Respective Endosymbionts Reveals New Aspects of the
+RT   Trypanosomatidae Family.";
+RL   PLoS ONE 8:E60209-E60209(2013).
+RN   [2] {ECO:0000313|EMBL:EPY30744.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Motta M.C.M., Martins A.C.A., Preta C.M.C.C., Silva R., de Souza S.S.,
+RA   Klein C.C., de Almeida L.G.P., Cunha O.L., Colabardini A.C.,
+RA   Lima B.A., Machado C.R., Soares C.M.A., de Menezes C.B.A.,
+RA   Bartolomeu D.C., Grisard E.C., Fantinatti-Garboggini F.,
+RA   Rodrigues-Luiz G.F., Wagner G., Goldman G.H., Fietto J.L.R.,
+RA   Ciapina L.P., Brocchi M., Elias M.C., Goldman M.H.S., Sagot M.-F.,
+RA   Pereira M., Stoco P.H., Teixeira S.M.R., de Mendonca-Neto R.P.,
+RA   Maciel T.E.F., Mendes T.A.O., Urmenyi T.P., Teixeira M.M.G.,
+RA   de Camargo E.F.P., de Sousa W., Schenkman S., de Vasconcelos A.T.R.;
+RL   Submitted (MAR-2013) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH. {ECO:0000256|RuleBase:RU004446}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|RuleBase:RU004446};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|RuleBase:RU004446};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|RuleBase:RU004443}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EPY30744.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ATMH01007437; EPY23826.1; -; Genomic_DNA.
+DR   EMBL; ATMH01003914; EPY30744.1; -; Genomic_DNA.
+DR   EMBL; ATMH01003837; EPY30866.1; -; Genomic_DNA.
+DR   EnsemblProtists; EPY23826; EPY23826; STCU_07437.
+DR   EnsemblProtists; EPY30744; EPY30744; STCU_03914.
+DR   EnsemblProtists; EPY30866; EPY30866; STCU_03837.
+DR   Proteomes; UP000015354; Unassembled WGS sequence.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006097; P:glyoxylate cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11835; PTHR11835; 3.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   TIGRFAMs; TIGR00183; prok_nadp_idh; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000015354};
+KW   Glyoxylate bypass {ECO:0000256|RuleBase:RU004446};
+KW   Manganese {ECO:0000256|RuleBase:RU004446};
+KW   Metal-binding {ECO:0000256|RuleBase:RU004446};
+KW   NADP {ECO:0000256|RuleBase:RU004446};
+KW   Oxidoreductase {ECO:0000256|RuleBase:RU004444};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000015354};
+KW   Tricarboxylic acid cycle {ECO:0000256|RuleBase:RU004446}.
+FT   DOMAIN       21    417       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+SQ   SEQUENCE   421 AA;  45816 MW;  CE32AEE678C5B20F CRC64;
+     MLGEKITIQD GKLRVPDVPI IPFIEGDGIG KEITAAMQRV MDAAVEKAYG GRRRVQWMTV
+     AAGEEAFRRD GTYLPEATMD AFRDYLVGIK GPLCTPVGGG IRSINVALRQ QLDLYVCLRP
+     VRCFRGISSP LVHPEWVDMV VFRENTEDIY AGIEWEQGTP EAQKVISFLE AEMHVSKIRF
+     PASSSIGIKP VSVEGTERLV RAAIDYALAH GLPSVTLVHK GNIMKFTEGG FRRWGYALAE
+     REYGDRIFSM LSYDAVRAEK GKAAAEDALA AARAAKKLIV QDCIADAFLQ NTLLRPRSYS
+     VIATLNLNGD YVSDQLAAMV GGIGIAPGAN LNYQTGHAIF EATHGTAPDI VGEHKANPSS
+     LLLSAVLLFD YLGWPEVGAR VVPAMERLFL SGRATADLAS QMPEGVSLTT EEFTEAIIQG
+     L
+//
+DR   InterPro; IPR001804; Isocitrate/isopropylmalate_DH.
+DR   InterPro; IPR004439; Isocitrate_DH_NADP_dimer_prok.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

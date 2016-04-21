@@ -1,0 +1,147 @@
+ID   Q8I6T2_PLAF7            Unreviewed;       468 AA.
+AC   Q8I6T2;
+DT   01-MAR-2003, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2003, sequence version 1.
+DT   13-APR-2016, entry version 94.
+DE   RecName: Full=Isocitrate dehydrogenase [NADP] {ECO:0000256|PIRNR:PIRNR000108};
+DE            EC=1.1.1.42 {ECO:0000256|PIRNR:PIRNR000108};
+GN   ORFNames=PF13_0242 {ECO:0000313|EMBL:CAD52580.1};
+OS   Plasmodium falciparum (isolate 3D7).
+OC   Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+OC   Plasmodiidae; Plasmodium; Plasmodium (Laverania).
+OX   NCBI_TaxID=36329 {ECO:0000313|EMBL:CAD52580.1, ECO:0000313|Proteomes:UP000001450};
+RN   [1] {ECO:0000313|Proteomes:UP000001450}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Isolate 3D7 {ECO:0000313|Proteomes:UP000001450};
+RX   PubMed=12368864; DOI=10.1038/nature01097;
+RA   Gardner M.J., Hall N., Fung E., White O., Berriman M., Hyman R.W.,
+RA   Carlton J.M., Pain A., Nelson K.E., Bowman S., Paulsen I.T.,
+RA   James K.D., Eisen J.A., Rutherford K.M., Salzberg S.L., Craig A.,
+RA   Kyes S., Chan M.-S., Nene V., Shallom S.J., Suh B., Peterson J.,
+RA   Angiuoli S., Pertea M., Allen J., Selengut J., Haft D., Mather M.W.,
+RA   Vaidya A.B., Martin D.M.A., Fairlamb A.H., Fraunholz M.J., Roos D.S.,
+RA   Ralph S.A., McFadden G.I., Cummings L.M., Subramanian G.M.,
+RA   Mungall C., Venter J.C., Carucci D.J., Hoffman S.L., Newbold C.,
+RA   Davis R.W., Fraser C.M., Barrell B.G.;
+RT   "Genome sequence of the human malaria parasite Plasmodium
+RT   falciparum.";
+RL   Nature 419:498-511(2002).
+RN   [2] {ECO:0000313|Proteomes:UP000001450}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Isolate 3D7 {ECO:0000313|Proteomes:UP000001450};
+RX   PubMed=12368867; DOI=10.1038/nature01095;
+RA   Hall N., Pain A., Berriman M., Churcher C.M., Harris B., Harris D.,
+RA   Mungall K.L., Bowman S., Atkin R., Baker S., Barron A., Brooks K.,
+RA   Buckee C.O., Burrows C., Cherevach I., Chillingworth C.,
+RA   Chillingworth T., Christodoulou Z., Clark L., Clark R., Corton C.,
+RA   Cronin A., Davies R.M., Davis P., Dear P., Dearden F., Doggett J.,
+RA   Feltwell T., Goble A., Goodhead I., Gwilliam R., Hamlin N., Hance Z.,
+RA   Harper D., Hauser H., Hornsby T., Holroyd S., Horrocks P.,
+RA   Humphray S., Jagels K., James K.D., Johnson D., Kerhornou A.,
+RA   Knights A., Konfortov B., Kyes S., Larke N., Lawson D., Lennard N.,
+RA   Line A., Maddison M., Mclean J., Mooney P., Moule S., Murphy L.,
+RA   Oliver K., Ormond D., Price C., Quail M.A., Rabbinowitsch E.,
+RA   Rajandream M.A., Rutter S., Rutherford K.M., Sanders M., Simmonds M.,
+RA   Seeger K., Sharp S., Smith R., Squares R., Squares S., Stevens K.,
+RA   Taylor K., Tivey A., Unwin L., Whitehead S., Woodward J.R.,
+RA   Sulston J.E., Craig A., Newbold C., Barrell B.G.;
+RT   "Sequence of Plasmodium falciparum chromosomes 1, 3-9 and 13.";
+RL   Nature 419:527-531(2002).
+CC   -!- CATALYTIC ACTIVITY: Isocitrate + NADP(+) = 2-oxoglutarate + CO(2)
+CC       + NADPH. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Name=Mn(2+); Xref=ChEBI:CHEBI:29035;
+CC         Evidence={ECO:0000256|PIRNR:PIRNR000108,
+CC         ECO:0000256|PIRSR:PIRSR000108-3};
+CC       Note=Binds 1 Mg(2+) or Mn(2+) ion per subunit.
+CC       {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-3};
+CC   -!- SIMILARITY: Belongs to the isocitrate and isopropylmalate
+CC       dehydrogenases family. {ECO:0000256|PIRNR:PIRNR000108}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AL844509; CAD52580.1; -; Genomic_DNA.
+DR   RefSeq; XP_001350171.1; XM_001350135.1.
+DR   ProteinModelPortal; Q8I6T2; -.
+DR   SMR; Q8I6T2; 32-433.
+DR   SwissPalm; Q8I6T2; -.
+DR   EnsemblProtists; PF13_0242:mRNA; PF13_0242:pep; PF13_0242.
+DR   GeneDB; PF3D7_1345700.1:pep; -.
+DR   GeneID; 814208; -.
+DR   KEGG; pfa:PF13_0242; -.
+DR   EuPathDB; PlasmoDB:PF3D7_1345700; -.
+DR   HOGENOM; HOG000019858; -.
+DR   InParanoid; Q8I6T2; -.
+DR   KO; K00031; -.
+DR   OMA; ENECVEM; -.
+DR   PhylomeDB; Q8I6T2; -.
+DR   Reactome; R-PFA-389542; NADPH regeneration.
+DR   Reactome; R-PFA-71403; Citric acid cycle (TCA cycle).
+DR   SABIO-RK; Q8I6T2; -.
+DR   Proteomes; UP000001450; Chromosome 13.
+DR   GO; GO:0005739; C:mitochondrion; IDA:GeneDB.
+DR   GO; GO:0004450; F:isocitrate dehydrogenase (NADP+) activity; ISS:GeneDB.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0051287; F:NAD binding; IEA:InterPro.
+DR   GO; GO:0006102; P:isocitrate metabolic process; ISS:GeneDB.
+DR   GO; GO:0006099; P:tricarboxylic acid cycle; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.718.10; -; 1.
+DR   PANTHER; PTHR11822; PTHR11822; 1.
+DR   Pfam; PF00180; Iso_dh; 1.
+DR   PIRSF; PIRSF000108; IDH_NADP; 1.
+DR   TIGRFAMs; TIGR00127; nadp_idh_euk; 1.
+DR   PROSITE; PS00470; IDH_IMDH; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001450};
+KW   Magnesium {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Manganese {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   Metal-binding {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000256|PIRSR:PIRSR000108-3};
+KW   NADP {ECO:0000256|PIRNR:PIRNR000108, ECO:0000256|PIRSR:PIRSR000108-4};
+KW   Oxidoreductase {ECO:0000256|PIRNR:PIRNR000108,
+KW   ECO:0000313|EMBL:CAD52580.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001450};
+KW   Tricarboxylic acid cycle {ECO:0000256|PIRNR:PIRNR000108}.
+FT   DOMAIN       35    427       Iso_dh. {ECO:0000259|Pfam:PF00180}.
+FT   NP_BIND     104    106       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   NP_BIND     338    343       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   REGION      123    129       Substrate binding.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   METAL       280    280       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   METAL       303    303       Magnesium or manganese.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-3}.
+FT   BINDING     106    106       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     111    111       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     138    138       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     161    161       Substrate.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-2}.
+FT   BINDING     288    288       NADP. {ECO:0000256|PIRSR:PIRSR000108-4}.
+FT   BINDING     356    356       NADP; via amide nitrogen and carbonyl
+FT                                oxygen. {ECO:0000256|PIRSR:PIRSR000108-
+FT                                4}.
+FT   SITE        168    168       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+FT   SITE        240    240       Critical for catalysis.
+FT                                {ECO:0000256|PIRSR:PIRSR000108-1}.
+SQ   SEQUENCE   468 AA;  53594 MW;  76F8A56B4BA47A79 CRC64;
+     MGKHIRILKN QYLQFMSKRC IQSKAAFNIC GKINVENPIV ELDGDEMTRI IWKDIKEKLI
+     LPYVNLKIKY FDLSIENRDK TNDQVTIEAA EEIKKTSVGI KCATITPDAA RVKEFNLKEM
+     WKSPNGTIRN ILDGTVFRTP ILIKNIPKLV PNWKKPIVIG RHAYADQYKQ KSLKIEKSGK
+     FEIVFTPDDN SQVLRETVFH FKSPGVCLGM YNTEESIRNF ALSCFQYALD LKMPVYMSTK
+     STILKIYDGL FKDIFDEIYE KQFKKSFEQH NLWYEHKLID DMVAQVLKSE GGFLWACKNY
+     DGDIQSDAVA QGYGSLGLMS SVLLCPDGVT CVSEAAHGTV TRHYRAYQKG EKTSTNPIAS
+     IFAWTKGLEH RAKLDKNDNL KQFCYALEKA CIETVEDGLM SKDLAGCIKG IKNVTEKDYI
+     FTQDLINAIN EKLKLKILQN QSKNDPQATS YKLKNDNWNF YAPQEHST
+//
+DR   InterPro; IPR004790; Isocitrate_DH_NADP.
+DR   InterPro; IPR019818; IsoCit/isopropylmalate_DH_CS.
+DR   InterPro; IPR024084; IsoPropMal-DH-like_dom.

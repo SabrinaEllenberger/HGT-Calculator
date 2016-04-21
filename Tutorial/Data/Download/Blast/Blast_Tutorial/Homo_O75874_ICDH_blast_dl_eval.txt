@@ -1,0 +1,251 @@
+Eval (All, Archaea, Bacteria, Eukaryota, One euk Organism, Good scores, Alien index, Donor):	250	0	0	250	7	1	-200.0	no HGT
+V9HWJ2	V9HWJ2_HUMAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	100.0	2174	0.0	100.0
+O75874	IDHC_HUMAN	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	100.0	2174	0.0	100.0
+Q6FI37	Q6FI37_HUMAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	99.8	2171	0.0	100.0
+B2R5M8	B2R5M8_HUMAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	99.8	2166	0.0	100.0
+H2QJB5	H2QJB5_PANTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Pan troglodytes (Chimpanzee)	Eukaryota	414	99.5	2164	0.0	100.0
+Q5R9C5	IDHC_PONAB	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	Eukaryota	414	99.3	2163	0.0	100.0
+A0A096MWT5	A0A096MWT5_PAPAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Papio anubis (Olive baboon)	Eukaryota	414	99.3	2160	0.0	100.0
+A0A0D9RCE1	A0A0D9RCE1_CHLSB	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Chlorocebus sabaeus (Green monkey) (Cercopithecus sabaeus)	Eukaryota	414	99.0	2159	0.0	100.0
+V9HW78	V9HW78_HUMAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	99.5	2159	0.0	100.0
+U3FEL9	U3FEL9_CALJA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Callithrix jacchus (White-tufted-ear marmoset)	Eukaryota	414	98.8	2158	0.0	100.0
+Q6FIA4	Q6FIA4_HUMAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Homo sapiens (Human)	Eukaryota	414	99.3	2157	0.0	100.0
+F7ICK0	F7ICK0_CALJA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Callithrix jacchus (White-tufted-ear marmoset)	Eukaryota	414	98.6	2154	0.0	100.0
+G3RA53	G3RA53_GORGO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gorilla gorilla gorilla (Western lowland gorilla)	Eukaryota	414	99.0	2153	0.0	100.0
+F7GN57	F7GN57_MACMU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Macaca mulatta (Rhesus macaque)	Eukaryota	414	99.0	2152	0.0	100.0
+H9ERY2	H9ERY2_MACMU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Macaca mulatta (Rhesus macaque)	Eukaryota	414	98.8	2146	0.0	100.0
+G7PLB1	G7PLB1_MACFA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	Eukaryota	414	98.8	2139	0.0	100.0
+G7N8S7	G7N8S7_MACMU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Macaca mulatta (Rhesus macaque)	Eukaryota	414	98.6	2133	0.0	100.0
+L9LCP6	L9LCP6_TUPCH	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tupaia chinensis (Chinese tree shrew)	Eukaryota	414	97.3	2125	0.0	100.0
+H0VP28	H0VP28_CAVPO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Cavia porcellus (Guinea pig)	Eukaryota	414	97.1	2124	0.0	100.0
+G1SI20	G1SI20_RABIT	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryctolagus cuniculus (Rabbit)	Eukaryota	415	97.3	2123	0.0	100.0
+H0XC28	H0XC28_OTOGA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	Eukaryota	414	97.3	2120	0.0	100.0
+F1PZA1	F1PZA1_CANLF	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Canis lupus familiaris (Dog) (Canis familiaris)	Eukaryota	414	96.9	2118	0.0	100.0
+A0A091CIQ3	A0A091CIQ3_FUKDA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Fukomys damarensis (Damaraland mole rat) (Cryptomys damarensis)	Eukaryota	445	96.9	2120	0.0	100.0
+G5B6E8	G5B6E8_HETGA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Heterocephalus glaber (Naked mole rat)	Eukaryota	414	96.6	2112	0.0	100.0
+F6R7J2	F6R7J2_HORSE	TREMBL	 (Uncharacterized protein) 	Equus caballus (Horse)	Eukaryota	420	96.6	2112	0.0	100.0
+G3HU51	G3HU51_CRIGR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)	Eukaryota	414	96.4	2111	0.0	100.0
+D2H8H7	D2H8H7_AILME	TREMBL	 (Uncharacterized protein) 	Ailuropoda melanoleuca (Giant panda)	Eukaryota	414	96.4	2110	0.0	100.0
+P41562	IDHC_RAT	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Rattus norvegicus (Rat)	Eukaryota	414	96.4	2110	0.0	100.0
+M3W1B8	M3W1B8_FELCA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Felis catus (Cat) (Felis silvestris catus)	Eukaryota	414	96.6	2104	0.0	100.0
+Q9Z2K8	IDHC_MICOH	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Microtus ochrogaster (Prairie vole)	Eukaryota	414	96.1	2103	0.0	100.0
+M3XN60	M3XN60_MUSPF	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mustela putorius furo (European domestic ferret) (Mustela furo)	Eukaryota	414	96.4	2100	0.0	100.0
+Q9Z2K9	IDHC_MICME	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Microtus mexicanus (Mexican vole)	Eukaryota	414	95.9	2099	0.0	100.0
+G9K556	G9K556_MUSPF	TREMBL	 (Isocitrate dehydrogenase 1 , soluble) 	Mustela putorius furo (European domestic ferret) (Mustela furo)	Eukaryota	413	96.4	2096	0.0	99.7
+I3LDC7	I3LDC7_PIG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Sus scrofa (Pig)	Eukaryota	428	95.7	2093	0.0	100.0
+Q3TJ51	Q3TJ51_MOUSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mus musculus (Mouse)	Eukaryota	414	95.7	2091	0.0	100.0
+O88844	IDHC_MOUSE	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Mus musculus (Mouse)	Eukaryota	414	95.7	2091	0.0	100.0
+Q5HZJ8	Q5HZJ8_MOUSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mus musculus (Mouse)	Eukaryota	414	95.4	2089	0.0	100.0
+Q9XSG3	IDHC_BOVIN	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Bos taurus (Bovine)	Eukaryota	414	95.4	2085	0.0	100.0
+Q8C338	Q8C338_MOUSE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Mus musculus (Mouse)	Eukaryota	422	95.4	2083	0.0	99.7
+L5K352	L5K352_PTEAL	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Pteropus alecto (Black flying fox)	Eukaryota	687	96.6	2110	0.0	100.0
+L8HW39	L8HW39_9CETA	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Bos mutus (wild yak)	Eukaryota	419	95.2	2079	0.0	100.0
+Q6XUZ5	IDHC_SHEEP	SWISSPROT	Isocitrate dehydrogenase [NADP] cytoplasmic(EC 1.1.1.4) 	Ovis aries (Sheep)	Eukaryota	414	95.2	2077	0.0	100.0
+W5QCD6	W5QCD6_SHEEP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ovis aries (Sheep)	Eukaryota	414	94.9	2073	0.0	100.0
+G3THS8	G3THS8_LOXAF	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Loxodonta africana (African elephant)	Eukaryota	420	94.9	2072	0.0	100.0
+K9IJS9	K9IJS9_DESRO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Desmodus rotundus (Vampire bat)	Eukaryota	415	94.9	2058	0.0	100.0
+G1R682	G1R682_NOMLE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	Eukaryota	412	96.4	2047	0.0	100.0
+G3W9L8	G3W9L8_SARHA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	Eukaryota	414	90.1	2004	0.0	100.0
+F6V0Q6	F6V0Q6_CALJA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Callithrix jacchus (White-tufted-ear marmoset)	Eukaryota	406	93.2	1990	0.0	100.0
+F7AUG7	F7AUG7_ORNAN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ornithorhynchus anatinus (Duckbill platypus)	Eukaryota	415	90.1	1988	0.0	100.0
+A0A091M0T4	A0A091M0T4_CATAU	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Cathartes aura (Turkey vulture) (Vultur aura)	Eukaryota	414	90.7	1982	0.0	99.0
+A0A093IHV9	A0A093IHV9_PICPB	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Picoides pubescens (Downy woodpecker) (Dryobates pubescens)	Eukaryota	414	90.0	1982	0.0	99.0
+A0A0A0AUB1	A0A0A0AUB1_CHAVO	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Charadrius vociferus (Killdeer) (Aegialitis vocifera)	Eukaryota	414	90.5	1980	0.0	99.0
+A0A091ETI9	A0A091ETI9_CORBR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Corvus brachyrhynchos (American crow)	Eukaryota	415	90.2	1980	0.0	99.0
+A0A093QSK1	A0A093QSK1_9PASS	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Manacus vitellinus (golden-collared manakin)	Eukaryota	414	90.2	1979	0.0	99.0
+A0A091UWQ1	A0A091UWQ1_NIPNI	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Nipponia nippon (Crested ibis) (Ibis nippon)	Eukaryota	414	90.5	1979	0.0	99.0
+A0A094LEG3	A0A094LEG3_9AVES	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Podiceps cristatus (great crested grebe)	Eukaryota	414	90.5	1979	0.0	99.0
+U3J597	U3J597_ANAPL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anas platyrhynchos (Mallard) (Anas boschas)	Eukaryota	415	90.2	1977	0.0	99.0
+K7F9A7	K7F9A7_PELSI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Pelodiscus sinensis (Chinese softshell turtle) (Trionyx sinensis)	Eukaryota	415	88.9	1977	0.0	100.0
+R0LC52	R0LC52_ANAPL	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Anas platyrhynchos (Mallard) (Anas boschas)	Eukaryota	417	90.2	1977	0.0	99.0
+F6ZQM3	F6ZQM3_MONDO	TREMBL	 (Uncharacterized protein) 	Monodelphis domestica (Gray short-tailed opossum)	Eukaryota	517	89.1	1986	0.0	100.0
+A0A093FFW9	A0A093FFW9_GAVST	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Gavia stellata (Red-throated diver) (Red-throated loon)	Eukaryota	414	90.2	1975	0.0	99.0
+A0A091J554	A0A091J554_9AVES	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Egretta garzetta (little egret)	Eukaryota	414	90.2	1975	0.0	99.0
+A0A093NA12	A0A093NA12_PYGAD	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Pygoscelis adeliae (Adelie penguin)	Eukaryota	414	90.2	1975	0.0	99.0
+A0A094MWU5	A0A094MWU5_ANTCR	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Antrostomus carolinensis (Chuck-will's-widow) (Caprimulgus carolinensis)	Eukaryota	414	90.2	1975	0.0	99.0
+A0A091TWG7	A0A091TWG7_9AVES	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Pelecanus crispus (Dalmatian pelican)	Eukaryota	414	90.2	1975	0.0	99.0
+A0A087QGY1	A0A087QGY1_APTFO	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Aptenodytes forsteri (Emperor penguin)	Eukaryota	414	90.2	1975	0.0	99.0
+A0A091VSU9	A0A091VSU9_OPIHO	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Opisthocomus hoazin (Hoatzin) (Phasianus hoazin)	Eukaryota	414	90.2	1974	0.0	99.0
+A0A093H2H1	A0A093H2H1_TYTAL	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Tyto alba (Barn owl)	Eukaryota	414	90.2	1973	0.0	99.0
+A8RRQ6	A8RRQ6_9AVES	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anser anser (domestic goose)	Eukaryota	415	90.0	1972	0.0	99.0
+A0A091U1R4	A0A091U1R4_PHORB	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Phoenicopterus ruber ruber	Eukaryota	414	90.0	1971	0.0	99.0
+U3JLZ0	U3JLZ0_FICAL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ficedula albicollis (Collared flycatcher) (Muscicapa albicollis)	Eukaryota	415	89.8	1971	0.0	99.0
+A0A093QTF7	A0A093QTF7_PHACA	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Phalacrocorax carbo (Great cormorant) (Pelecanus carbo)	Eukaryota	414	90.0	1970	0.0	99.0
+A0A091QLW1	A0A091QLW1_9GRUI	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Mesitornis unicolor (brown roatelo)	Eukaryota	414	90.0	1970	0.0	99.0
+A0A0Q4A810	A0A0Q4A810_ALLMI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Alligator mississippiensis (American alligator)	Eukaryota	435	88.8	1972	0.0	99.5
+A0A091GQ43	A0A091GQ43_BUCRH	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Buceros rhinoceros silvestris	Eukaryota	412	89.8	1969	0.0	99.2
+A0A091FYR1	A0A091FYR1_9AVES	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Cuculus canorus (common cuckoo)	Eukaryota	414	89.8	1969	0.0	99.0
+Q0QER2	Q0QER2_HUMAN	TREMBL	 (Isocitrate dehydrogenase 1) 	Homo sapiens (Human)	Eukaryota	371	100.0	1964	0.0	89.6
+A0A091R941	A0A091R941_MERNU	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Merops nubicus (Northern carmine bee-eater)	Eukaryota	414	90.0	1968	0.0	99.0
+A0A091TCP4	A0A091TCP4_PHALP	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Phaethon lepturus (White-tailed tropicbird)	Eukaryota	414	90.0	1967	0.0	99.0
+A0A091JRX5	A0A091JRX5_COLST	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Colius striatus (Speckled mousebird)	Eukaryota	412	89.8	1966	0.0	99.0
+A0A093J675	A0A093J675_EURHL	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Eurypyga helias (Sunbittern)	Eukaryota	414	89.8	1965	0.0	99.0
+A0A099ZKF9	A0A099ZKF9_TINGU	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Tinamus guttatus (White-throated tinamou)	Eukaryota	414	89.2	1964	0.0	98.7
+A0A091NN12	A0A091NN12_APAVI	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Apaloderma vittatum (Bar-tailed trogon)	Eukaryota	414	90.0	1964	0.0	99.0
+M7AIX8	M7AIX8_CHEMY	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Chelonia mydas (Green sea-turtle) (Chelonia agassizi)	Eukaryota	415	88.9	1963	0.0	100.0
+T1E5E6	T1E5E6_CROHD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Crotalus horridus (Timber rattlesnake)	Eukaryota	415	88.8	1963	0.0	99.0
+A0A098LZB9	A0A098LZB9_9SAUR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Hypsiglena sp. JMG-2014	Eukaryota	415	88.8	1962	0.0	99.0
+A0A0B8RXE5	A0A0B8RXE5_BOIIR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Boiga irregularis (Brown tree snake)	Eukaryota	415	88.8	1961	0.0	99.0
+J3S4J3	J3S4J3_CROAD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Crotalus adamanteus (Eastern diamondback rattlesnake)	Eukaryota	415	88.5	1961	0.0	99.0
+A0A093KDT3	A0A093KDT3_STRCA	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Struthio camelus australis	Eukaryota	414	89.2	1960	0.0	98.7
+F1NPG2	F1NPG2_CHICK	TREMBL	 (Uncharacterized protein) 	Gallus gallus (Chicken)	Eukaryota	418	89.8	1960	0.0	99.0
+A0A0Q3MMZ9	A0A0Q3MMZ9_AMAAE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Amazona aestiva (Blue-fronted Amazon parrot)	Eukaryota	431	89.8	1961	0.0	99.0
+A0A091S023	A0A091S023_NESNO	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Nestor notabilis (Kea)	Eukaryota	414	89.5	1958	0.0	99.0
+Q640H5	Q640H5_XENLA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Xenopus laevis (African clawed frog)	Eukaryota	415	88.5	1958	0.0	99.0
+A0A0F7Z9X4	A0A0F7Z9X4_CROAD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Crotalus adamanteus (Eastern diamondback rattlesnake)	Eukaryota	415	88.5	1958	0.0	99.0
+H0VP29	H0VP29_CAVPO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Cavia porcellus (Guinea pig)	Eukaryota	376	97.9	1953	0.0	90.8
+G1KJG1	G1KJG1_ANOCA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anolis carolinensis (Green anole) (American chameleon)	Eukaryota	415	89.0	1957	0.0	99.0
+U3FWT3	U3FWT3_MICFL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Micrurus fulvius (Eastern coral snake) (Coluber fulvius)	Eukaryota	415	88.3	1954	0.0	99.0
+G1N9S1	G1N9S1_MELGA	TREMBL	 (Uncharacterized protein) 	Meleagris gallopavo (Common turkey)	Eukaryota	430	89.5	1955	0.0	99.0
+F6WI63	F6WI63_XENTR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	Eukaryota	415	88.5	1953	0.0	99.0
+Q0QER8	Q0QER8_RAT	TREMBL	 (Isocitrate dehydrogenase 1) 	Rattus norvegicus (Rat)	Eukaryota	378	96.8	1948	0.0	91.3
+V8NM39	V8NM39_OPHHA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ophiophagus hannah (King cobra) (Naja hannah)	Eukaryota	415	89.0	1949	0.0	99.0
+G1NUC0	G1NUC0_MYOLU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Myotis lucifugus (Little brown bat)	Eukaryota	384	95.1	1944	0.0	92.7
+Q0QER1	Q0QER1_AOTTR	TREMBL	 (Isocitrate dehydrogenase 1) 	Aotus trivirgatus (Three-striped night monkey) (Douroucouli)	Eukaryota	371	98.1	1938	0.0	89.6
+Q0QER6	Q0QER6_CAVPO	TREMBL	 (Isocitrate dehydrogenase 1) 	Cavia porcellus (Guinea pig)	Eukaryota	376	96.8	1927	0.0	90.8
+Q0QER9	Q0QER9_MOUSE	TREMBL	 (Isocitrate dehydrogenase 1) 	Mus musculus (Mouse)	Eukaryota	378	95.8	1923	0.0	91.3
+Q0QER4	Q0QER4_RABIT	TREMBL	 (Isocitrate dehydrogenase 1) 	Oryctolagus cuniculus (Rabbit)	Eukaryota	376	96.5	1918	0.0	90.3
+S9YG01	S9YG01_9CETA	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Camelus ferus (Wild Bactrian camel)	Eukaryota	665	93.9	1947	0.0	94.6
+H3B3T4	H3B3T4_LATCH	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Latimeria chalumnae (West Indian ocean coelacanth)	Eukaryota	414	86.4	1918	0.0	99.2
+Q0QER0	Q0QER0_TUPGL	TREMBL	 (Isocitrate dehydrogenase 1) 	Tupaia glis (Tree shrew)	Eukaryota	369	97.0	1898	0.0	88.8
+Q0QEQ5	Q0QEQ5_DICBI	TREMBL	 (Isocitrate dehydrogenase 1) 	Diceros bicornis (Black rhinoceros)	Eukaryota	372	95.7	1890	0.0	89.3
+Q0QEQ6	Q0QEQ6_CERSI	TREMBL	 (Isocitrate dehydrogenase 1) 	Ceratotherium simum (White rhinoceros) (Square-lipped rhinoceros)	Eukaryota	370	95.4	1885	0.0	89.3
+Q0QEQ9	Q0QEQ9_FELCA	TREMBL	 (Isocitrate dehydrogenase 1) 	Felis catus (Cat) (Felis silvestris catus)	Eukaryota	366	96.7	1879	0.0	88.4
+W5M9K0	W5M9K0_LEPOC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lepisosteus oculatus (Spotted gar)	Eukaryota	464	84.6	1887	0.0	100.0
+H0ZHA7	H0ZHA7_TAEGU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Taeniopygia guttata (Zebra finch) (Poephila guttata)	Eukaryota	408	87.6	1880	0.0	99.0
+Q0QER3	Q0QER3_TADBR	TREMBL	 (Isocitrate dehydrogenase 1) 	Tadarida brasiliensis (Brazilian free-tailed bat)	Eukaryota	366	96.4	1875	0.0	88.1
+A0A087X9Y4	A0A087X9Y4_POEFO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Poecilia formosa (Amazon molly) (Limia formosa)	Eukaryota	414	84.8	1880	0.0	100.0
+Q0QER7	Q0QER7_MESAU	TREMBL	 (Isocitrate dehydrogenase 1) 	Mesocricetus auratus (Golden hamster)	Eukaryota	365	96.7	1874	0.0	88.1
+Q0QEQ8	Q0QEQ8_CANLF	TREMBL	 (Isocitrate dehydrogenase 1) 	Canis lupus familiaris (Dog) (Canis familiaris)	Eukaryota	362	97.2	1868	0.0	87.1
+M3ZYJ4	M3ZYJ4_XIPMA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Xiphophorus maculatus (Southern platyfish) (Platypoecilus maculatus)	Eukaryota	429	84.6	1875	0.0	100.0
+I3KHL8	I3KHL8_ORENI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oreochromis niloticus (Nile tilapia) (Tilapia nilotica)	Eukaryota	415	84.8	1872	0.0	100.0
+Q0QEQ4	Q0QEQ4_BOVIN	TREMBL	 (Isocitrate dehydrogenase 1) 	Bos taurus (Bovine)	Eukaryota	367	95.9	1866	0.0	88.4
+Q0QES2	Q0QES2_LOXAF	TREMBL	 (Isocitrate dehydrogenase 1) 	Loxodonta africana (African elephant)	Eukaryota	369	95.4	1866	0.0	88.6
+Q0QEQ3	Q0QEQ3_BALPH	TREMBL	 (Isocitrate dehydrogenase 1) 	Balaenoptera physalus (Fin whale) (Balaena physalus)	Eukaryota	365	95.9	1855	0.0	87.9
+Q0QEQ2	Q0QEQ2_HIPAM	TREMBL	 (Isocitrate dehydrogenase 1) 	Hippopotamus amphibius (Hippopotamus)	Eukaryota	367	95.6	1855	0.0	88.1
+Q0QES0	Q0QES0_TAMTE	TREMBL	 (Isocitrate dehydrogenase 1) 	Tamandua tetradactyla (Southern anteater) (Myrmecophaga tetradactyla)	Eukaryota	371	95.1	1855	0.0	88.4
+A0A0F8AKI4	A0A0F8AKI4_LARCR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Larimichthys crocea (Large yellow croaker) (Pseudosciaena crocea)	Eukaryota	459	83.6	1863	0.0	100.0
+W5L7A5	W5L7A5_ASTMX	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Astyanax mexicanus (Blind cave fish) (Astyanax fasciatus mexicanus)	Eukaryota	415	83.9	1858	0.0	100.0
+A0A0B4KJN8	A0A0B4KJN8_SPAAU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Sparus aurata (Gilthead sea bream)	Eukaryota	414	82.9	1853	0.0	100.0
+B0UXL2	B0UXL2_DANRE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Danio rerio (Zebrafish) (Brachydanio rerio)	Eukaryota	429	82.9	1854	0.0	100.0
+Q802Y2	Q802Y2_DANRE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Danio rerio (Zebrafish) (Brachydanio rerio)	Eukaryota	429	82.7	1853	0.0	100.0
+Q0QES1	Q0QES1_DASNO	TREMBL	 (Isocitrate dehydrogenase 1) 	Dasypus novemcinctus (Nine-banded armadillo)	Eukaryota	367	94.5	1833	0.0	87.9
+S4R485	S4R485_PETMA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Petromyzon marinus (Sea lamprey)	Eukaryota	431	80.8	1826	0.0	100.0
+A0A087URY6	A0A087URY6_9ARAC	TREMBL	 (Isocitrate dehydrogenase [NADP] cytoplasmic) 	Stegodyphus mimosarum	Eukaryota	410	83.0	1817	0.0	98.3
+G3P3D2	G3P3D2_GASAC	TREMBL	 (Uncharacterized protein) 	Gasterosteus aculeatus (Three-spined stickleback)	Eukaryota	417	81.8	1811	0.0	99.0
+H2SPF4	H2SPF4_TAKRU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Takifugu rubripes (Japanese pufferfish) (Fugu rubripes)	Eukaryota	419	81.9	1811	0.0	100.0
+A0A060XIH6	A0A060XIH6_ONCMY	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	Eukaryota	414	80.2	1806	0.0	100.0
+F6NIA7	F6NIA7_DANRE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Danio rerio (Zebrafish) (Brachydanio rerio)	Eukaryota	423	81.4	1805	0.0	100.0
+V9KLN1	V9KLN1_CALMI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Callorhinchus milii (Ghost shark)	Eukaryota	416	81.6	1798	0.0	98.5
+Q4S9Q5	Q4S9Q5_TETNG	TREMBL	 (Chromosome 2 SCAF14695, whole genome shotgun sequence) 	Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis)	Eukaryota	410	81.5	1795	0.0	99.0
+H3D1X0	H3D1X0_TETNG	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis)	Eukaryota	421	81.2	1796	0.0	100.0
+A0A0D3L3H5	A0A0D3L3H5_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Rhinolophus stheno (Lesser brown horseshoe bat)	Eukaryota	346	95.7	1767	0.0	83.5
+A0A0D3L3J4	A0A0D3L3J4_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Rhinolophus rex	Eukaryota	346	95.7	1767	0.0	83.5
+A0A0D3L3K1	A0A0D3L3K1_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Myotis laniger (Chinese water myotis)	Eukaryota	346	95.4	1764	0.0	83.5
+A0A0D3L3H7	A0A0D3L3H7_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Ia io (Great evening bat)	Eukaryota	346	95.4	1762	0.0	83.5
+A0A0D3L3G8	A0A0D3L3G8_TADTE	TREMBL	 (Isocitrate dehydrogenase 1) 	Tadarida teniotis (European free-tailed bat)	Eukaryota	346	95.7	1762	0.0	83.5
+A0A0D3L3J6	A0A0D3L3J6_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Rhinolophus paradoxolophus (Bourret's horseshoe bat)	Eukaryota	345	95.7	1761	0.0	83.3
+A0A0D3L3I9	A0A0D3L3I9_MINSC	TREMBL	 (Isocitrate dehydrogenase 1) 	Miniopterus schreibersii (Schreibers's long-fingered bat)	Eukaryota	346	95.4	1761	0.0	83.5
+A0A0D3L3H4	A0A0D3L3H4_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Rhinolophus sinicus (Chinese rufous horseshoe bat)	Eukaryota	346	95.1	1760	0.0	83.5
+A0A0D3L3G4	A0A0D3L3G4_MYORI	TREMBL	 (Isocitrate dehydrogenase 1) 	Myotis ricketti (Rickett's big-footed bat)	Eukaryota	346	95.4	1758	0.0	83.5
+A0A0D3L3I4	A0A0D3L3I4_RHIHI	TREMBL	 (Isocitrate dehydrogenase 1) 	Rhinolophus hipposideros (Lesser horseshoe bat)	Eukaryota	346	95.1	1756	0.0	83.5
+A0A0D3L3G3	A0A0D3L3G3_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Pipistrellus sp. YPZ-2012	Eukaryota	346	94.8	1754	0.0	83.5
+A0A0D3L3H3	A0A0D3L3H3_RHIMR	TREMBL	 (Isocitrate dehydrogenase 1) 	Rhinolophus macrotis (Big-eared horseshoe bat)	Eukaryota	346	95.1	1753	0.0	83.5
+V4AVE0	V4AVE0_LOTGI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lottia gigantea (Giant owl limpet)	Eukaryota	410	79.9	1758	0.0	98.3
+H2MZY4	H2MZY4_ORYLA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Oryzias latipes (Japanese rice fish) (Japanese killifish)	Eukaryota	383	84.9	1748	0.0	92.5
+A8KB14	A8KB14_DANRE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Danio rerio (Zebrafish) (Brachydanio rerio)	Eukaryota	414	79.3	1751	0.0	100.0
+K1R7T2	K1R7T2_CRAGI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Crassostrea gigas (Pacific oyster) (Crassostrea angulata)	Eukaryota	410	80.2	1747	0.0	97.8
+Q0QER5	Q0QER5_LEPEU	TREMBL	 (Isocitrate dehydrogenase 1) 	Lepus europaeus (European hare)	Eukaryota	332	98.2	1734	0.0	80.1
+A0A0D3L3J9	A0A0D3L3J9_9CHIR	TREMBL	 (Isocitrate dehydrogenase 1) 	Aselliscus stoliczkanus (Stoliczka's Asian trident bat)	Eukaryota	346	94.2	1732	0.0	83.5
+J9JM33	J9JM33_ACYPI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Acyrthosiphon pisum (Pea aphid)	Eukaryota	412	78.5	1737	0.0	98.7
+Q0QES5	Q0QES5_MONDO	TREMBL	 (Isocitrate dehydrogenase 1) 	Monodelphis domestica (Gray short-tailed opossum)	Eukaryota	360	89.1	1728	0.0	86.7
+D6X0W4	D6X0W4_TRICA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tribolium castaneum (Red flour beetle)	Eukaryota	408	79.7	1732	0.0	97.3
+A0A0C5QRX3	A0A0C5QRX3_APHGO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Aphis gossypii (Cotton aphid)	Eukaryota	412	79.1	1732	0.0	98.0
+B3RKG9	B3RKG9_TRIAD	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Trichoplax adhaerens (Trichoplax reptans)	Eukaryota	397	80.1	1728	0.0	95.8
+G3MPQ5	G3MPQ5_9ACAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Amblyomma maculatum (Gulf Coast tick)	Eukaryota	411	78.0	1728	0.0	98.5
+R7URD2	R7URD2_CAPTE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Capitella teleta (Polychaete worm)	Eukaryota	414	77.9	1727	0.0	99.2
+A0A023GMS0	A0A023GMS0_9ACAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Amblyomma triste	Eukaryota	411	78.0	1726	0.0	98.5
+Q0QES4	Q0QES4_DIDVI	TREMBL	 (Isocitrate dehydrogenase 1) 	Didelphis virginiana (North American opossum) (Didelphis marsupialis virginiana)	Eukaryota	362	88.9	1719	0.0	86.7
+I1G131	I1G131_AMPQE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Amphimedon queenslandica (Sponge)	Eukaryota	453	78.6	1728	0.0	99.2
+A0A023FZE4	A0A023FZE4_9ACAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Amblyomma parvum	Eukaryota	411	77.8	1722	0.0	98.5
+L7M8V5	L7M8V5_9ACAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Rhipicephalus pulchellus	Eukaryota	411	78.5	1721	0.0	98.5
+A0A023FMC1	A0A023FMC1_9ACAR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Amblyomma cajennense (Cayenne tick)	Eukaryota	411	77.5	1720	0.0	98.5
+Q09JZ8	Q09JZ8_GRYFI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Gryllus firmus (Sand field cricket)	Eukaryota	410	78.9	1716	0.0	98.0
+A7S378	A7S378_NEMVE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Nematostella vectensis (Starlet sea anemone)	Eukaryota	411	79.3	1716	0.0	97.8
+C3YSJ9	C3YSJ9_BRAFL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Branchiostoma floridae (Florida lancelet) (Amphioxus)	Eukaryota	411	77.1	1714	0.0	98.3
+V5GLZ3	V5GLZ3_ANOGL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anoplophora glabripennis (Asian longhorn beetle) (Anoplophora nobilis)	Eukaryota	408	78.6	1712	0.0	98.0
+A0A084WRY9	A0A084WRY9_ANOSI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anopheles sinensis (Mosquito)	Eukaryota	413	75.4	1712	0.0	100.0
+A0A0K8R4R6	A0A0K8R4R6_IXORI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ixodes ricinus (Common tick)	Eukaryota	412	77.6	1708	0.0	98.5
+Q7Q537	Q7Q537_ANOGA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anopheles gambiae (African malaria mosquito)	Eukaryota	413	75.8	1708	0.0	100.0
+A0A0K8TU47	A0A0K8TU47_TABBR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tabanus bromius (Band-eyed brown horse fly)	Eukaryota	409	78.2	1705	0.0	97.3
+T1KEF0	T1KEF0_TETUR	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Tetranychus urticae (Two-spotted spider mite)	Eukaryota	441	77.6	1708	0.0	98.3
+B7PFJ2	B7PFJ2_IXOSC	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ixodes scapularis (Black-legged tick) (Deer tick)	Eukaryota	412	77.3	1704	0.0	98.5
+A0A0P5TPT8	A0A0P5TPT8_9CRUS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Daphnia magna	Eukaryota	507	77.9	1711	0.0	98.3
+G3P3C8	G3P3C8_GASAC	TREMBL	 (Uncharacterized protein) 	Gasterosteus aculeatus (Three-spined stickleback)	Eukaryota	408	82.8	1700	0.0	91.0
+A0A0K0EX00	A0A0K0EX00_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Strongyloides venezuelensis	Eukaryota	408	80.5	1699	0.0	97.8
+A0A0N5BH99	A0A0N5BH99_STREA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Strongyloides papillosus (Intestinal threadworm)	Eukaryota	408	80.0	1698	0.0	97.8
+E9FRV3	E9FRV3_DAPPU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Daphnia pulex (Water flea)	Eukaryota	408	76.7	1698	0.0	98.3
+A0A090LMU2	A0A090LMU2_STRRB	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Strongyloides ratti (Parasitic roundworm)	Eukaryota	408	79.4	1697	0.0	98.5
+A0A0N8AX40	A0A0N8AX40_9CRUS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Daphnia magna	Eukaryota	430	77.6	1699	0.0	98.0
+A0A016RR36	A0A016RR36_9BILA	TREMBL	 (Uncharacterized protein) 	Ancylostoma ceylanicum	Eukaryota	416	78.2	1697	0.0	98.5
+A0A0P5TRU4	A0A0P5TRU4_9CRUS	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Daphnia magna	Eukaryota	562	77.9	1711	0.0	98.3
+A0A0P5K402	A0A0P5K402_9CRUS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Daphnia magna	Eukaryota	505	77.6	1704	0.0	98.3
+A0A0P6DB63	A0A0P6DB63_9CRUS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Daphnia magna	Eukaryota	507	77.6	1704	0.0	98.3
+A0A0P6AC25	A0A0P6AC25_9CRUS	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Daphnia magna	Eukaryota	532	77.9	1706	0.0	98.3
+A0A0P5J8P5	A0A0P5J8P5_9CRUS	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Daphnia magna	Eukaryota	515	77.6	1704	0.0	98.3
+A0A0N5AYH1	A0A0N5AYH1_9BILA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Syphacia muris	Eukaryota	409	77.3	1693	0.0	97.8
+A0A0P5QUR5	A0A0P5QUR5_9CRUS	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Daphnia magna	Eukaryota	519	77.6	1704	0.0	98.3
+A0A0P5KHD1	A0A0P5KHD1_9CRUS	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Daphnia magna	Eukaryota	521	77.6	1704	0.0	98.3
+A0A0P5RA21	A0A0P5RA21_9CRUS	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Daphnia magna	Eukaryota	522	77.6	1704	0.0	98.3
+T1P7N4	T1P7N4_MUSDO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Musca domestica (House fly)	Eukaryota	409	76.8	1692	0.0	99.0
+A0A0P6DV13	A0A0P6DV13_9CRUS	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Daphnia magna	Eukaryota	469	77.6	1697	0.0	98.3
+F6QFH5	F6QFH5_CIOIN	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ciona intestinalis (Transparent sea squirt) (Ascidia intestinalis)	Eukaryota	414	77.2	1691	0.0	99.2
+A0A0C5CKF5	A0A0C5CKF5_9CARA	TREMBL	 (IDH1 protein) 	Pogonistes gracilis	Eukaryota	408	77.6	1690	0.0	98.3
+A0A0C5CP30	A0A0C5CP30_9CARA	TREMBL	 (IDH1 protein) 	Pogonistes gracilis	Eukaryota	408	77.6	1690	0.0	98.3
+A0A0C5CP39	A0A0C5CP39_9CARA	TREMBL	 (IDH1 protein) 	Pogonus olivaceus	Eukaryota	408	77.6	1690	0.0	98.3
+A0A0C5D1L2	A0A0C5D1L2_9CARA	TREMBL	 (IDH1 protein) 	Pogonus riparius	Eukaryota	408	77.6	1690	0.0	98.3
+A0A0C5CKV9	A0A0C5CKV9_9CARA	TREMBL	 (IDH1 protein) 	Pogonus riparius	Eukaryota	408	77.6	1690	0.0	98.3
+A0A0P6IDN9	A0A0P6IDN9_9CRUS	TREMBL	 (Isocitrate dehydrogenase [NADP], mitochondrial) 	Daphnia magna	Eukaryota	558	77.6	1704	0.0	98.3
+A0A0C5D1E6	A0A0C5D1E6_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	77.4	1688	0.0	98.3
+A0A0C5CKG6	A0A0C5CKG6_9CARA	TREMBL	 (IDH1 protein) 	Pogonus olivaceus	Eukaryota	408	77.6	1688	0.0	98.3
+A0A0C5D1J6	A0A0C5D1J6_9CARA	TREMBL	 (IDH1 protein) 	Pogonus littoralis	Eukaryota	408	77.4	1688	0.0	98.3
+A0A0C5CKU5	A0A0C5CKU5_9CARA	TREMBL	 (IDH1 protein) 	Pogonus luridipennis	Eukaryota	408	77.4	1688	0.0	98.3
+T1DT47	T1DT47_ANOAQ	TREMBL	 (Putative nadp-dependent isocitrate dehydrogenase) 	Anopheles aquasalis (Malaria mosquito)	Eukaryota	410	75.4	1688	0.0	99.2
+A0A0C5D1K8	A0A0C5D1K8_9CARA	TREMBL	 (IDH1 protein) 	Pogonus reticulatus	Eukaryota	408	77.6	1687	0.0	98.3
+A0A0C5CP33	A0A0C5CP33_9CARA	TREMBL	 (IDH1 protein) 	Pogonus luridipennis	Eukaryota	408	77.4	1687	0.0	98.3
+B0VZM6	B0VZM6_CULQU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Culex quinquefasciatus (Southern house mosquito) (Culex pungens)	Eukaryota	409	76.1	1687	0.0	99.0
+F1L9G4	F1L9G4_ASCSU	TREMBL	 (Isocitrate dehydrogenase NADP cytoplasmic) 	Ascaris suum (Pig roundworm) (Ascaris lumbricoides)	Eukaryota	414	76.7	1687	0.0	98.5
+Q0QEQ1	Q0QEQ1_PIG	TREMBL	 (Isocitrate dehydrogenase 1) 	Sus scrofa (Pig)	Eukaryota	359	89.4	1681	0.0	86.2
+A0A0C5CP36	A0A0C5CP36_9CARA	TREMBL	 (IDH1 protein) 	Pogonus meridionalis	Eukaryota	408	77.1	1686	0.0	98.3
+U1MCK9	U1MCK9_ASCSU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Ascaris suum (Pig roundworm) (Ascaris lumbricoides)	Eukaryota	414	76.5	1686	0.0	98.5
+A0A0K8V5S9	A0A0K8V5S9_BACLA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bactrocera latifrons (Malaysian fruit fly) (Chaetodacus latifrons)	Eukaryota	410	75.9	1685	0.0	99.2
+E2BBR3	E2BBR3_HARSA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Harpegnathos saltator (Jerdon's jumping ant)	Eukaryota	442	76.6	1688	0.0	98.0
+A0A0C5CP10	A0A0C5CP10_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	77.1	1683	0.0	98.3
+A0A0C5CGB8	A0A0C5CGB8_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	77.1	1683	0.0	98.3
+A0A0C5CKC5	A0A0C5CKC5_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	77.1	1683	0.0	98.3
+A0A0K8UYM3	A0A0K8UYM3_BACLA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bactrocera latifrons (Malaysian fruit fly) (Chaetodacus latifrons)	Eukaryota	410	75.7	1683	0.0	99.2
+A0A0A1XSM3	A0A0A1XSM3_BACCU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bactrocera cucurbitae (Melon fruit fly) (Dacus cucurbitae)	Eukaryota	410	75.2	1683	0.0	99.2
+A0A0N4Z655	A0A0N4Z655_PARTI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Parastrongyloides trichosuri (Possum-specific nematode worm)	Eukaryota	408	79.0	1682	0.0	97.8
+S4NRX2	S4NRX2_9NEOP	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Pararge aegeria (specked wood butterfly)	Eukaryota	408	76.7	1682	0.0	98.5
+A0A0C5CGG5	A0A0C5CGG5_9CARA	TREMBL	 (IDH1 protein) 	Pogonus gilvipes	Eukaryota	408	77.4	1682	0.0	98.3
+A0A0K0EGJ5	A0A0K0EGJ5_STRER	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Strongyloides stercoralis (Threadworm)	Eukaryota	419	79.8	1683	0.0	97.8
+A0A0K8UQX7	A0A0K8UQX7_BACLA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bactrocera latifrons (Malaysian fruit fly) (Chaetodacus latifrons)	Eukaryota	421	75.7	1683	0.0	99.2
+A0A0C5CNT3	A0A0C5CNT3_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	77.1	1681	0.0	98.3
+A0A0K8VIU0	A0A0K8VIU0_BACLA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bactrocera latifrons (Malaysian fruit fly) (Chaetodacus latifrons)	Eukaryota	437	75.7	1683	0.0	99.2
+A0A0J7L5T7	A0A0J7L5T7_LASNI	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Lasius niger (Black garden ant)	Eukaryota	409	76.0	1680	0.0	98.7
+G6D6W7	G6D6W7_DANPL	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Danaus plexippus (Monarch butterfly)	Eukaryota	408	76.5	1678	0.0	98.5
+A0A0C5CKD6	A0A0C5CKD6_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	76.9	1678	0.0	98.3
+C1C104	C1C104_CALCM	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Caligus clemensi (Sea louse)	Eukaryota	409	75.7	1677	0.0	98.5
+W5JM42	W5JM42_ANODA	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Anopheles darlingi (Mosquito)	Eukaryota	468	74.6	1682	0.0	100.0
+A0A0L0CQS9	A0A0L0CQS9_LUCCU	TREMBL	 (Uncharacterized protein) 	Lucilia cuprina (Green bottle fly) (Australian sheep blowfly)	Eukaryota	451	75.9	1680	0.0	99.0
+A0A0C5CNZ5	A0A0C5CNZ5_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	76.9	1675	0.0	98.3
+A0A0C5CKG7	A0A0C5CKG7_9CARA	TREMBL	 (IDH1 protein) 	Pogonus chalceus	Eukaryota	408	76.9	1675	0.0	98.3
+Q1HQW5	Q1HQW5_AEDAE	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)	Eukaryota	409	75.6	1675	0.0	99.0
+A0A034VXI0	A0A034VXI0_BACDO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bactrocera dorsalis (Oriental fruit fly) (Dacus dorsalis)	Eukaryota	410	75.4	1675	0.0	99.2
+A0A0C9RE92	A0A0C9RE92_9HYME	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Fopius arisanus	Eukaryota	410	75.4	1675	0.0	99.2
+A0A0C5CP27	A0A0C5CP27_9CARA	TREMBL	 (IDH1 protein) 	Pogonus gilvipes	Eukaryota	408	77.1	1674	0.0	98.3
+Q2F681	Q2F681_BOMMO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bombyx mori (Silk moth)	Eukaryota	408	76.7	1674	0.0	98.5
+Q0QEQ7	Q0QEQ7_HORSE	TREMBL	 (Isocitrate dehydrogenase 1) 	Equus caballus (Horse)	Eukaryota	325	96.3	1664	0.0	78.5
+E2AVX9	E2AVX9_CAMFO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Camponotus floridanus (Florida carpenter ant)	Eukaryota	473	77.1	1679	0.0	98.0
+I4DJJ5	I4DJJ5_PAPXU	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Papilio xuthus (Asian swallowtail butterfly)	Eukaryota	408	76.7	1672	0.0	98.5
+H9JBL2	H9JBL2_BOMMO	TREMBL	Isocitrate dehydrogenase [NADP](EC 1.1.1.4) 	Bombyx mori (Silk moth)	Eukaryota	408	76.7	1672	0.0	98.5
