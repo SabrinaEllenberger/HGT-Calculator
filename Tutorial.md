@@ -21,12 +21,15 @@ Other problems can be caused by updates of the UniProt database. This can be fix
 the UniProt JAPI ([uniprot-japi-client.zip][japi]) and copying the unpacked JARs from uniprot-japi-client\lib into your
 \HGT-Calculator_lib.
 
+In order to view the manual (PDF document), you will need to have the free Adobe Acrobat Reader software installed
+on your computer. Users can download the latest version of Adobe Acrobat Reader from https://get.adobe.com/de/reader/.
+
 How to create a new workspace
 -----------------------------
 
-Click on the menu item File > New and choose a directory for creating a new workspace. Enter the name of the start file and
-click on “Create workspace”. Please note: The name of the start file needs to start with “Start_” and ends with “.txt” !  
-&#10141; "Start_Tutorial.txt"
+Click on the menu item File > New and choose a directory for creating a new workspace. The default is the directory containing the HGT-Calculator.jar. Enter the name of the new start file and click on “Create workspace”. Do not select an existing text file! If you want to use an existing start file, copy the text into the new start file of the workspace.  
+Please note: The name of the start file needs to start with “Start_” and ends with “.txt”!  
+&#10141; Enter "Start_Tutorial.txt", click on “Create workspace” and copy the text of the tutorial start file from your browser into the new start file template.
 
 This creates the following workspace architecture:  
 workspace\Data\Download  
@@ -48,6 +51,8 @@ Transfer into > Protozoa
 Protein abbreviations >   
 Prokaryotic organisms >   
 Eukaryotic organisms >  
+
+If the start file template is not opened automatically, because on your computer .txt is not linked with an editor, you have to open it manually and add your information, before you can open this workspace.  
 
 Please note: At the moment, HGT Calculator is only tested for the detection of HGT from bacteria into protozoa!  
 
