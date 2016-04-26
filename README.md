@@ -32,6 +32,10 @@ See the [manual][Manual] for a full description of the tool and the
 [tutorial][Tutorial] for an example run of [HGT Calculator] for isocitrate
 dehydrogenase genes.
 
+In order to view the manual (PDF document), you will need to have the free Adobe
+Acrobat Reader software installed on your computer. Users can download the latest
+version of Adobe Acrobat Reader from https://get.adobe.com/de/reader/.
+
 If you use [HGT Calculator] for your published research, please cite [Ellenberger et al., 2016][HGT Calculator paper1].
 Thank you!
 
