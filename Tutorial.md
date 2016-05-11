@@ -196,7 +196,7 @@ large tree can be split into a eukaryotic and a prokaryotic subtree to exclude a
 [HGT Calculator paper1]: http://zs.thulb.uni-jena.de/servlets/MCRFileNodeServlet/jportal_derivate_00245407/2016ECR0310_Ellenberger%20etal.pdf
 [japi]: http://www.ebi.ac.uk/uniprot/japi/
 [java]: https://java.com/de/download/
-[bat]:https://github.com/SabrinaEllenberger/HGT-Calculator/Start_HGT-Calculator.bat
+[bat]: https://github.com/SabrinaEllenberger/HGT-Calculator/blob/master/Start_HGT-Calculator.bat
 [codonDB]: http://www.kazusa.or.jp/codon
 [CAI]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2684136/pdf/ebo-03-53.pdf
 [ClustalW2]: http://bioinformatics.oxfordjournals.org/content/23/21/2947.full.pdf
