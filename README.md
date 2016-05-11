@@ -45,6 +45,8 @@ executed from the terminal via java -jar HGT-Calculator.jar.
 Please note: Java applications can sometimes generate problems with antivirus
 software and permissions. If so, add HGT-Calculator.jar to the whitelist of your
 antivirus program and change HGT-Calculator.jar to be an executable jar file!
+On Windows you can also use the batch file [Start_HGT-Calculator.bat][bat] to start HGT Calculator.
+
 Other problems can be caused by updates of the UniProt database. This can be fixed
 by downloading the newest version of the UniProt JAPI ([uniprot-japi-client.zip][japi])
 and copying the unpacked JARs from uniprot-japi-client\lib into the directory HGT-Calculator_lib.
@@ -56,3 +58,4 @@ and copying the unpacked JARs from uniprot-japi-client\lib into the directory HG
 [Tutorial]: https://github.com/SabrinaEllenberger/HGT-Calculator/blob/master/Tutorial.md
 [japi]: http://www.ebi.ac.uk/uniprot/japi/
 [Java]: http://java.com/de/download/
+[bat]:https://github.com/SabrinaEllenberger/HGT-Calculator/Start_HGT-Calculator.bat
