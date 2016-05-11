@@ -58,4 +58,4 @@ and copying the unpacked JARs from uniprot-japi-client\lib into the directory HG
 [Tutorial]: https://github.com/SabrinaEllenberger/HGT-Calculator/blob/master/Tutorial.md
 [japi]: http://www.ebi.ac.uk/uniprot/japi/
 [Java]: http://java.com/de/download/
-[bat]:https://github.com/SabrinaEllenberger/HGT-Calculator/Start_HGT-Calculator.bat
+[bat]: https://github.com/SabrinaEllenberger/HGT-Calculator/blob/master/Start_HGT-Calculator.bat
