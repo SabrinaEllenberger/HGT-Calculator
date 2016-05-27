@@ -79,6 +79,23 @@ newest version of the UniProt JAPI ([uniprot-japi-client.zip][japi]), unpack the
 _uniprot-japi-client\lib_ into your _\HGT-Calculator_lib_. Please pay attention that you do not delete the files for Clustal W 
 (clustalw2.exe) and InterProScan (iprscan5_lwp.pl) by accident!
 
+
+How do I select my sequences properly?
+--------------------------------------
+
+You need to start a search always with the **eukaryotic sequences**, because their subtypes are needed for clustering of the prokaryotic protein subtypes. Be sure that the check box "Eukaryotic" is ticked for your first search.
+
+You need to **press enter** after typing your query!
+
+Select only one sequence per organism and protein subtype. Else an error message will occur: "More than one sequence for this subtype". If you want to test multiple sequences, start them in separate data sets. This error can also occure if you clicked twice to save the download list. Than you have to delete the previouse list by hand.
+
+If you have more than one protein subtype, check which of your sequences really belong to the subtype you are interested in. Such multiple sequence types can influence the topology of your trees.
+
+You should select an equal number of prokaryotic and eukaryotic sequences to get a balanced tree.
+
+You need some sequences of multi-cellular eukaryotes as outgroup. Choose sequences for a fungus (_Saccharomyces cerevisiae_), a plant (_Arabidopsis thaliana_), and a metazoon (_Homo sapiens_), if possible.
+
+
 What does the error message "Gene file is missing" mean?
 --------------------------------------------------------
 
@@ -88,6 +105,26 @@ accession numbers later on. Whether they were added properly or not you can chec
 (e.g. "> write missing file: Strigomonas (S9UPN9) | ICDH_1 | Genes"). The complete log file is saved in \workspace\Data\Download\Log\Log_xy.
 
 Another reason for this error could be an **interrupted internet connection** during the download of sequences.
+
+What does the error message "Query sequence nearly identical with prokaryotic sequence" mean?
+---------------------------------------------------------------------------------------------
+
+Such a sequence could be either a real HGT from an endosymbiont into the host or an artefact of the genome sequencing procedure. This needs to be checked. If the gene is located on a scaffold with other eukaryotic genes, it is a HGT. If it is located on a small contig without other genes or only bacterial genes it is more likely an artefact.
+
+
+What does the error message "Server error" in the BLAST frame mean?
+-------------------------------------------------------------------
+
+The BLAST search run on the UniProt database. If too many connections are attempted and time out, this will cause a "500 Internal Server Error." The BLAST search is started again after a short break. Check the BLAST output in "Data\Download\Blast\Blast_xy" if BLAST search of all sequences has been finished.
+
+If the BLAST frame is frozen, stop HGT Calculator via task manager or close the window of the terminal. And start the procedure again.
+
+
+How can I select the single prokaryotic sequence fro my small and single trees?
+-------------------------------------------------------------------------------
+
+To start Clustal W with the default files enter just "**-** > protein" to get the protein trees of your sequences.
+If you want to define the single prokaryotic organism enter "- > protein **# BACSU**" for _Bacillus subtilis_. This is quite helpfull to include endosymbiotic bacteria in the trees. Otherwise, the prokaryotic organism is chosen randomly.
 
 
 Why do I not get trees after starting Clustal W and Neighbor Joining?
