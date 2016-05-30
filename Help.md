@@ -120,6 +120,12 @@ The BLAST search run on the UniProt database. If too many connections are attemp
 If the BLAST frame is frozen, stop HGT Calculator via task manager or close the window of the terminal. And start the procedure again.
 
 
+What does the error message "No codon usage table available for ..." mean?
+--------------------------------------------------------------------------
+
+Sometimes the organism of a sequence got a new species name after creation of the codon usage database in 2007. Therefore, they can not be found. Or the genome has been sequenced later. You can enter an alternative name or the name of a related organism in a pop up window for this.
+
+
 How can I select the single prokaryotic sequence for my small and single trees?
 -------------------------------------------------------------------------------
 
