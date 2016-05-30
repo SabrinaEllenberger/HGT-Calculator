@@ -17,7 +17,7 @@ And an **internet connection** is required to run HGT Calculator.
 
 You have three possibilities to start HGT-Calculator:
 
-1: Start HGT Calculator by double-clicking the downloaded HGT-Calculator.jar
+1: Start HGT Calculator by double-clicking the downloaded HGT-Calculator**.jar**
 
 This works only, if the HGT-Calculator.jar is an **Executable Jar File** on your system and if you have **linked .jar files**
 with your Java(TM) Platform SE binary. Alternatively, you can use decompression software, such as an unzip utility, to view
@@ -26,7 +26,7 @@ select _Choose default program_. In the _Open With_ window, click the _Browse_ b
 need to find the executable file for the software program you want to set as the default program to open the jar file (e.g
 C:\Program Files\7-Zip\7z.exe) or the path to your java installation (e.g. C:\Program Files (x86)\Java\jre1.8.0_91\bin\java.exe).
 
-2: Start HGT Calculator by double-clicking the downloaded batch file [Start_HGT-Calculator.bat][bat]
+2: Start HGT Calculator by double-clicking the downloaded batch file [Start_HGT-Calculator**.bat**][bat]
 
 The batch file needs to be saved at the **same location** of your workspace as HGT-Calculator.jar and the file folder HGT-Calculator_lib.
 This works only on Windows.
@@ -91,7 +91,7 @@ Select only one sequence per organism and protein subtype. Else an error message
 
 If you have more than one protein subtype, check which of your sequences really belong to the subtype you are interested in. Such multiple sequence types can influence the topology of your trees.
 
-You should select an equal number of prokaryotic and eukaryotic sequences to get a balanced tree.
+You should select at least an equal number of prokaryotic and eukaryotic sequences to get a balanced tree. A higher number of prokaryotic sequences would be better.
 
 You need some sequences of multi-cellular eukaryotes as outgroup. Choose sequences for a fungus (_Saccharomyces cerevisiae_), a plant (_Arabidopsis thaliana_), and a metazoon (_Homo sapiens_), if possible.
 
@@ -120,11 +120,11 @@ The BLAST search run on the UniProt database. If too many connections are attemp
 If the BLAST frame is frozen, stop HGT Calculator via task manager or close the window of the terminal. And start the procedure again.
 
 
-How can I select the single prokaryotic sequence fro my small and single trees?
+How can I select the single prokaryotic sequence for my small and single trees?
 -------------------------------------------------------------------------------
 
-To start Clustal W with the default files enter just "**-** > protein" to get the protein trees of your sequences.
-If you want to define the single prokaryotic organism enter "- > protein **# BACSU**" for _Bacillus subtilis_. This is quite helpfull to include endosymbiotic bacteria in the trees. Otherwise, the prokaryotic organism is chosen randomly.
+To start Clustal W with the default files enter just "**-** > protein" to get the protein trees of your sequences. To start Clustal W with specific files, enter "**path_to_euk_seq.txt; path_to_prok_seq.txt** > protein", for example, "DownloadList_ICDH.txt; DownloadList_ICDH_prok.txt > protein".
+If you want to define the single prokaryotic organism enter, for example, "- > protein **# BACSU**" for _Bacillus subtilis_. This is quite helpfull to include endosymbiotic bacteria in the trees. Otherwise, the prokaryotic organism is chosen randomly.
 
 
 Why do I not get trees after starting Clustal W and Neighbor Joining?
