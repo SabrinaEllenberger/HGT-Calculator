@@ -123,8 +123,7 @@ If the BLAST frame is frozen, stop HGT Calculator via task manager or close the 
 What does the error message "No codon usage table available for ..." mean?
 --------------------------------------------------------------------------
 
-Sometimes the organism of a sequence got a new species name after creation of the codon usage database in 2007. Therefore, they can not be found. Or the genome has been sequenced later. You can enter an alternative name or the name of a related organism in a pop up window for this.
-
+Sometimes the organism of a sequence got a new species name after creation of the Codon Usage Database in 2007. Therefore, they can not be found. Or the genome has been sequenced later. You can enter an alternative or related organism in a pop up window for this. **Please enter the taxon identifier (NCBI) and not the species name. Maybe you have to look at the [Codon Usage Database][cut] to find a suitable organism. You can also use your own codon usage tables if they have the same format.
 
 How can I select the single prokaryotic sequence for my small and single trees?
 -------------------------------------------------------------------------------
@@ -155,3 +154,4 @@ Check if there are any trees in your workspace under "Data\Download\Newick\Newic
 [bat]: https://github.com/SabrinaEllenberger/HGT-Calculator/blob/master/Start_HGT-Calculator.bat
 [japi]: http://www.ebi.ac.uk/uniprot/japi/
 [zip]: https://github.com/SabrinaEllenberger/HGT-Calculator/blob/master/HGT-Calculator.zip
+[cut]: http://www.kazusa.or.jp/codon/
