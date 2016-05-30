@@ -8,12 +8,12 @@ Here, we demonstrate the workflow of the algorithm of [Ellenberger et al., 2016]
 genes for isocitrate dehydrogenase. We chose isocitrate dehydrogenase as illustrative example, because it is an essential part
 of the citric acid cycle in pro- and eukaryotes, and consequently occurs in all organisms of our test data set.
 
-Download HGT-Calculator.jar + HGT-Calculator_lib and save them at the same location of your workspace.  
+Download HGT-Calculator.zip and unpack it. Save HGT-Calculator.jar and the file folder HGT-Calculator_lib at the same location of your workspace.  
 Start HGT Calculator by a double click on the downloaded HGT-Calculator.jar or execute the file from the terminal via
 
 java -jar HGT-Calculator.jar.
 
-You will need a Java 8 SDK installation (a distribution can be downloaded from [Oracle][java]) and an internet connection to run HGT Calculator.
+You will need a Java 8 installation (a distribution can be downloaded from [Oracle][java]) and an internet connection to run HGT Calculator.
 Please note: Java applications can sometimes generate problems with antivirus software and permissions. If so, add
 HGT-Calculator.jar to the whitelist of your antivirus program and change HGT-Calculator.jar to be an executable jar file!
 On Windows you can also use the batch file [Start_HGT-Calculator.bat][bat] to start HGT Calculator.
