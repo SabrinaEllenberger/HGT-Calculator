@@ -24,7 +24,7 @@ events, going back to the ancestors of organelles.
 
 [HGT Calculator] is distributed under the [GPLv3 license][GPLv3 license],
 and runs under Windows and Linux.
-Please make sure your local workstation has a Java 8 SDK installation
+Please make sure your local workstation has a Java 8 installation
 (a distribution can be downloaded from [Oracle][Java]) and availability of
 an internet connection.
 
