@@ -3,8 +3,14 @@ Help
 
 This contains short instructions and some frequently asked questions concerning the usage of HGT Calculator.
 
-Why does the program not start?
--------------------------------
+How do I get the program?
+-------------------------
+
+You can download HGT Calculator from this GitHub repository. Select HGT-Calculator.zip, click on the button "Raw" and select "Save File". Then you can find the .zip in your download folder.
+
+
+How do I start the program?
+---------------------------
 
 You have to download HGT-Calculator.zip and **unpack** it.
 
@@ -28,7 +34,7 @@ C:\Program Files\7-Zip\7z.exe) or the path to your java installation (e.g. C:\Pr
 
 2: Start HGT Calculator by double-clicking the downloaded batch file [Start_HGT-Calculator**.bat**][bat]
 
-The batch file needs to be saved at the **same location** of your workspace as HGT-Calculator.jar and the file folder HGT-Calculator_lib.
+The batch file is included in HGT-Calculator.zip and needs to be saved at the **same location** of your workspace as HGT-Calculator.jar and the file folder HGT-Calculator_lib.
 This works only on Windows.
 
 3: Execute the file from the terminal
